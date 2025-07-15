@@ -1,0 +1,81 @@
+2025-07-14 18:41:40,517 - INFO - Modo de Operação: TESTNET
+2025-07-14 18:41:40,517 - INFO - Base URL: https://api.binance.com/api/v3
+2025-07-14 18:41:40,517 - INFO - --- Bot Iniciado ---
+2025-07-14 18:41:40,517 - ERROR - Ocorreu um erro crítico e inesperado no bot: module 'settings' has no attribute 'API_KEY'
+Traceback (most recent call last):
+  File "C:\Users\biell\OneDrive\Área de Trabalho\sniper\main_bot.py", line 75, in run_bot
+    binance_client = BinanceClient()
+  File "C:\Users\biell\OneDrive\Área de Trabalho\sniper\binance_utils.py", line 12, in __init__
+    self.api_key = settings.API_KEY
+AttributeError: module 'settings' has no attribute 'API_KEY'
+2025-07-14 18:49:04,596 - INFO - Modo de Operação: TESTNET
+2025-07-14 18:49:04,597 - INFO - Base URL: https://api.binance.com/api/v3
+2025-07-14 18:49:04,598 - INFO - --- Bot Iniciado ---
+2025-07-14 18:49:04,598 - ERROR - Ocorreu um erro crítico e inesperado no bot: module 'settings' has no attribute 'TESTNET_BASE_URL'
+Traceback (most recent call last):
+  File "C:\Users\biell\OneDrive\Área de Trabalho\sniper\main_bot.py", line 75, in run_bot
+    binance_client = BinanceClient()
+  File "C:\Users\biell\OneDrive\Área de Trabalho\sniper\binance_utils.py", line 16, in __init__
+    self.base_url = settings.TESTNET_BASE_URL if settings.TESTNET_MODE else settings.BASE_URL
+AttributeError: module 'settings' has no attribute 'TESTNET_BASE_URL'
+2025-07-14 18:49:57,001 - INFO - Modo de Operação: TESTNET
+2025-07-14 18:49:57,001 - INFO - Base URL: https://api.binance.com/api/v3
+2025-07-14 18:49:57,002 - INFO - --- Bot Iniciado ---
+2025-07-14 18:49:57,003 - ERROR - Ocorreu um erro crítico e inesperado no bot: module 'settings' has no attribute 'TESTNET_BASE_URL'
+Traceback (most recent call last):
+  File "C:\Users\biell\OneDrive\Área de Trabalho\sniper\main_bot.py", line 75, in run_bot
+    binance_client = BinanceClient()
+  File "C:\Users\biell\OneDrive\Área de Trabalho\sniper\binance_utils.py", line 16, in __init__
+    self.base_url = settings.TESTNET_BASE_URL if settings.TESTNET_MODE else settings.BASE_URL
+AttributeError: module 'settings' has no attribute 'TESTNET_BASE_URL'
+2025-07-14 18:50:57,971 - INFO - Modo de Operação: TESTNET
+2025-07-14 18:50:57,972 - INFO - Base URL: https://api.binance.com/api/v3
+2025-07-14 18:50:57,972 - INFO - --- Bot Iniciado ---
+2025-07-14 18:50:57,973 - INFO - BinanceClient inicializado com base URL: https://testnet.binance.vision/api/v3
+2025-07-14 18:50:57,973 - INFO - Estratégia de Trading inicializada.
+2025-07-14 18:50:57,974 - INFO - --- Ciclo de Verificação Iniciado ---
+2025-07-14 18:50:59,227 - ERROR - Erro ao obter tempo do servidor da Binance: 404 Client Error: Not Found for url: https://testnet.binance.vision/api/v3/api/v3/time
+2025-07-14 18:50:59,228 - ERROR - Erro ao obter saldo da conta (USDT): None
+2025-07-14 18:50:59,228 - ERROR - Não foi possível obter saldo USDT. Pulando ciclo atual.
+2025-07-14 18:51:20,546 - INFO - Bot encerrado pelo usuário (Ctrl+C).
+2025-07-14 18:53:25,982 - INFO - Modo de Operação: TESTNET
+2025-07-14 18:53:25,983 - INFO - Base URL: https://api.binance.com/api/v3
+2025-07-14 18:53:25,984 - INFO - --- Bot Iniciado ---
+2025-07-14 18:53:25,984 - INFO - BinanceClient inicializado com base URL: https://testnet.binance.vision/api/v3
+2025-07-14 18:53:25,984 - INFO - Estratégia de Trading inicializada.
+2025-07-14 18:53:25,985 - INFO - --- Ciclo de Verificação Iniciado ---
+2025-07-14 18:53:27,098 - ERROR - Erro ao obter tempo do servidor da Binance: 404 Client Error: Not Found for url: https://testnet.binance.vision/api/v3/api/v3/time
+2025-07-14 18:53:27,100 - ERROR - Erro ao obter saldo da conta (USDT): None
+2025-07-14 18:53:27,100 - ERROR - Não foi possível obter saldo USDT. Pulando ciclo atual.
+2025-07-14 18:53:31,884 - INFO - Bot encerrado pelo usuário (Ctrl+C).
+2025-07-14 18:56:12,267 - INFO - Modo de Operação: TESTNET
+2025-07-14 18:56:12,267 - INFO - Base URL: https://api.binance.com/api/v3
+2025-07-14 18:56:12,267 - INFO - --- Bot Iniciado ---
+2025-07-14 18:56:12,267 - INFO - BinanceClient inicializado com base URL: https://testnet.binance.vision
+2025-07-14 18:56:12,267 - INFO - Estratégia de Trading inicializada.
+2025-07-14 18:56:12,267 - INFO - --- Ciclo de Verificação Iniciado ---
+2025-07-14 18:56:13,981 - INFO - Saldo de USDT obtido: 10000.0000
+2025-07-14 18:56:13,983 - INFO - Posições atualmente rastreadas: []
+2025-07-14 18:56:13,984 - INFO - Saldo USDT disponível: 10000.0000
+2025-07-14 18:56:13,984 - INFO - Analisando símbolo: BTCUSDT
+2025-07-14 18:56:15,046 - ERROR - Ocorreu um erro crítico e inesperado no bot: cannot unpack non-iterable NoneType object
+Traceback (most recent call last):
+  File "C:\Users\biell\OneDrive\Área de Trabalho\sniper\main_bot.py", line 127, in run_bot
+    positions_to_close_for_symbol, potential_buy_signal_for_symbol = trading_strategy.execute_strategy_cycle(
+TypeError: cannot unpack non-iterable NoneType object
+2025-07-14 19:29:09,128 - INFO - Modo de Operação: TESTNET
+2025-07-14 19:29:09,129 - INFO - Base URL: https://api.binance.com/api/v3
+2025-07-14 19:29:09,133 - INFO - --- Bot Iniciado ---
+2025-07-14 19:29:09,133 - INFO - BinanceClient inicializado com base URL: https://testnet.binance.vision
+2025-07-14 19:29:09,133 - INFO - Estratégia de Trading inicializada.
+2025-07-14 19:29:09,134 - INFO - --- Ciclo de Verificação Iniciado ---
+2025-07-14 19:29:10,134 - INFO - Saldo de USDT obtido: 10000.0000
+2025-07-14 19:29:10,135 - INFO - Posições atualmente rastreadas: []
+2025-07-14 19:29:10,135 - INFO - Saldo USDT disponível: 10000.0000
+2025-07-14 19:29:10,136 - INFO - Analisando símbolo: BTCUSDT
+2025-07-14 19:29:10,697 - INFO - Analisando símbolo: ETHUSDT
+2025-07-14 19:29:11,233 - INFO - Analisando símbolo: LTCUSDT
+2025-07-14 19:29:11,668 - INFO - Sinais de compra potenciais encontrados (ordenados por score): []
+2025-07-14 19:29:11,668 - INFO - Nenhuma modificação nas posições neste ciclo.
+2025-07-14 19:29:11,668 - INFO - --- Ciclo de Verificação Concluído. Aguardando 60 segundos ---
+2025-07-14 19:29:16,043 - INFO - Bot encerrado pelo usuário (Ctrl+C).

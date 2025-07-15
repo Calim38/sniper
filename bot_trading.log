@@ -1,0 +1,7 @@
+2025-07-09 23:25:19,643 - INFO - Binance client initialized. Testnet mode: True.
+2025-07-09 23:25:19,644 - INFO - Estratégia de Trading inicializada.
+2025-07-09 23:25:19,644 - INFO - Backtester inicializado com capital: 1000.0 USDT.
+2025-07-09 23:25:19,645 - INFO - Iniciando backtest para BTCUSDT no intervalo 1d de 2025-05-01 00:00:00 até 2025-07-09 23:59:59
+2025-07-09 23:25:19,645 - INFO - Baixando klines históricos para BTCUSDT (1d) de 2025-05-01 00:00:00 até 2025-07-09 23:59:59...
+2025-07-09 23:25:20,561 - INFO - Baixados 8 klines históricos para BTCUSDT (1d) de 02 Jul, 2025 a 09 Jul, 2025.
+2025-07-09 23:25:20,561 - INFO - DataFrame de klines carregado. Total de 8 velas.

@@ -1,0 +1,139 @@
+2025-07-10 09:49:54,083 - INFO - Logging configurado.
+2025-07-10 09:49:54,083 - INFO - Estratégia de Trading inicializada.
+2025-07-10 09:49:54,083 - INFO - Backtester inicializado com capital: 10000.00 USDT.
+2025-07-10 09:49:54,083 - INFO - Iniciando backtest para BTCUSDT no intervalo 1h de 2023-01-01 00:00:00 até 2023-12-31 23:59:59
+2025-07-10 09:49:54,083 - INFO - Tentando carregar dados históricos para BTCUSDT (1h) de CSV...
+2025-07-10 09:49:54,120 - INFO - Dados carregados de data\BTCUSDT_1h_historical.csv
+2025-07-10 09:49:54,120 - WARNING - Dados CSV incompletos ou não encontrados para o período solicitado. Iniciando coleta de novos dados.
+2025-07-10 09:49:55,173 - INFO - Buscando klines para BTCUSDT de 2023-01-01 00:00:00...
+2025-07-10 09:49:56,344 - INFO - Buscando klines para BTCUSDT de 2023-02-11 23:00:00...
+2025-07-10 09:49:56,866 - INFO - Buscando klines para BTCUSDT de 2023-03-25 15:00:00...
+2025-07-10 09:49:57,381 - INFO - Buscando klines para BTCUSDT de 2023-05-06 07:00:00...
+2025-07-10 09:49:57,902 - INFO - Buscando klines para BTCUSDT de 2023-06-16 23:00:00...
+2025-07-10 09:49:58,432 - INFO - Buscando klines para BTCUSDT de 2023-07-28 15:00:00...
+2025-07-10 09:49:58,952 - INFO - Buscando klines para BTCUSDT de 2023-09-08 07:00:00...
+2025-07-10 09:49:59,475 - INFO - Buscando klines para BTCUSDT de 2023-10-19 23:00:00...
+2025-07-10 09:50:00,000 - INFO - Buscando klines para BTCUSDT de 2023-11-30 15:00:00...
+2025-07-10 09:50:00,569 - INFO - Período final do backtest atingido. Finalizando coleta de dados.
+2025-07-10 09:50:00,619 - INFO - Coleta de dados concluída. Total de 9000 velas para BTCUSDT.
+2025-07-10 09:50:00,712 - INFO - Dados salvos em data\BTCUSDT_1h_historical.csv
+2025-07-10 09:50:00,713 - INFO - Novos dados coletados e salvos para BTCUSDT (1h).
+2025-07-10 09:50:00,716 - INFO - DataFrame de klines carregado. Total de 8750 velas.
+2025-07-10 09:52:27,747 - INFO - Logging configurado.
+2025-07-10 09:52:27,747 - INFO - Estratégia de Trading inicializada.
+2025-07-10 09:52:27,747 - INFO - Backtester inicializado com capital: 10000.00 USDT.
+2025-07-10 09:52:27,763 - INFO - Iniciando backtest para BTCUSDT no intervalo 1h de 2023-01-01 00:00:00 até 2023-12-31 23:59:59
+2025-07-10 09:52:27,763 - INFO - Tentando carregar dados históricos para BTCUSDT (1h) de CSV...
+2025-07-10 09:52:27,788 - INFO - Dados carregados de data\BTCUSDT_1h_historical.csv
+2025-07-10 09:52:27,788 - WARNING - Dados CSV incompletos ou não encontrados para o período solicitado. Iniciando coleta de novos dados.
+2025-07-10 09:52:28,381 - INFO - Buscando klines para BTCUSDT de 2023-01-01 00:00:00...
+2025-07-10 09:52:29,115 - INFO - Buscando klines para BTCUSDT de 2023-02-11 23:00:00...
+2025-07-10 09:52:30,097 - INFO - Buscando klines para BTCUSDT de 2023-03-25 15:00:00...
+2025-07-10 09:52:30,630 - INFO - Buscando klines para BTCUSDT de 2023-05-06 07:00:00...
+2025-07-10 09:52:31,165 - INFO - Buscando klines para BTCUSDT de 2023-06-16 23:00:00...
+2025-07-10 09:52:31,677 - INFO - Buscando klines para BTCUSDT de 2023-07-28 15:00:00...
+2025-07-10 09:52:32,212 - INFO - Buscando klines para BTCUSDT de 2023-09-08 07:00:00...
+2025-07-10 09:52:32,744 - INFO - Buscando klines para BTCUSDT de 2023-10-19 23:00:00...
+2025-07-10 09:52:33,271 - INFO - Buscando klines para BTCUSDT de 2023-11-30 15:00:00...
+2025-07-10 09:52:33,804 - INFO - Período final do backtest atingido. Finalizando coleta de dados.
+2025-07-10 09:52:33,866 - INFO - Coleta de dados concluída. Total de 9000 velas para BTCUSDT.
+2025-07-10 09:52:33,947 - INFO - Dados salvos em data\BTCUSDT_1h_historical.csv
+2025-07-10 09:52:33,947 - INFO - Novos dados coletados e salvos para BTCUSDT (1h).
+2025-07-10 09:52:33,963 - INFO - DataFrame de klines carregado. Total de 8750 velas.
+2025-07-10 09:52:37,586 - INFO - SINAL DE COMPRA para BTCUSDT @ 23413.5700. Quantidade: 0.4057. Capital: 10000.00
+2025-07-10 09:52:37,586 - INFO - [Backtest] COMPRA EXECUTADA: 0.4057 BTCUSDT @ 23413.5700. Capital restante: 500.00
+2025-07-10 09:52:37,602 - INFO - STOP LOSS ativado para BTCUSDT @ 22163.5600. Preço de entrada: 23413.5700. Stop: 22945.2986
+2025-07-10 09:52:37,637 - INFO - TRAILING STOP ativado para BTCUSDT @ 22163.5600. High Anterior: 23424.1700. Trailing Stop Limite: 23072.8074
+2025-07-10 09:52:37,637 - INFO - [Backtest] VENDA EXECUTADA: 0.4057 BTCUSDT @ 22163.5600. PnL: -507.19 (-5.34%). Razão: Stop Loss. Capital atual: 9492.81
+2025-07-10 09:52:39,483 - INFO - SINAL DE COMPRA para BTCUSDT @ 28619.9100. Quantidade: 0.3151. Capital: 9492.81
+2025-07-10 09:52:39,483 - INFO - [Backtest] COMPRA EXECUTADA: 0.3151 BTCUSDT @ 28619.9100. Capital restante: 474.64
+2025-07-10 09:52:39,523 - INFO - TRAILING STOP ativado para BTCUSDT @ 28295.7500. High Anterior: 28776.2700. Trailing Stop Limite: 28344.6260
+2025-07-10 09:52:39,523 - INFO - [Backtest] VENDA EXECUTADA: 0.3151 BTCUSDT @ 28295.7500. PnL: -102.14 (-1.13%). Razão: Trailing Stop. Capital atual: 9390.67
+2025-07-10 09:52:40,276 - INFO - SINAL DE COMPRA para BTCUSDT @ 28207.2800. Quantidade: 0.3163. Capital: 9390.67
+2025-07-10 09:52:40,276 - INFO - [Backtest] COMPRA EXECUTADA: 0.3163 BTCUSDT @ 28207.2800. Capital restante: 469.53
+2025-07-10 09:52:40,292 - INFO - SINAL DE VENDA (RSI sobrecomprado) para BTCUSDT @ 29036.7500.
+2025-07-10 09:52:40,292 - INFO - [Backtest] VENDA EXECUTADA: 0.3163 BTCUSDT @ 29036.7500. PnL: 262.34 (2.94%). Razão: RSI Sobrecomprado. Capital atual: 9653.01
+2025-07-10 09:52:41,444 - INFO - SINAL DE COMPRA para BTCUSDT @ 28743.5900. Quantidade: 0.3190. Capital: 9653.01
+2025-07-10 09:52:41,444 - INFO - [Backtest] COMPRA EXECUTADA: 0.3190 BTCUSDT @ 28743.5900. Capital restante: 482.65
+2025-07-10 09:52:41,467 - INFO - TRAILING STOP ativado para BTCUSDT @ 28799.3900. High Anterior: 29274.4000. Trailing Stop Limite: 28835.2840
+2025-07-10 09:52:41,467 - INFO - [Backtest] VENDA EXECUTADA: 0.3190 BTCUSDT @ 28799.3900. PnL: 17.80 (0.19%). Razão: Trailing Stop. Capital atual: 9670.81
+2025-07-10 09:52:42,146 - INFO - SINAL DE COMPRA para BTCUSDT @ 29176.4100. Quantidade: 0.3149. Capital: 9670.81
+2025-07-10 09:52:42,146 - INFO - [Backtest] COMPRA EXECUTADA: 0.3149 BTCUSDT @ 29176.4100. Capital restante: 483.54
+2025-07-10 09:52:42,205 - INFO - TRAILING STOP ativado para BTCUSDT @ 29354.3700. High Anterior: 29831.4100. Trailing Stop Limite: 29383.9388
+2025-07-10 09:52:42,205 - INFO - [Backtest] VENDA EXECUTADA: 0.3149 BTCUSDT @ 29354.3700. PnL: 56.04 (0.61%). Razão: Trailing Stop. Capital atual: 9726.84
+2025-07-10 09:52:43,075 - INFO - SINAL DE COMPRA para BTCUSDT @ 26949.5000. Quantidade: 0.3429. Capital: 9726.84
+2025-07-10 09:52:43,075 - INFO - [Backtest] COMPRA EXECUTADA: 0.3429 BTCUSDT @ 26949.5000. Capital restante: 486.34
+2025-07-10 09:52:43,112 - INFO - TRAILING STOP ativado para BTCUSDT @ 26812.8600. High Anterior: 27231.8000. Trailing Stop Limite: 26823.3230
+2025-07-10 09:52:43,112 - INFO - [Backtest] VENDA EXECUTADA: 0.3429 BTCUSDT @ 26812.8600. PnL: -46.85 (-0.51%). Razão: Trailing Stop. Capital atual: 9679.99
+2025-07-10 09:52:43,194 - INFO - SINAL DE COMPRA para BTCUSDT @ 27409.0600. Quantidade: 0.3355. Capital: 9679.99
+2025-07-10 09:52:43,194 - INFO - [Backtest] COMPRA EXECUTADA: 0.3355 BTCUSDT @ 27409.0600. Capital restante: 484.00
+2025-07-10 09:52:43,234 - INFO - STOP LOSS ativado para BTCUSDT @ 26489.0300. Preço de entrada: 27409.0600. Stop: 26860.8788
+2025-07-10 09:52:43,234 - INFO - TRAILING STOP ativado para BTCUSDT @ 26489.0300. High Anterior: 27467.3700. Trailing Stop Limite: 27055.3594
+2025-07-10 09:52:43,234 - INFO - [Backtest] VENDA EXECUTADA: 0.3355 BTCUSDT @ 26489.0300. PnL: -308.68 (-3.36%). Razão: Stop Loss. Capital atual: 9371.31
+2025-07-10 09:52:43,637 - INFO - SINAL DE COMPRA para BTCUSDT @ 27156.6400. Quantidade: 0.3278. Capital: 9371.31
+2025-07-10 09:52:43,637 - INFO - [Backtest] COMPRA EXECUTADA: 0.3278 BTCUSDT @ 27156.6400. Capital restante: 468.57
+2025-07-10 09:52:43,654 - INFO - TRAILING STOP ativado para BTCUSDT @ 26778.7100. High Anterior: 27191.5200. Trailing Stop Limite: 26783.6472
+2025-07-10 09:52:43,655 - INFO - [Backtest] VENDA EXECUTADA: 0.3278 BTCUSDT @ 26778.7100. PnL: -123.90 (-1.39%). Razão: Trailing Stop. Capital atual: 9247.42
+2025-07-10 09:52:45,433 - INFO - SINAL DE COMPRA para BTCUSDT @ 26509.9000. Quantidade: 0.3314. Capital: 9247.42
+2025-07-10 09:52:45,433 - INFO - [Backtest] COMPRA EXECUTADA: 0.3314 BTCUSDT @ 26509.9000. Capital restante: 462.37
+2025-07-10 09:52:45,532 - INFO - SINAL DE VENDA (RSI sobrecomprado) para BTCUSDT @ 26614.1000.
+2025-07-10 09:52:45,532 - INFO - [Backtest] VENDA EXECUTADA: 0.3314 BTCUSDT @ 26614.1000. PnL: 34.53 (0.39%). Razão: RSI Sobrecomprado. Capital atual: 9281.95
+2025-07-10 09:52:46,443 - INFO - SINAL DE COMPRA para BTCUSDT @ 30369.0800. Quantidade: 0.2904. Capital: 9281.95
+2025-07-10 09:52:46,443 - INFO - [Backtest] COMPRA EXECUTADA: 0.2904 BTCUSDT @ 30369.0800. Capital restante: 464.10
+2025-07-10 09:52:46,486 - INFO - SINAL DE VENDA (RSI sobrecomprado) para BTCUSDT @ 30415.0100.
+2025-07-10 09:52:46,486 - INFO - [Backtest] VENDA EXECUTADA: 0.2904 BTCUSDT @ 30415.0100. PnL: 13.34 (0.15%). Razão: RSI Sobrecomprado. Capital atual: 9295.28
+2025-07-10 09:52:47,324 - INFO - SINAL DE COMPRA para BTCUSDT @ 30750.0000. Quantidade: 0.2872. Capital: 9295.28
+2025-07-10 09:52:47,324 - INFO - [Backtest] COMPRA EXECUTADA: 0.2872 BTCUSDT @ 30750.0000. Capital restante: 464.76
+2025-07-10 09:52:47,324 - INFO - SINAL DE VENDA (RSI sobrecomprado) para BTCUSDT @ 30730.0000.
+2025-07-10 09:52:47,324 - INFO - [Backtest] VENDA EXECUTADA: 0.2872 BTCUSDT @ 30730.0000. PnL: -5.74 (-0.07%). Razão: RSI Sobrecomprado. Capital atual: 9289.54
+2025-07-10 09:52:49,055 - INFO - SINAL DE COMPRA para BTCUSDT @ 29254.6900. Quantidade: 0.3017. Capital: 9289.54
+2025-07-10 09:52:49,055 - INFO - [Backtest] COMPRA EXECUTADA: 0.3017 BTCUSDT @ 29254.6900. Capital restante: 464.48
+2025-07-10 09:52:49,094 - INFO - SINAL DE VENDA (cruzamento SMA) para BTCUSDT @ 29204.0600.
+2025-07-10 09:52:49,094 - INFO - [Backtest] VENDA EXECUTADA: 0.3017 BTCUSDT @ 29204.0600. PnL: -15.27 (-0.17%). Razão: Cruzamento SMA de Baixa. Capital atual: 9274.27
+2025-07-10 09:52:50,825 - INFO - SINAL DE COMPRA para BTCUSDT @ 26043.0000. Quantidade: 0.3383. Capital: 9274.27
+2025-07-10 09:52:50,825 - INFO - [Backtest] COMPRA EXECUTADA: 0.3383 BTCUSDT @ 26043.0000. Capital restante: 463.71
+2025-07-10 09:52:50,848 - INFO - SINAL DE VENDA (cruzamento SMA) para BTCUSDT @ 26079.2000.
+2025-07-10 09:52:50,848 - INFO - [Backtest] VENDA EXECUTADA: 0.3383 BTCUSDT @ 26079.2000. PnL: 12.25 (0.14%). Razão: Cruzamento SMA de Baixa. Capital atual: 9286.52
+2025-07-10 09:52:51,963 - INFO - SINAL DE COMPRA para BTCUSDT @ 25807.1500. Quantidade: 0.3419. Capital: 9286.52
+2025-07-10 09:52:51,963 - INFO - [Backtest] COMPRA EXECUTADA: 0.3419 BTCUSDT @ 25807.1500. Capital restante: 464.33
+2025-07-10 09:52:52,132 - INFO - SINAL DE VENDA (cruzamento SMA) para BTCUSDT @ 25694.9700.
+2025-07-10 09:52:52,133 - INFO - [Backtest] VENDA EXECUTADA: 0.3419 BTCUSDT @ 25694.9700. PnL: -38.35 (-0.43%). Razão: Cruzamento SMA de Baixa. Capital atual: 9248.17
+2025-07-10 09:52:52,384 - INFO - SINAL DE COMPRA para BTCUSDT @ 26117.6200. Quantidade: 0.3364. Capital: 9248.17
+2025-07-10 09:52:52,384 - INFO - [Backtest] COMPRA EXECUTADA: 0.3364 BTCUSDT @ 26117.6200. Capital restante: 462.41
+2025-07-10 09:52:52,384 - INFO - SINAL DE VENDA (RSI sobrecomprado) para BTCUSDT @ 26239.9900.
+2025-07-10 09:52:52,384 - INFO - [Backtest] VENDA EXECUTADA: 0.3364 BTCUSDT @ 26239.9900. PnL: 41.16 (0.47%). Razão: RSI Sobrecomprado. Capital atual: 9289.33
+2025-07-10 09:52:57,683 - INFO - SINAL DE COMPRA para BTCUSDT @ 36391.4400. Quantidade: 0.2425. Capital: 9289.33
+2025-07-10 09:52:57,683 - INFO - [Backtest] COMPRA EXECUTADA: 0.2425 BTCUSDT @ 36391.4400. Capital restante: 464.47
+2025-07-10 09:52:57,698 - INFO - TRAILING STOP ativado para BTCUSDT @ 36005.8200. High Anterior: 36614.4800. Trailing Stop Limite: 36065.2628
+2025-07-10 09:52:57,698 - INFO - [Backtest] VENDA EXECUTADA: 0.2425 BTCUSDT @ 36005.8200. PnL: -93.51 (-1.06%). Razão: Trailing Stop. Capital atual: 9195.82
+2025-07-10 09:52:58,695 - INFO - SINAL DE COMPRA para BTCUSDT @ 37949.8500. Quantidade: 0.2302. Capital: 9195.82
+2025-07-10 09:52:58,695 - INFO - [Backtest] COMPRA EXECUTADA: 0.2302 BTCUSDT @ 37949.8500. Capital restante: 459.79
+2025-07-10 09:52:58,731 - INFO - TRAILING STOP ativado para BTCUSDT @ 37846.2100. High Anterior: 38432.9100. Trailing Stop Limite: 37856.4163
+2025-07-10 09:52:58,731 - INFO - [Backtest] VENDA EXECUTADA: 0.2302 BTCUSDT @ 37846.2100. PnL: -23.86 (-0.27%). Razão: Trailing Stop. Capital atual: 9171.96
+2025-07-10 09:53:00,522 - INFO - SINAL DE COMPRA para BTCUSDT @ 42433.9700. Quantidade: 0.2053. Capital: 9171.96
+2025-07-10 09:53:00,522 - INFO - [Backtest] COMPRA EXECUTADA: 0.2053 BTCUSDT @ 42433.9700. Capital restante: 458.60
+2025-07-10 09:53:00,538 - INFO - SINAL DE VENDA (RSI sobrecomprado) para BTCUSDT @ 42936.0000.
+2025-07-10 09:53:00,554 - INFO - [Backtest] VENDA EXECUTADA: 0.2053 BTCUSDT @ 42936.0000. PnL: 103.09 (1.18%). Razão: RSI Sobrecomprado. Capital atual: 9275.05
+2025-07-10 09:53:01,619 - INFO - Backtest concluído. Gerando relatório...
+2025-07-10 09:53:01,643 - INFO - 
+--- Relatório de Backtest ---
+2025-07-10 09:53:01,643 - INFO - Símbolo: BTCUSDT
+2025-07-10 09:53:01,643 - INFO - Intervalo: 1h
+2025-07-10 09:53:01,643 - INFO - Período: 2023-01-01 00:00:00 a 2023-12-31 23:59:59
+2025-07-10 09:53:01,643 - INFO - Capital Inicial: 10000.00 USDT
+2025-07-10 09:53:01,643 - INFO - Capital Final: 9275.05 USDT
+2025-07-10 09:53:01,643 - INFO - Lucro/Prejuízo Total: -724.95 USDT
+2025-07-10 09:53:01,643 - INFO - Retorno Percentual: -7.25%
+2025-07-10 09:53:01,643 - INFO - Número Total de Trades: 18
+2025-07-10 09:53:01,643 - INFO - Trades Vencedores: 8
+2025-07-10 09:53:01,643 - INFO - Trades Perdedores: 10
+2025-07-10 09:53:01,643 - INFO - Win Rate: 44.44%
+2025-07-10 09:53:01,643 - INFO - Lucro Bruto: 540.54 USDT
+2025-07-10 09:53:01,643 - INFO - Prejuízo Bruto: -1265.49 USDT
+2025-07-10 09:53:01,643 - INFO - Lucro Médio por Trade Vencedor: 67.57 USDT
+2025-07-10 09:53:01,656 - INFO - Prejuízo Médio por Trade Perdedor: -126.55 USDT
+2025-07-10 09:53:01,656 - INFO - Profit Factor: 0.43
+2025-07-10 09:53:01,656 - INFO - Risk/Reward Ratio (Médio Ganho/Perda Média): 0.53
+2025-07-10 09:53:01,657 - INFO - Max Drawdown: -8.28%
+2025-07-10 09:53:01,657 - INFO - Drawdown Duration (Máx): 0.00 dias
+2025-07-10 09:53:01,674 - INFO - Histórico de trades salvo em: logs\BTCUSDT_1h_trades_20250710_095301.csv

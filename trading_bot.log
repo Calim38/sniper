@@ -1,0 +1,2241 @@
+2025-07-09 23:27:43,996 - INFO - Binance client initialized. Testnet mode: True.
+2025-07-09 23:27:43,996 - INFO - Estratégia de Trading inicializada.
+2025-07-09 23:27:43,996 - INFO - Backtester inicializado com capital: 1000.0 USDT.
+2025-07-09 23:27:43,996 - INFO - Iniciando backtest para BTCUSDT no intervalo 4h de 2025-05-01 00:00:00 até 2025-07-09 23:59:59
+2025-07-09 23:27:43,996 - INFO - Baixando klines históricos para BTCUSDT (4h) de 2025-05-01 00:00:00 até 2025-07-09 23:59:59...
+2025-07-09 23:27:44,701 - INFO - Baixados 46 klines históricos para BTCUSDT (4h) de 02 Jul, 2025 a 09 Jul, 2025.
+2025-07-09 23:27:44,705 - INFO - DataFrame de klines carregado. Total de 46 velas.
+2025-07-09 23:27:44,725 - INFO - Backtest concluído. Gerando relatório...
+2025-07-09 23:27:44,725 - INFO - 
+--- Relatório de Backtest ---
+2025-07-09 23:27:44,725 - INFO - Capital Inicial: 1000.00 USDT
+2025-07-09 23:27:44,726 - INFO - Capital Final: 1000.00 USDT
+2025-07-09 23:27:44,726 - INFO - Lucro/Prejuízo Total: 0.00 USDT
+2025-07-09 23:27:44,726 - INFO - Número Total de Trades: 0
+2025-07-09 23:27:44,727 - INFO - Trades Vencedores: 0
+2025-07-09 23:27:44,727 - INFO - Trades Perdedores: 0
+2025-07-09 23:27:44,728 - INFO - Win Rate: 0.00%
+2025-07-09 23:27:44,728 - INFO - Loss Rate: 0.00%
+2025-07-09 23:27:44,728 - INFO - Lucro Bruto: 0.00 USDT
+2025-07-09 23:27:44,728 - INFO - Prejuízo Bruto: 0.00 USDT
+2025-07-09 23:27:44,728 - INFO - Lucro Médio por Trade Vencedor: 0.00 USDT
+2025-07-09 23:27:44,728 - INFO - Prejuízo Médio por Trade Perdedor: 0.00 USDT
+2025-07-09 23:27:44,728 - INFO - Profit Factor: inf
+2025-07-09 23:27:44,728 - INFO - Risk/Reward Ratio: inf
+2025-07-09 23:27:44,728 - INFO - Max Drawdown: 0.00%
+2025-07-09 23:27:44,728 - INFO - Drawdown Duration (Máx): 0.00 dias
+2025-07-09 23:32:33,108 - INFO - Binance client initialized. Testnet mode: False.
+2025-07-09 23:32:33,108 - INFO - Estratégia de Trading inicializada.
+2025-07-09 23:32:33,116 - INFO - Backtester inicializado com capital: 1000.0 USDT.
+2025-07-09 23:32:33,116 - INFO - Iniciando backtest para BTCUSDT no intervalo 4h de 2025-05-01 00:00:00 até 2025-07-09 23:59:59
+2025-07-09 23:32:33,116 - INFO - Baixando klines históricos para BTCUSDT (4h) de 2025-05-01 00:00:00 até 2025-07-09 23:59:59...
+2025-07-09 23:32:33,810 - INFO - Baixados 420 klines históricos para BTCUSDT (4h) de 01 May, 2025 a 09 Jul, 2025.
+2025-07-09 23:32:33,810 - INFO - DataFrame de klines carregado. Total de 420 velas.
+2025-07-09 23:34:31,305 - INFO - Binance client initialized. Testnet mode: False.
+2025-07-09 23:34:31,311 - INFO - Estratégia de Trading inicializada.
+2025-07-09 23:34:31,311 - INFO - Backtester inicializado com capital: 1000.0 USDT.
+2025-07-09 23:34:31,312 - INFO - Iniciando backtest para BTCUSDT no intervalo 4h de 2025-05-01 00:00:00 até 2025-07-09 23:59:59
+2025-07-09 23:34:31,312 - INFO - Baixando klines históricos para BTCUSDT (4h) de 2025-05-01 00:00:00 até 2025-07-09 23:59:59...
+2025-07-09 23:34:31,992 - INFO - Baixados 420 klines históricos para BTCUSDT (4h) de 01 May, 2025 a 09 Jul, 2025.
+2025-07-09 23:34:31,992 - INFO - DataFrame de klines carregado. Total de 420 velas.
+2025-07-09 23:34:32,278 - INFO - [Backtest] Simulando COMPRA de BTCUSDT em 105518.0000 USDT. Qtd: 0.0009
+2025-07-09 23:34:32,278 - INFO - [Backtest - Sinal de Compra] Cruzamento altista SMA COM FILTROS para BTCUSDT. Comprando.
+2025-07-09 23:34:32,854 - INFO - [Backtest] Simulando COMPRA de BTCUSDT em 105560.7100 USDT. Qtd: 0.0009
+2025-07-09 23:34:32,854 - INFO - [Backtest - Sinal de Compra] Cruzamento altista SMA COM FILTROS para BTCUSDT. Comprando.
+2025-07-09 23:34:33,309 - INFO - [Backtest - Sinal de Compra] Cruzamento altista SMA para BTCUSDT, mas filtros não passaram.
+2025-07-09 23:34:33,681 - INFO - Backtest concluído. Gerando relatório...
+2025-07-09 23:34:33,681 - INFO - 
+--- Relatório de Backtest ---
+2025-07-09 23:34:33,681 - INFO - Capital Inicial: 1000.00 USDT
+2025-07-09 23:34:33,681 - INFO - Capital Final: 1000.00 USDT
+2025-07-09 23:34:33,681 - INFO - Lucro/Prejuízo Total: 0.00 USDT
+2025-07-09 23:34:33,681 - INFO - Número Total de Trades: 0
+2025-07-09 23:34:33,681 - INFO - Trades Vencedores: 0
+2025-07-09 23:34:33,681 - INFO - Trades Perdedores: 0
+2025-07-09 23:34:33,681 - INFO - Win Rate: 0.00%
+2025-07-09 23:34:33,681 - INFO - Loss Rate: 0.00%
+2025-07-09 23:34:33,681 - INFO - Lucro Bruto: 0.00 USDT
+2025-07-09 23:34:33,681 - INFO - Prejuízo Bruto: 0.00 USDT
+2025-07-09 23:34:33,697 - INFO - Lucro Médio por Trade Vencedor: 0.00 USDT
+2025-07-09 23:34:33,697 - INFO - Prejuízo Médio por Trade Perdedor: 0.00 USDT
+2025-07-09 23:34:33,697 - INFO - Profit Factor: inf
+2025-07-09 23:34:33,697 - INFO - Risk/Reward Ratio: inf
+2025-07-09 23:34:33,697 - INFO - Max Drawdown: 0.00%
+2025-07-09 23:34:33,697 - INFO - Drawdown Duration (Máx): 0.00 dias
+2025-07-09 23:40:34,599 - INFO - Binance client initialized. Testnet mode: False.
+2025-07-09 23:40:34,599 - INFO - Estratégia de Trading inicializada.
+2025-07-09 23:40:34,599 - INFO - Backtester inicializado com capital: 1000.00 USDT.
+2025-07-09 23:40:34,599 - INFO - Iniciando backtest para BTCUSDT no intervalo 1d de 2024-01-01 00:00:00 até 2025-07-09 23:59:59
+2025-07-09 23:40:34,599 - INFO - Baixando klines históricos para BTCUSDT (1d) de 2024-01-01 00:00:00 até 2025-07-09 23:59:59...
+2025-07-09 23:40:35,412 - INFO - Baixados 556 klines históricos para BTCUSDT (1d) de 01 Jan, 2024 a 09 Jul, 2025.
+2025-07-09 23:40:35,428 - INFO - DataFrame de klines carregado. Total de 556 velas.
+2025-07-09 23:40:35,955 - INFO - [Backtest] Simulando COMPRA de BTCUSDT em 69290.5700 USDT. Qtd: 0.0014
+2025-07-09 23:40:35,955 - INFO - [Backtest - Sinal de Compra] Cruzamento altista SMA COM FILTROS para BTCUSDT. Comprando.
+2025-07-09 23:40:35,955 - INFO - [Backtest] COMPRA EXECUTADA: 0.0014 BTCUSDT @ 69290.5700. Capital restante: 900.00
+2025-07-09 23:40:36,079 - INFO - [Backtest - Sinal de Venda] Trailing Stop para BTCUSDT. Preço: 67314.2400, Stop: 67552.6000
+2025-07-09 23:40:36,079 - INFO - [Backtest] VENDA EXECUTADA: 0.0014 BTCUSDT @ 67314.2400. PnL: -2.85 (-2.85%). Razão: TRAILING_STOP. Capital atual: 997.15
+2025-07-09 23:40:36,307 - INFO - [Backtest - Sinal de Compra] Cruzamento altista SMA para BTCUSDT, mas filtros não passaram.
+2025-07-09 23:40:36,595 - INFO - [Backtest - Sinal de Compra] Cruzamento altista SMA para BTCUSDT, mas filtros não passaram.
+2025-07-09 23:40:37,176 - INFO - [Backtest] Simulando COMPRA de BTCUSDT em 106143.8200 USDT. Qtd: 0.0009
+2025-07-09 23:40:37,176 - INFO - [Backtest - Sinal de Compra] Cruzamento altista SMA COM FILTROS para BTCUSDT. Comprando.
+2025-07-09 23:40:37,176 - INFO - [Backtest] COMPRA EXECUTADA: 0.0009 BTCUSDT @ 106143.8200. Capital restante: 897.15
+2025-07-09 23:40:37,247 - INFO - [Backtest - Sinal de Venda] Trailing Stop para BTCUSDT. Preço: 100635.6500, Stop: 100836.6290
+2025-07-09 23:40:37,247 - INFO - [Backtest] VENDA EXECUTADA: 0.0009 BTCUSDT @ 100635.6500. PnL: -5.19 (-5.19%). Razão: TRAILING_STOP. Capital atual: 991.96
+2025-07-09 23:40:37,656 - INFO - [Backtest - Sinal de Compra] Cruzamento altista SMA para BTCUSDT, mas filtros não passaram.
+2025-07-09 23:40:38,027 - INFO - [Backtest] Simulando COMPRA de BTCUSDT em 108922.9800 USDT. Qtd: 0.0009
+2025-07-09 23:40:38,027 - INFO - [Backtest - Sinal de Compra] Cruzamento altista SMA COM FILTROS para BTCUSDT. Comprando.
+2025-07-09 23:40:38,027 - INFO - [Backtest] COMPRA EXECUTADA: 0.0009 BTCUSDT @ 108922.9800. Capital restante: 891.96
+2025-07-09 23:40:38,043 - INFO - Backtest concluído. Gerando relatório...
+2025-07-09 23:40:38,043 - INFO - 
+--- Relatório de Backtest ---
+2025-07-09 23:40:38,043 - INFO - Capital Inicial: 1000.00 USDT
+2025-07-09 23:40:38,045 - INFO - Capital Final: 891.96 USDT
+2025-07-09 23:40:38,045 - INFO - Lucro/Prejuízo Total: -8.04 USDT
+2025-07-09 23:40:38,045 - INFO - Número Total de Trades: 2
+2025-07-09 23:40:38,046 - INFO - Trades Vencedores: 0
+2025-07-09 23:40:38,046 - INFO - Trades Perdedores: 2
+2025-07-09 23:40:38,046 - INFO - Win Rate: 0.00%
+2025-07-09 23:40:38,047 - INFO - Loss Rate: 100.00%
+2025-07-09 23:40:38,048 - INFO - Lucro Bruto: 0.00 USDT
+2025-07-09 23:40:38,048 - INFO - Prejuízo Bruto: -8.04 USDT
+2025-07-09 23:40:38,048 - INFO - Lucro Médio por Trade Vencedor: 0.00 USDT
+2025-07-09 23:40:38,049 - INFO - Prejuízo Médio por Trade Perdedor: -4.02 USDT
+2025-07-09 23:40:38,049 - INFO - Profit Factor: 0.00
+2025-07-09 23:40:38,049 - INFO - Risk/Reward Ratio: 0.00
+2025-07-09 23:40:38,049 - INFO - Max Drawdown: 0.00%
+2025-07-09 23:40:38,049 - INFO - Drawdown Duration (Máx): 0.00 dias
+2025-07-09 23:46:41,903 - INFO - Binance client initialized. Testnet mode: False.
+2025-07-09 23:46:41,903 - INFO - Estratégia de Trading inicializada.
+2025-07-09 23:46:41,903 - INFO - Backtester inicializado com capital: 1000.00 USDT.
+2025-07-09 23:46:41,903 - INFO - Iniciando backtest para BTCUSDT no intervalo 1d de 2024-01-01 00:00:00 até 2025-07-09 23:59:59
+2025-07-09 23:46:41,903 - INFO - Baixando klines históricos para BTCUSDT (1d) de 2024-01-01 00:00:00 até 2025-07-09 23:59:59...
+2025-07-09 23:46:42,839 - INFO - Baixados 556 klines históricos para BTCUSDT (1d) de 01 Jan, 2024 a 09 Jul, 2025.
+2025-07-09 23:46:42,839 - INFO - DataFrame de klines carregado. Total de 556 velas.
+2025-07-09 23:46:43,371 - INFO - [Backtest] Simulando COMPRA de BTCUSDT em 69290.5700 USDT. Qtd: 0.0014
+2025-07-09 23:46:43,371 - INFO - [Backtest - Sinal de Compra] Cruzamento altista SMA COM FILTROS para BTCUSDT. Comprando.
+2025-07-09 23:46:43,371 - INFO - [Backtest] COMPRA EXECUTADA: 0.0014 BTCUSDT @ 69290.5700. Capital restante: 900.00
+2025-07-09 23:46:43,487 - INFO - [Backtest - Sinal de Venda] Trailing Stop para BTCUSDT. Preço: 67314.2400, Stop: 67552.6000
+2025-07-09 23:46:43,487 - INFO - [Backtest] VENDA EXECUTADA: 0.0014 BTCUSDT @ 67314.2400. PnL: -2.85 (-2.85%). Razão: TRAILING_STOP. Capital atual: 997.15
+2025-07-09 23:46:43,746 - INFO - [Backtest - Sinal de Compra] Cruzamento altista SMA para BTCUSDT, mas filtros não passaram.
+2025-07-09 23:46:44,060 - INFO - [Backtest - Sinal de Compra] Cruzamento altista SMA para BTCUSDT, mas filtros não passaram.
+2025-07-09 23:46:44,649 - INFO - [Backtest] Simulando COMPRA de BTCUSDT em 106143.8200 USDT. Qtd: 0.0009
+2025-07-09 23:46:44,649 - INFO - [Backtest - Sinal de Compra] Cruzamento altista SMA COM FILTROS para BTCUSDT. Comprando.
+2025-07-09 23:46:44,649 - INFO - [Backtest] COMPRA EXECUTADA: 0.0009 BTCUSDT @ 106143.8200. Capital restante: 897.15
+2025-07-09 23:46:44,720 - INFO - [Backtest - Sinal de Venda] Trailing Stop para BTCUSDT. Preço: 100635.6500, Stop: 100836.6290
+2025-07-09 23:46:44,720 - INFO - [Backtest] VENDA EXECUTADA: 0.0009 BTCUSDT @ 100635.6500. PnL: -5.19 (-5.19%). Razão: TRAILING_STOP. Capital atual: 991.96
+2025-07-09 23:46:45,127 - INFO - [Backtest - Sinal de Compra] Cruzamento altista SMA para BTCUSDT, mas filtros não passaram.
+2025-07-09 23:46:45,506 - INFO - [Backtest] Simulando COMPRA de BTCUSDT em 108922.9800 USDT. Qtd: 0.0009
+2025-07-09 23:46:45,506 - INFO - [Backtest - Sinal de Compra] Cruzamento altista SMA COM FILTROS para BTCUSDT. Comprando.
+2025-07-09 23:46:45,506 - INFO - [Backtest] COMPRA EXECUTADA: 0.0009 BTCUSDT @ 108922.9800. Capital restante: 891.96
+2025-07-09 23:46:45,506 - INFO - Backtest concluído. Gerando relatório...
+2025-07-09 23:46:45,506 - INFO - 
+--- Relatório de Backtest ---
+2025-07-09 23:46:45,506 - INFO - Capital Inicial: 1000.00 USDT
+2025-07-09 23:46:45,506 - INFO - Capital Final: 891.96 USDT
+2025-07-09 23:46:45,506 - INFO - Lucro/Prejuízo Total: -8.04 USDT
+2025-07-09 23:46:45,506 - INFO - Número Total de Trades: 2
+2025-07-09 23:46:45,506 - INFO - Trades Vencedores: 0
+2025-07-09 23:46:45,506 - INFO - Trades Perdedores: 2
+2025-07-09 23:46:45,506 - INFO - Win Rate: 0.00%
+2025-07-09 23:46:45,516 - INFO - Loss Rate: 100.00%
+2025-07-09 23:46:45,516 - INFO - Lucro Bruto: 0.00 USDT
+2025-07-09 23:46:45,516 - INFO - Prejuízo Bruto: -8.04 USDT
+2025-07-09 23:46:45,517 - INFO - Lucro Médio por Trade Vencedor: 0.00 USDT
+2025-07-09 23:46:45,517 - INFO - Prejuízo Médio por Trade Perdedor: -4.02 USDT
+2025-07-09 23:46:45,517 - INFO - Profit Factor: 0.00
+2025-07-09 23:46:45,518 - INFO - Risk/Reward Ratio: 0.00
+2025-07-09 23:46:45,518 - INFO - Max Drawdown: 0.00%
+2025-07-09 23:46:45,518 - INFO - Drawdown Duration (Máx): 0.00 dias
+2025-07-09 23:52:20,526 - DEBUG - Using proactor: IocpProactor
+2025-07-09 23:52:20,526 - DEBUG - Starting new HTTPS connection (1): api.binance.com:443
+2025-07-09 23:52:21,007 - DEBUG - https://api.binance.com:443 "GET /api/v3/ping HTTP/1.1" 200 2
+2025-07-09 23:52:21,310 - DEBUG - https://api.binance.com:443 "GET /api/v3/ping HTTP/1.1" 200 2
+2025-07-09 23:52:21,310 - INFO - Binance client initialized. Testnet mode: False.
+2025-07-09 23:52:21,310 - INFO - Estratégia de Trading inicializada.
+2025-07-09 23:52:21,310 - INFO - Backtester inicializado com capital: 1000.00 USDT.
+2025-07-09 23:52:21,310 - INFO - Iniciando backtest para BTCUSDT no intervalo 1d de 2024-01-01 00:00:00 até 2025-07-09 23:59:59
+2025-07-09 23:52:21,310 - INFO - Baixando klines históricos para BTCUSDT (1d) de 2024-01-01 00:00:00 até 2025-07-09 23:59:59...
+2025-07-09 23:52:21,967 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?endTime=1752119541413&interval=1d&limit=1&startTime=0&symbol=BTCUSDT HTTP/1.1" 200 172
+2025-07-09 23:52:22,287 - DEBUG - https://api.binance.com:443 "GET /api/v3/klines?endTime=1752105599000&interval=1d&limit=1000&startTime=1704067200000&symbol=BTCUSDT HTTP/1.1" 200 36318
+2025-07-09 23:52:22,313 - INFO - Baixados 556 klines históricos para BTCUSDT (1d) de 01 Jan, 2024 a 09 Jul, 2025.
+2025-07-09 23:52:22,317 - INFO - DataFrame de klines carregado. Total de 556 velas.
+2025-07-09 23:52:22,319 - DEBUG - Dados insuficientes para BTCUSDT em 2024-01-01 00:00:00. Necessário: 50 velas, Disponível: 1. Nenhum sinal gerado.
+2025-07-09 23:52:22,319 - DEBUG - Dados insuficientes para BTCUSDT em 2024-01-02 00:00:00. Necessário: 50 velas, Disponível: 2. Nenhum sinal gerado.
+2025-07-09 23:52:22,319 - DEBUG - Dados insuficientes para BTCUSDT em 2024-01-03 00:00:00. Necessário: 50 velas, Disponível: 3. Nenhum sinal gerado.
+2025-07-09 23:52:22,319 - DEBUG - Dados insuficientes para BTCUSDT em 2024-01-04 00:00:00. Necessário: 50 velas, Disponível: 4. Nenhum sinal gerado.
+2025-07-09 23:52:22,329 - DEBUG - Dados insuficientes para BTCUSDT em 2024-01-05 00:00:00. Necessário: 50 velas, Disponível: 5. Nenhum sinal gerado.
+2025-07-09 23:52:22,330 - DEBUG - Dados insuficientes para BTCUSDT em 2024-01-06 00:00:00. Necessário: 50 velas, Disponível: 6. Nenhum sinal gerado.
+2025-07-09 23:52:22,331 - DEBUG - Dados insuficientes para BTCUSDT em 2024-01-07 00:00:00. Necessário: 50 velas, Disponível: 7. Nenhum sinal gerado.
+2025-07-09 23:52:22,331 - DEBUG - Dados insuficientes para BTCUSDT em 2024-01-08 00:00:00. Necessário: 50 velas, Disponível: 8. Nenhum sinal gerado.
+2025-07-09 23:52:22,335 - DEBUG - Dados insuficientes para BTCUSDT em 2024-01-09 00:00:00. Necessário: 50 velas, Disponível: 9. Nenhum sinal gerado.
+2025-07-09 23:52:22,336 - DEBUG - Dados insuficientes para BTCUSDT em 2024-01-10 00:00:00. Necessário: 50 velas, Disponível: 10. Nenhum sinal gerado.
+2025-07-09 23:52:22,338 - DEBUG - Dados insuficientes para BTCUSDT em 2024-01-11 00:00:00. Necessário: 50 velas, Disponível: 11. Nenhum sinal gerado.
+2025-07-09 23:52:22,339 - DEBUG - Dados insuficientes para BTCUSDT em 2024-01-12 00:00:00. Necessário: 50 velas, Disponível: 12. Nenhum sinal gerado.
+2025-07-09 23:52:22,341 - DEBUG - Dados insuficientes para BTCUSDT em 2024-01-13 00:00:00. Necessário: 50 velas, Disponível: 13. Nenhum sinal gerado.
+2025-07-09 23:52:22,342 - DEBUG - Dados insuficientes para BTCUSDT em 2024-01-14 00:00:00. Necessário: 50 velas, Disponível: 14. Nenhum sinal gerado.
+2025-07-09 23:52:22,343 - DEBUG - Dados insuficientes para BTCUSDT em 2024-01-15 00:00:00. Necessário: 50 velas, Disponível: 15. Nenhum sinal gerado.
+2025-07-09 23:52:22,343 - DEBUG - Dados insuficientes para BTCUSDT em 2024-01-16 00:00:00. Necessário: 50 velas, Disponível: 16. Nenhum sinal gerado.
+2025-07-09 23:52:22,343 - DEBUG - Dados insuficientes para BTCUSDT em 2024-01-17 00:00:00. Necessário: 50 velas, Disponível: 17. Nenhum sinal gerado.
+2025-07-09 23:52:22,350 - DEBUG - Dados insuficientes para BTCUSDT em 2024-01-18 00:00:00. Necessário: 50 velas, Disponível: 18. Nenhum sinal gerado.
+2025-07-09 23:52:22,352 - DEBUG - Dados insuficientes para BTCUSDT em 2024-01-19 00:00:00. Necessário: 50 velas, Disponível: 19. Nenhum sinal gerado.
+2025-07-09 23:52:22,353 - DEBUG - Dados insuficientes para BTCUSDT em 2024-01-20 00:00:00. Necessário: 50 velas, Disponível: 20. Nenhum sinal gerado.
+2025-07-09 23:52:22,355 - DEBUG - Dados insuficientes para BTCUSDT em 2024-01-21 00:00:00. Necessário: 50 velas, Disponível: 21. Nenhum sinal gerado.
+2025-07-09 23:52:22,357 - DEBUG - Dados insuficientes para BTCUSDT em 2024-01-22 00:00:00. Necessário: 50 velas, Disponível: 22. Nenhum sinal gerado.
+2025-07-09 23:52:22,357 - DEBUG - Dados insuficientes para BTCUSDT em 2024-01-23 00:00:00. Necessário: 50 velas, Disponível: 23. Nenhum sinal gerado.
+2025-07-09 23:52:22,357 - DEBUG - Dados insuficientes para BTCUSDT em 2024-01-24 00:00:00. Necessário: 50 velas, Disponível: 24. Nenhum sinal gerado.
+2025-07-09 23:52:22,357 - DEBUG - Dados insuficientes para BTCUSDT em 2024-01-25 00:00:00. Necessário: 50 velas, Disponível: 25. Nenhum sinal gerado.
+2025-07-09 23:52:22,357 - DEBUG - Dados insuficientes para BTCUSDT em 2024-01-26 00:00:00. Necessário: 50 velas, Disponível: 26. Nenhum sinal gerado.
+2025-07-09 23:52:22,367 - DEBUG - Dados insuficientes para BTCUSDT em 2024-01-27 00:00:00. Necessário: 50 velas, Disponível: 27. Nenhum sinal gerado.
+2025-07-09 23:52:22,369 - DEBUG - Dados insuficientes para BTCUSDT em 2024-01-28 00:00:00. Necessário: 50 velas, Disponível: 28. Nenhum sinal gerado.
+2025-07-09 23:52:22,371 - DEBUG - Dados insuficientes para BTCUSDT em 2024-01-29 00:00:00. Necessário: 50 velas, Disponível: 29. Nenhum sinal gerado.
+2025-07-09 23:52:22,372 - DEBUG - Dados insuficientes para BTCUSDT em 2024-01-30 00:00:00. Necessário: 50 velas, Disponível: 30. Nenhum sinal gerado.
+2025-07-09 23:52:22,374 - DEBUG - Dados insuficientes para BTCUSDT em 2024-01-31 00:00:00. Necessário: 50 velas, Disponível: 31. Nenhum sinal gerado.
+2025-07-09 23:52:22,376 - DEBUG - Dados insuficientes para BTCUSDT em 2024-02-01 00:00:00. Necessário: 50 velas, Disponível: 32. Nenhum sinal gerado.
+2025-07-09 23:52:22,376 - DEBUG - Dados insuficientes para BTCUSDT em 2024-02-02 00:00:00. Necessário: 50 velas, Disponível: 33. Nenhum sinal gerado.
+2025-07-09 23:52:22,376 - DEBUG - Dados insuficientes para BTCUSDT em 2024-02-03 00:00:00. Necessário: 50 velas, Disponível: 34. Nenhum sinal gerado.
+2025-07-09 23:52:22,376 - DEBUG - Dados insuficientes para BTCUSDT em 2024-02-04 00:00:00. Necessário: 50 velas, Disponível: 35. Nenhum sinal gerado.
+2025-07-09 23:52:22,376 - DEBUG - Dados insuficientes para BTCUSDT em 2024-02-05 00:00:00. Necessário: 50 velas, Disponível: 36. Nenhum sinal gerado.
+2025-07-09 23:52:22,385 - DEBUG - Dados insuficientes para BTCUSDT em 2024-02-06 00:00:00. Necessário: 50 velas, Disponível: 37. Nenhum sinal gerado.
+2025-07-09 23:52:22,386 - DEBUG - Dados insuficientes para BTCUSDT em 2024-02-07 00:00:00. Necessário: 50 velas, Disponível: 38. Nenhum sinal gerado.
+2025-07-09 23:52:22,388 - DEBUG - Dados insuficientes para BTCUSDT em 2024-02-08 00:00:00. Necessário: 50 velas, Disponível: 39. Nenhum sinal gerado.
+2025-07-09 23:52:22,389 - DEBUG - Dados insuficientes para BTCUSDT em 2024-02-09 00:00:00. Necessário: 50 velas, Disponível: 40. Nenhum sinal gerado.
+2025-07-09 23:52:22,391 - DEBUG - Dados insuficientes para BTCUSDT em 2024-02-10 00:00:00. Necessário: 50 velas, Disponível: 41. Nenhum sinal gerado.
+2025-07-09 23:52:22,393 - DEBUG - Dados insuficientes para BTCUSDT em 2024-02-11 00:00:00. Necessário: 50 velas, Disponível: 42. Nenhum sinal gerado.
+2025-07-09 23:52:22,394 - DEBUG - Dados insuficientes para BTCUSDT em 2024-02-12 00:00:00. Necessário: 50 velas, Disponível: 43. Nenhum sinal gerado.
+2025-07-09 23:52:22,394 - DEBUG - Dados insuficientes para BTCUSDT em 2024-02-13 00:00:00. Necessário: 50 velas, Disponível: 44. Nenhum sinal gerado.
+2025-07-09 23:52:22,394 - DEBUG - Dados insuficientes para BTCUSDT em 2024-02-14 00:00:00. Necessário: 50 velas, Disponível: 45. Nenhum sinal gerado.
+2025-07-09 23:52:22,400 - DEBUG - Dados insuficientes para BTCUSDT em 2024-02-15 00:00:00. Necessário: 50 velas, Disponível: 46. Nenhum sinal gerado.
+2025-07-09 23:52:22,402 - DEBUG - Dados insuficientes para BTCUSDT em 2024-02-16 00:00:00. Necessário: 50 velas, Disponível: 47. Nenhum sinal gerado.
+2025-07-09 23:52:22,403 - DEBUG - Dados insuficientes para BTCUSDT em 2024-02-17 00:00:00. Necessário: 50 velas, Disponível: 48. Nenhum sinal gerado.
+2025-07-09 23:52:22,405 - DEBUG - Dados insuficientes para BTCUSDT em 2024-02-18 00:00:00. Necessário: 50 velas, Disponível: 49. Nenhum sinal gerado.
+2025-07-09 23:52:22,412 - DEBUG - SMAs calculadas: Rápida=47202.8920, Lenta=44641.1796
+2025-07-09 23:52:22,412 - DEBUG - RSI: 90.51
+2025-07-09 23:52:22,412 - DEBUG - MACD: 2467.2636, Signal: 1950.4899
+2025-07-09 23:52:22,412 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 1000.00. Posição aberta: False.
+2025-07-09 23:52:22,422 - DEBUG - SMAs calculadas: Rápida=47686.8330, Lenta=44802.7650
+2025-07-09 23:52:22,422 - DEBUG - RSI: 90.59
+2025-07-09 23:52:22,423 - DEBUG - MACD: 2474.6407, Signal: 2055.3201
+2025-07-09 23:52:22,423 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 1000.00. Posição aberta: False.
+2025-07-09 23:52:22,430 - DEBUG - SMAs calculadas: Rápida=48125.1555, Lenta=44940.8146
+2025-07-09 23:52:22,430 - DEBUG - RSI: 85.91
+2025-07-09 23:52:22,430 - DEBUG - MACD: 2419.5582, Signal: 2128.1677
+2025-07-09 23:52:22,430 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 1000.00. Posição aberta: False.
+2025-07-09 23:52:22,439 - DEBUG - SMAs calculadas: Rápida=48529.5765, Lenta=45109.6784
+2025-07-09 23:52:22,440 - DEBUG - RSI: 79.81
+2025-07-09 23:52:22,440 - DEBUG - MACD: 2304.0794, Signal: 2163.3501
+2025-07-09 23:52:22,441 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 1000.00. Posição aberta: False.
+2025-07-09 23:52:22,443 - DEBUG - SMAs calculadas: Rápida=48916.2295, Lenta=45241.5394
+2025-07-09 23:52:22,443 - DEBUG - RSI: 70.60
+2025-07-09 23:52:22,443 - DEBUG - MACD: 2143.9297, Signal: 2159.4660
+2025-07-09 23:52:22,443 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 1000.00. Posição aberta: False.
+2025-07-09 23:52:22,454 - DEBUG - SMAs calculadas: Rápida=49365.4965, Lenta=45390.0016
+2025-07-09 23:52:22,454 - DEBUG - RSI: 71.28
+2025-07-09 23:52:22,454 - DEBUG - MACD: 2059.7619, Signal: 2139.5252
+2025-07-09 23:52:22,454 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 1000.00. Posição aberta: False.
+2025-07-09 23:52:22,467 - DEBUG - SMAs calculadas: Rápida=49816.5040, Lenta=45545.2122
+2025-07-09 23:52:22,467 - DEBUG - RSI: 69.98
+2025-07-09 23:52:22,468 - DEBUG - MACD: 1983.1591, Signal: 2108.2520
+2025-07-09 23:52:22,468 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 1000.00. Posição aberta: False.
+2025-07-09 23:52:22,474 - DEBUG - SMAs calculadas: Rápida=50385.3800, Lenta=45756.1612
+2025-07-09 23:52:22,474 - DEBUG - RSI: 73.47
+2025-07-09 23:52:22,474 - DEBUG - MACD: 2119.7259, Signal: 2110.5467
+2025-07-09 23:52:22,474 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 1000.00. Posição aberta: False.
+2025-07-09 23:52:22,487 - DEBUG - SMAs calculadas: Rápida=51019.7670, Lenta=45957.8872
+2025-07-09 23:52:22,487 - DEBUG - RSI: 80.43
+2025-07-09 23:52:22,487 - DEBUG - MACD: 2406.8522, Signal: 2169.8078
+2025-07-09 23:52:22,487 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 1000.00. Posição aberta: False.
+2025-07-09 23:52:22,487 - DEBUG - SMAs calculadas: Rápida=51876.9395, Lenta=46284.3292
+2025-07-09 23:52:22,497 - DEBUG - RSI: 84.64
+2025-07-09 23:52:22,497 - DEBUG - MACD: 3034.7315, Signal: 2342.7926
+2025-07-09 23:52:22,498 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 1000.00. Posição aberta: False.
+2025-07-09 23:52:22,507 - DEBUG - SMAs calculadas: Rápida=52576.8500, Lenta=46573.8690
+2025-07-09 23:52:22,507 - DEBUG - RSI: 77.91
+2025-07-09 23:52:22,507 - DEBUG - MACD: 3388.2827, Signal: 2551.8906
+2025-07-09 23:52:22,507 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 1000.00. Posição aberta: False.
+2025-07-09 23:52:22,515 - DEBUG - SMAs calculadas: Rápida=53308.6905, Lenta=46894.8438
+2025-07-09 23:52:22,515 - DEBUG - RSI: 79.18
+2025-07-09 23:52:22,515 - DEBUG - MACD: 3726.9358, Signal: 2786.8996
+2025-07-09 23:52:22,516 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 1000.00. Posição aberta: False.
+2025-07-09 23:52:22,524 - DEBUG - SMAs calculadas: Rápida=53993.0550, Lenta=47278.9348
+2025-07-09 23:52:22,524 - DEBUG - RSI: 79.55
+2025-07-09 23:52:22,524 - DEBUG - MACD: 3917.8318, Signal: 3013.0861
+2025-07-09 23:52:22,524 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 1000.00. Posição aberta: False.
+2025-07-09 23:52:22,536 - DEBUG - SMAs calculadas: Rápida=54652.8900, Lenta=47684.2544
+2025-07-09 23:52:22,536 - DEBUG - RSI: 80.26
+2025-07-09 23:52:22,536 - DEBUG - MACD: 4112.6250, Signal: 3232.9939
+2025-07-09 23:52:22,536 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 1000.00. Posição aberta: False.
+2025-07-09 23:52:22,545 - DEBUG - SMAs calculadas: Rápida=55580.1960, Lenta=48214.5216
+2025-07-09 23:52:22,546 - DEBUG - RSI: 85.96
+2025-07-09 23:52:22,546 - DEBUG - MACD: 4627.7427, Signal: 3511.9436
+2025-07-09 23:52:22,547 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 1000.00. Posição aberta: False.
+2025-07-09 23:52:22,553 - DEBUG - SMAs calculadas: Rápida=56176.6380, Lenta=48638.7798
+2025-07-09 23:52:22,554 - DEBUG - RSI: 71.28
+2025-07-09 23:52:22,554 - DEBUG - MACD: 4617.8818, Signal: 3733.1313
+2025-07-09 23:52:22,554 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 1000.00. Posição aberta: False.
+2025-07-09 23:52:22,565 - DEBUG - SMAs calculadas: Rápida=56886.3400, Lenta=49097.5016
+2025-07-09 23:52:22,565 - DEBUG - RSI: 74.63
+2025-07-09 23:52:22,565 - DEBUG - MACD: 4744.9973, Signal: 3935.5045
+2025-07-09 23:52:22,566 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 1000.00. Posição aberta: False.
+2025-07-09 23:52:22,574 - DEBUG - SMAs calculadas: Rápida=57621.2930, Lenta=49578.4430
+2025-07-09 23:52:22,574 - DEBUG - RSI: 76.72
+2025-07-09 23:52:22,574 - DEBUG - MACD: 4850.2749, Signal: 4118.4586
+2025-07-09 23:52:22,574 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 1000.00. Posição aberta: False.
+2025-07-09 23:52:22,582 - DEBUG - SMAs calculadas: Rápida=58445.3705, Lenta=50114.3768
+2025-07-09 23:52:22,582 - DEBUG - RSI: 79.13
+2025-07-09 23:52:22,582 - DEBUG - MACD: 4981.2686, Signal: 4291.0206
+2025-07-09 23:52:22,582 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 1000.00. Posição aberta: False.
+2025-07-09 23:52:22,592 - DEBUG - SMAs calculadas: Rápida=59254.1505, Lenta=50647.4616
+2025-07-09 23:52:22,592 - DEBUG - RSI: 78.68
+2025-07-09 23:52:22,593 - DEBUG - MACD: 5042.2157, Signal: 4441.2596
+2025-07-09 23:52:22,593 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 1000.00. Posição aberta: False.
+2025-07-09 23:52:22,593 - DEBUG - SMAs calculadas: Rápida=60113.2080, Lenta=51192.6584
+2025-07-09 23:52:22,593 - DEBUG - RSI: 79.03
+2025-07-09 23:52:22,601 - DEBUG - MACD: 5083.7675, Signal: 4569.7612
+2025-07-09 23:52:22,601 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 1000.00. Posição aberta: False.
+2025-07-09 23:52:22,614 - DEBUG - SMAs calculadas: Rápida=61104.1720, Lenta=51802.6138
+2025-07-09 23:52:22,615 - DEBUG - RSI: 79.29
+2025-07-09 23:52:22,615 - DEBUG - MACD: 5307.4536, Signal: 4717.2997
+2025-07-09 23:52:22,615 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 1000.00. Posição aberta: False.
+2025-07-09 23:52:22,624 - DEBUG - SMAs calculadas: Rápida=62084.3030, Lenta=52440.2936
+2025-07-09 23:52:22,624 - DEBUG - RSI: 75.64
+2025-07-09 23:52:22,624 - DEBUG - MACD: 5372.2780, Signal: 4848.2953
+2025-07-09 23:52:22,624 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 1000.00. Posição aberta: False.
+2025-07-09 23:52:22,633 - DEBUG - SMAs calculadas: Rápida=63173.5025, Lenta=53103.7898
+2025-07-09 23:52:22,634 - DEBUG - RSI: 71.86
+2025-07-09 23:52:22,634 - DEBUG - MACD: 5491.1064, Signal: 4976.8575
+2025-07-09 23:52:22,635 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 1000.00. Posição aberta: False.
+2025-07-09 23:52:22,643 - DEBUG - SMAs calculadas: Rápida=64205.7420, Lenta=53729.8710
+2025-07-09 23:52:22,643 - DEBUG - RSI: 70.75
+2025-07-09 23:52:22,644 - DEBUG - MACD: 5387.3350, Signal: 5058.9530
+2025-07-09 23:52:22,644 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 1000.00. Posição aberta: False.
+2025-07-09 23:52:22,651 - DEBUG - SMAs calculadas: Rápida=65102.3235, Lenta=54320.6462
+2025-07-09 23:52:22,653 - DEBUG - RSI: 64.03
+2025-07-09 23:52:22,653 - DEBUG - MACD: 5093.9418, Signal: 5065.9508
+2025-07-09 23:52:22,653 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 1000.00. Posição aberta: False.
+2025-07-09 23:52:22,662 - DEBUG - SMAs calculadas: Rápida=65780.9125, Lenta=54790.1886
+2025-07-09 23:52:22,663 - DEBUG - RSI: 55.68
+2025-07-09 23:52:22,663 - DEBUG - MACD: 4471.0443, Signal: 4946.9695
+2025-07-09 23:52:22,663 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 1000.00. Posição aberta: False.
+2025-07-09 23:52:22,672 - DEBUG - SMAs calculadas: Rápida=66476.7630, Lenta=55315.6456
+2025-07-09 23:52:22,672 - DEBUG - RSI: 58.48
+2025-07-09 23:52:22,672 - DEBUG - MACD: 4178.7901, Signal: 4793.3336
+2025-07-09 23:52:22,672 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 1000.00. Posição aberta: False.
+2025-07-09 23:52:22,681 - DEBUG - SMAs calculadas: Rápida=67005.3955, Lenta=55827.2242
+2025-07-09 23:52:22,681 - DEBUG - RSI: 48.81
+2025-07-09 23:52:22,682 - DEBUG - MACD: 3839.6939, Signal: 4602.6057
+2025-07-09 23:52:22,682 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 1000.00. Posição aberta: False.
+2025-07-09 23:52:22,690 - DEBUG - SMAs calculadas: Rápida=66980.6605, Lenta=56199.9182
+2025-07-09 23:52:22,690 - DEBUG - RSI: 46.80
+2025-07-09 23:52:22,690 - DEBUG - MACD: 3077.7488, Signal: 4297.6343
+2025-07-09 23:52:22,690 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 1000.00. Posição aberta: False.
+2025-07-09 23:52:22,700 - DEBUG - SMAs calculadas: Rápida=67316.1370, Lenta=56697.9064
+2025-07-09 23:52:22,701 - DEBUG - RSI: 52.81
+2025-07-09 23:52:22,702 - DEBUG - MACD: 2916.6125, Signal: 4021.4299
+2025-07-09 23:52:22,702 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 1000.00. Posição aberta: False.
+2025-07-09 23:52:22,710 - DEBUG - SMAs calculadas: Rápida=67471.8055, Lenta=57156.3318
+2025-07-09 23:52:22,710 - DEBUG - RSI: 48.00
+2025-07-09 23:52:22,711 - DEBUG - MACD: 2570.5223, Signal: 3731.2484
+2025-07-09 23:52:22,711 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 1000.00. Posição aberta: False.
+2025-07-09 23:52:22,719 - DEBUG - SMAs calculadas: Rápida=67562.2735, Lenta=57570.6058
+2025-07-09 23:52:22,719 - DEBUG - RSI: 43.53
+2025-07-09 23:52:22,719 - DEBUG - MACD: 2134.0934, Signal: 3411.8174
+2025-07-09 23:52:22,719 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 1000.00. Posição aberta: False.
+2025-07-09 23:52:22,727 - DEBUG - SMAs calculadas: Rápida=67606.0755, Lenta=57986.4060
+2025-07-09 23:52:22,727 - DEBUG - RSI: 43.54
+2025-07-09 23:52:22,728 - DEBUG - MACD: 1783.2674, Signal: 3086.1074
+2025-07-09 23:52:22,728 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 1000.00. Posição aberta: False.
+2025-07-09 23:52:22,736 - DEBUG - SMAs calculadas: Rápida=67554.2895, Lenta=58470.3840
+2025-07-09 23:52:22,737 - DEBUG - RSI: 47.58
+2025-07-09 23:52:22,737 - DEBUG - MACD: 1744.9460, Signal: 2817.8751
+2025-07-09 23:52:22,737 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 1000.00. Posição aberta: False.
+2025-07-09 23:52:22,744 - DEBUG - SMAs calculadas: Rápida=67862.0895, Lenta=59016.3266
+2025-07-09 23:52:22,744 - DEBUG - RSI: 46.91
+2025-07-09 23:52:22,744 - DEBUG - MACD: 1908.0298, Signal: 2635.9061
+2025-07-09 23:52:22,745 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 1000.00. Posição aberta: False.
+2025-07-09 23:52:22,752 - DEBUG - SMAs calculadas: Rápida=68057.7875, Lenta=59561.9126
+2025-07-09 23:52:22,753 - DEBUG - RSI: 47.91
+2025-07-09 23:52:22,753 - DEBUG - MACD: 2022.6726, Signal: 2513.2594
+2025-07-09 23:52:22,753 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 1000.00. Posição aberta: False.
+2025-07-09 23:52:22,763 - DEBUG - SMAs calculadas: Rápida=68190.1285, Lenta=60089.3334
+2025-07-09 23:52:22,764 - DEBUG - RSI: 44.70
+2025-07-09 23:52:22,764 - DEBUG - MACD: 2048.1194, Signal: 2420.2314
+2025-07-09 23:52:22,765 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 1000.00. Posição aberta: False.
+2025-07-09 23:52:22,772 - DEBUG - SMAs calculadas: Rápida=68322.9490, Lenta=60617.9534
+2025-07-09 23:52:22,772 - DEBUG - RSI: 49.09
+2025-07-09 23:52:22,772 - DEBUG - MACD: 2149.2660, Signal: 2366.0383
+2025-07-09 23:52:22,773 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 1000.00. Posição aberta: False.
+2025-07-09 23:52:22,779 - DEBUG - SMAs calculadas: Rápida=68399.8125, Lenta=61109.1912
+2025-07-09 23:52:22,780 - DEBUG - RSI: 50.54
+2025-07-09 23:52:22,780 - DEBUG - MACD: 2129.8260, Signal: 2318.7959
+2025-07-09 23:52:22,781 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 1000.00. Posição aberta: False.
+2025-07-09 23:52:22,788 - DEBUG - SMAs calculadas: Rápida=68431.1275, Lenta=61558.1794
+2025-07-09 23:52:22,788 - DEBUG - RSI: 57.46
+2025-07-09 23:52:22,789 - DEBUG - MACD: 2068.9162, Signal: 2268.8199
+2025-07-09 23:52:22,789 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 1000.00. Posição aberta: False.
+2025-07-09 23:52:22,796 - DEBUG - SMAs calculadas: Rápida=68391.2230, Lenta=62028.7578
+2025-07-09 23:52:22,797 - DEBUG - RSI: 55.28
+2025-07-09 23:52:22,797 - DEBUG - MACD: 2133.0568, Signal: 2241.6673
+2025-07-09 23:52:22,797 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 1000.00. Posição aberta: False.
+2025-07-09 23:52:22,805 - DEBUG - SMAs calculadas: Rápida=68301.1125, Lenta=62455.7540
+2025-07-09 23:52:22,805 - DEBUG - RSI: 53.62
+2025-07-09 23:52:22,805 - DEBUG - MACD: 2028.9558, Signal: 2199.1250
+2025-07-09 23:52:22,805 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 1000.00. Posição aberta: False.
+2025-07-09 23:52:22,814 - DEBUG - SMAs calculadas: Rápida=67920.6915, Lenta=62766.6884
+2025-07-09 23:52:22,814 - DEBUG - RSI: 56.61
+2025-07-09 23:52:22,814 - DEBUG - MACD: 1590.3624, Signal: 2077.3725
+2025-07-09 23:52:22,815 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 1000.00. Posição aberta: False.
+2025-07-09 23:52:22,822 - DEBUG - SMAs calculadas: Rápida=67649.4085, Lenta=63091.9622
+2025-07-09 23:52:22,822 - DEBUG - RSI: 45.59
+2025-07-09 23:52:22,823 - DEBUG - MACD: 1268.4408, Signal: 1915.5861
+2025-07-09 23:52:22,823 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 1000.00. Posição aberta: False.
+2025-07-09 23:52:22,823 - DEBUG - SMAs calculadas: Rápida=67598.8055, Lenta=63425.8146
+2025-07-09 23:52:22,823 - DEBUG - RSI: 56.96
+2025-07-09 23:52:22,823 - DEBUG - MACD: 1203.1532, Signal: 1773.0995
+2025-07-09 23:52:22,823 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 1000.00. Posição aberta: False.
+2025-07-09 23:52:22,839 - DEBUG - SMAs calculadas: Rápida=67724.8050, Lenta=63744.6270
+2025-07-09 23:52:22,839 - DEBUG - RSI: 59.85
+2025-07-09 23:52:22,839 - DEBUG - MACD: 1085.0693, Signal: 1635.4935
+2025-07-09 23:52:22,839 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 1000.00. Posição aberta: False.
+2025-07-09 23:52:22,839 - DEBUG - SMAs calculadas: Rápida=67749.9310, Lenta=64080.0648
+2025-07-09 23:52:22,839 - DEBUG - RSI: 61.51
+2025-07-09 23:52:22,839 - DEBUG - MACD: 1065.9732, Signal: 1521.5894
+2025-07-09 23:52:22,839 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 1000.00. Posição aberta: False.
+2025-07-09 23:52:22,856 - DEBUG - SMAs calculadas: Rápida=67837.4510, Lenta=64434.4198
+2025-07-09 23:52:22,857 - DEBUG - RSI: 55.80
+2025-07-09 23:52:22,857 - DEBUG - MACD: 1075.9094, Signal: 1432.4534
+2025-07-09 23:52:22,857 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 1000.00. Posição aberta: False.
+2025-07-09 23:52:22,859 - DEBUG - SMAs calculadas: Rápida=68321.5810, Lenta=64824.0664
+2025-07-09 23:52:22,859 - DEBUG - RSI: 54.80
+2025-07-09 23:52:22,859 - DEBUG - MACD: 1251.6869, Signal: 1396.3001
+2025-07-09 23:52:22,859 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 1000.00. Posição aberta: False.
+2025-07-09 23:52:22,876 - DEBUG - SMAs calculadas: Rápida=68386.8555, Lenta=65171.4918
+2025-07-09 23:52:22,877 - DEBUG - RSI: 47.95
+2025-07-09 23:52:22,877 - DEBUG - MACD: 1177.7840, Signal: 1352.5969
+2025-07-09 23:52:22,878 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 1000.00. Posição aberta: False.
+2025-07-09 23:52:22,884 - DEBUG - SMAs calculadas: Rápida=68643.3460, Lenta=65538.9370
+2025-07-09 23:52:22,885 - DEBUG - RSI: 52.70
+2025-07-09 23:52:22,885 - DEBUG - MACD: 1224.9287, Signal: 1327.0633
+2025-07-09 23:52:22,885 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 1000.00. Posição aberta: False.
+2025-07-09 23:52:22,892 - DEBUG - SMAs calculadas: Rápida=68953.8255, Lenta=65902.0738
+2025-07-09 23:52:22,893 - DEBUG - RSI: 48.14
+2025-07-09 23:52:22,893 - DEBUG - MACD: 1198.0605, Signal: 1301.2627
+2025-07-09 23:52:22,893 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 1000.00. Posição aberta: False.
+2025-07-09 23:52:22,893 - DEBUG - SMAs calculadas: Rápida=69110.1510, Lenta=66218.6358
+2025-07-09 23:52:22,900 - DEBUG - RSI: 43.99
+2025-07-09 23:52:22,900 - DEBUG - MACD: 932.8387, Signal: 1227.5779
+2025-07-09 23:52:22,901 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 1000.00. Posição aberta: False.
+2025-07-09 23:52:22,908 - DEBUG - SMAs calculadas: Rápida=68945.8770, Lenta=66482.2430
+2025-07-09 23:52:22,908 - DEBUG - RSI: 38.98
+2025-07-09 23:52:22,909 - DEBUG - MACD: 459.7799, Signal: 1074.0183
+2025-07-09 23:52:22,910 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 1000.00. Posição aberta: False.
+2025-07-09 23:52:22,920 - DEBUG - SMAs calculadas: Rápida=68734.9685, Lenta=66764.1154
+2025-07-09 23:52:22,920 - DEBUG - RSI: 39.07
+2025-07-09 23:52:22,920 - DEBUG - MACD: 222.5006, Signal: 903.7148
+2025-07-09 23:52:22,920 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 1000.00. Posição aberta: False.
+2025-07-09 23:52:22,932 - DEBUG - SMAs calculadas: Rápida=68406.5680, Lenta=66997.9382
+2025-07-09 23:52:22,932 - DEBUG - RSI: 38.17
+2025-07-09 23:52:22,934 - DEBUG - MACD: -144.7747, Signal: 694.0169
+2025-07-09 23:52:22,934 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 1000.00. Posição aberta: False.
+2025-07-09 23:52:22,943 - DEBUG - SMAs calculadas: Rápida=68122.7380, Lenta=67184.2766
+2025-07-09 23:52:22,943 - DEBUG - RSI: 46.29
+2025-07-09 23:52:22,943 - DEBUG - MACD: -401.0893, Signal: 474.9956
+2025-07-09 23:52:22,944 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 1000.00. Posição aberta: False.
+2025-07-09 23:52:22,950 - DEBUG - SMAs calculadas: Rápida=67647.5765, Lenta=67269.0772
+2025-07-09 23:52:22,951 - DEBUG - RSI: 40.45
+2025-07-09 23:52:22,951 - DEBUG - MACD: -798.0428, Signal: 220.3879
+2025-07-09 23:52:22,951 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 1000.00. Posição aberta: False.
+2025-07-09 23:52:22,960 - DEBUG - SMAs calculadas: Rápida=67328.5535, Lenta=67289.8368
+2025-07-09 23:52:22,960 - DEBUG - RSI: 39.63
+2025-07-09 23:52:22,960 - DEBUG - MACD: -925.0348, Signal: -8.6966
+2025-07-09 23:52:22,960 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 1000.00. Posição aberta: False.
+2025-07-09 23:52:22,968 - DEBUG - SMAs calculadas: Rápida=67040.3450, Lenta=67343.5774
+2025-07-09 23:52:22,969 - DEBUG - RSI: 41.62
+2025-07-09 23:52:22,969 - DEBUG - MACD: -986.2331, Signal: -204.2039
+2025-07-09 23:52:22,969 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 1000.00. Posição aberta: False.
+2025-07-09 23:52:22,978 - DEBUG - SMAs calculadas: Rápida=66723.3740, Lenta=67394.6312
+2025-07-09 23:52:22,978 - DEBUG - RSI: 41.73
+2025-07-09 23:52:22,978 - DEBUG - MACD: -933.3908, Signal: -350.0413
+2025-07-09 23:52:22,979 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 1000.00. Posição aberta: False.
+2025-07-09 23:52:22,986 - DEBUG - SMAs calculadas: Rápida=66487.9415, Lenta=67453.7086
+2025-07-09 23:52:22,986 - DEBUG - RSI: 40.58
+2025-07-09 23:52:22,986 - DEBUG - MACD: -881.3086, Signal: -456.2947
+2025-07-09 23:52:22,986 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 1000.00. Posição aberta: False.
+2025-07-09 23:52:22,993 - DEBUG - SMAs calculadas: Rápida=66555.7080, Lenta=67527.8156
+2025-07-09 23:52:22,993 - DEBUG - RSI: 39.60
+2025-07-09 23:52:22,993 - DEBUG - MACD: -680.6345, Signal: -501.1627
+2025-07-09 23:52:22,994 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 1000.00. Posição aberta: False.
+2025-07-09 23:52:23,000 - DEBUG - SMAs calculadas: Rápida=66578.2440, Lenta=67491.1814
+2025-07-09 23:52:23,000 - DEBUG - RSI: 43.50
+2025-07-09 23:52:23,001 - DEBUG - MACD: -547.9879, Signal: -510.5277
+2025-07-09 23:52:23,001 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 1000.00. Posição aberta: False.
+2025-07-09 23:52:23,009 - DEBUG - SMAs calculadas: Rápida=66368.3340, Lenta=67502.4930
+2025-07-09 23:52:23,009 - DEBUG - RSI: 35.35
+2025-07-09 23:52:23,009 - DEBUG - MACD: -607.2862, Signal: -529.8794
+2025-07-09 23:52:23,009 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 1000.00. Posição aberta: False.
+2025-07-09 23:52:23,009 - DEBUG - SMAs calculadas: Rápida=66202.2200, Lenta=67470.9790
+2025-07-09 23:52:23,009 - DEBUG - RSI: 37.03
+2025-07-09 23:52:23,009 - DEBUG - MACD: -630.1720, Signal: -549.9379
+2025-07-09 23:52:23,009 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 1000.00. Posição aberta: False.
+2025-07-09 23:52:23,023 - DEBUG - SMAs calculadas: Rápida=65945.9205, Lenta=67409.9158
+2025-07-09 23:52:23,023 - DEBUG - RSI: 41.23
+2025-07-09 23:52:23,023 - DEBUG - MACD: -699.0213, Signal: -579.7546
+2025-07-09 23:52:23,023 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 1000.00. Posição aberta: False.
+2025-07-09 23:52:23,023 - DEBUG - SMAs calculadas: Rápida=65651.0000, Lenta=67316.6716
+2025-07-09 23:52:23,023 - DEBUG - RSI: 48.57
+2025-07-09 23:52:23,023 - DEBUG - MACD: -769.5693, Signal: -617.7176
+2025-07-09 23:52:23,023 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 1000.00. Posição aberta: False.
+2025-07-09 23:52:23,039 - DEBUG - SMAs calculadas: Rápida=65225.9310, Lenta=67212.7786
+2025-07-09 23:52:23,039 - DEBUG - RSI: 41.40
+2025-07-09 23:52:23,039 - DEBUG - MACD: -843.4624, Signal: -662.8665
+2025-07-09 23:52:23,039 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 1000.00. Posição aberta: False.
+2025-07-09 23:52:23,039 - DEBUG - SMAs calculadas: Rápida=64961.9310, Lenta=67110.9810
+2025-07-09 23:52:23,039 - DEBUG - RSI: 51.68
+2025-07-09 23:52:23,039 - DEBUG - MACD: -832.1238, Signal: -696.7180
+2025-07-09 23:52:23,039 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 1000.00. Posição aberta: False.
+2025-07-09 23:52:23,056 - DEBUG - SMAs calculadas: Rápida=64463.9770, Lenta=66882.8590
+2025-07-09 23:52:23,056 - DEBUG - RSI: 40.32
+2025-07-09 23:52:23,056 - DEBUG - MACD: -1068.5493, Signal: -771.0842
+2025-07-09 23:52:23,056 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 1000.00. Posição aberta: False.
+2025-07-09 23:52:23,064 - DEBUG - SMAs calculadas: Rápida=63881.9140, Lenta=66621.1182
+2025-07-09 23:52:23,065 - DEBUG - RSI: 40.85
+2025-07-09 23:52:23,065 - DEBUG - MACD: -1425.6424, Signal: -901.9959
+2025-07-09 23:52:23,065 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 1000.00. Posição aberta: False.
+2025-07-09 23:52:23,074 - DEBUG - SMAs calculadas: Rápida=63479.1185, Lenta=66340.8822
+2025-07-09 23:52:23,074 - DEBUG - RSI: 34.70
+2025-07-09 23:52:23,075 - DEBUG - MACD: -1633.6769, Signal: -1048.3321
+2025-07-09 23:52:23,075 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 1000.00. Posição aberta: False.
+2025-07-09 23:52:23,079 - DEBUG - SMAs calculadas: Rápida=63426.9935, Lenta=66170.7436
+2025-07-09 23:52:23,079 - DEBUG - RSI: 47.38
+2025-07-09 23:52:23,079 - DEBUG - MACD: -1473.2084, Signal: -1133.3073
+2025-07-09 23:52:23,079 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 1000.00. Posição aberta: False.
+2025-07-09 23:52:23,090 - DEBUG - SMAs calculadas: Rápida=63338.5035, Lenta=66058.5874
+2025-07-09 23:52:23,090 - DEBUG - RSI: 47.05
+2025-07-09 23:52:23,090 - DEBUG - MACD: -1250.1244, Signal: -1156.6708
+2025-07-09 23:52:23,090 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 1000.00. Posição aberta: False.
+2025-07-09 23:52:23,090 - DEBUG - SMAs calculadas: Rápida=63368.1040, Lenta=66032.8148
+2025-07-09 23:52:23,090 - DEBUG - RSI: 47.40
+2025-07-09 23:52:23,090 - DEBUG - MACD: -1051.5276, Signal: -1135.6421
+2025-07-09 23:52:23,090 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 1000.00. Posição aberta: False.
+2025-07-09 23:52:23,105 - DEBUG - SMAs calculadas: Rápida=63336.6940, Lenta=65928.2490
+2025-07-09 23:52:23,105 - DEBUG - RSI: 39.16
+2025-07-09 23:52:23,105 - DEBUG - MACD: -951.5003, Signal: -1098.8138
+2025-07-09 23:52:23,105 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 1000.00. Posição aberta: False.
+2025-07-09 23:52:23,105 - DEBUG - SMAs calculadas: Rápida=63388.4295, Lenta=65822.2908
+2025-07-09 23:52:23,105 - DEBUG - RSI: 38.15
+2025-07-09 23:52:23,105 - DEBUG - MACD: -930.3425, Signal: -1065.1195
+2025-07-09 23:52:23,105 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 1000.00. Posição aberta: False.
+2025-07-09 23:52:23,122 - DEBUG - SMAs calculadas: Rápida=63274.5770, Lenta=65807.4034
+2025-07-09 23:52:23,122 - DEBUG - RSI: 40.50
+2025-07-09 23:52:23,122 - DEBUG - MACD: -992.4326, Signal: -1050.5821
+2025-07-09 23:52:23,122 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 1000.00. Posição aberta: False.
+2025-07-09 23:52:23,131 - DEBUG - SMAs calculadas: Rápida=63237.3770, Lenta=65712.0734
+2025-07-09 23:52:23,132 - DEBUG - RSI: 46.04
+2025-07-09 23:52:23,132 - DEBUG - MACD: -879.7192, Signal: -1016.4095
+2025-07-09 23:52:23,133 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 1000.00. Posição aberta: False.
+2025-07-09 23:52:23,138 - DEBUG - SMAs calculadas: Rápida=63030.3470, Lenta=65618.0478
+2025-07-09 23:52:23,138 - DEBUG - RSI: 42.39
+2025-07-09 23:52:23,138 - DEBUG - MACD: -962.7890, Signal: -1005.6854
+2025-07-09 23:52:23,138 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 1000.00. Posição aberta: False.
+2025-07-09 23:52:23,147 - DEBUG - SMAs calculadas: Rápida=62824.5890, Lenta=65558.6348
+2025-07-09 23:52:23,147 - DEBUG - RSI: 43.15
+2025-07-09 23:52:23,148 - DEBUG - MACD: -1014.8261, Signal: -1007.5136
+2025-07-09 23:52:23,149 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 1000.00. Posição aberta: False.
+2025-07-09 23:52:23,155 - DEBUG - SMAs calculadas: Rápida=62557.8225, Lenta=65508.5144
+2025-07-09 23:52:23,155 - DEBUG - RSI: 45.82
+2025-07-09 23:52:23,155 - DEBUG - MACD: -991.5410, Signal: -1004.3190
+2025-07-09 23:52:23,155 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 1000.00. Posição aberta: False.
+2025-07-09 23:52:23,164 - DEBUG - SMAs calculadas: Rápida=62384.1265, Lenta=65423.1162
+2025-07-09 23:52:23,164 - DEBUG - RSI: 47.72
+2025-07-09 23:52:23,165 - DEBUG - MACD: -845.8427, Signal: -972.6238
+2025-07-09 23:52:23,165 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 1000.00. Posição aberta: False.
+2025-07-09 23:52:23,172 - DEBUG - SMAs calculadas: Rápida=62248.5215, Lenta=65257.0658
+2025-07-09 23:52:23,172 - DEBUG - RSI: 52.46
+2025-07-09 23:52:23,173 - DEBUG - MACD: -830.7490, Signal: -944.2488
+2025-07-09 23:52:23,173 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 1000.00. Posição aberta: False.
+2025-07-09 23:52:23,173 - DEBUG - SMAs calculadas: Rápida=62333.9295, Lenta=65181.4358
+2025-07-09 23:52:23,173 - DEBUG - RSI: 68.89
+2025-07-09 23:52:23,173 - DEBUG - MACD: -440.1905, Signal: -843.4372
+2025-07-09 23:52:23,173 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 1000.00. Posição aberta: False.
+2025-07-09 23:52:23,187 - DEBUG - SMAs calculadas: Rápida=62407.1895, Lenta=65096.7402
+2025-07-09 23:52:23,188 - DEBUG - RSI: 64.68
+2025-07-09 23:52:23,188 - DEBUG - MACD: -206.6628, Signal: -716.0823
+2025-07-09 23:52:23,188 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 1000.00. Posição aberta: False.
+2025-07-09 23:52:23,188 - DEBUG - SMAs calculadas: Rápida=62585.2905, Lenta=65021.6082
+2025-07-09 23:52:23,188 - DEBUG - RSI: 60.90
+2025-07-09 23:52:23,188 - DEBUG - MACD: 121.3512, Signal: -548.5956
+2025-07-09 23:52:23,188 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 1000.00. Posição aberta: False.
+2025-07-09 23:52:23,204 - DEBUG - SMAs calculadas: Rápida=62775.1195, Lenta=64962.9014
+2025-07-09 23:52:23,204 - DEBUG - RSI: 58.35
+2025-07-09 23:52:23,204 - DEBUG - MACD: 368.2800, Signal: -365.2205
+2025-07-09 23:52:23,204 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 1000.00. Posição aberta: False.
+2025-07-09 23:52:23,204 - DEBUG - SMAs calculadas: Rápida=62895.5200, Lenta=64896.7380
+2025-07-09 23:52:23,204 - DEBUG - RSI: 56.08
+2025-07-09 23:52:23,204 - DEBUG - MACD: 506.3968, Signal: -190.8970
+2025-07-09 23:52:23,204 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 1000.00. Posição aberta: False.
+2025-07-09 23:52:23,220 - DEBUG - SMAs calculadas: Rápida=63434.2510, Lenta=64900.0702
+2025-07-09 23:52:23,221 - DEBUG - RSI: 68.05
+2025-07-09 23:52:23,221 - DEBUG - MACD: 1021.4670, Signal: 51.5758
+2025-07-09 23:52:23,222 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 1000.00. Posição aberta: False.
+2025-07-09 23:52:23,222 - DEBUG - SMAs calculadas: Rápida=64023.4195, Lenta=64910.0410
+2025-07-09 23:52:23,222 - DEBUG - RSI: 66.75
+2025-07-09 23:52:23,222 - DEBUG - MACD: 1309.8048, Signal: 303.2216
+2025-07-09 23:52:23,222 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 1000.00. Posição aberta: False.
+2025-07-09 23:52:23,238 - DEBUG - SMAs calculadas: Rápida=64528.7200, Lenta=64984.0936
+2025-07-09 23:52:23,238 - DEBUG - RSI: 67.15
+2025-07-09 23:52:23,238 - DEBUG - MACD: 1442.4701, Signal: 531.0713
+2025-07-09 23:52:23,238 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 1000.00. Posição aberta: False.
+2025-07-09 23:52:23,238 - DEBUG - SMAs calculadas: Rápida=64783.1020, Lenta=65024.2210
+2025-07-09 23:52:23,238 - DEBUG - RSI: 60.85
+2025-07-09 23:52:23,238 - DEBUG - MACD: 1434.4870, Signal: 711.7544
+2025-07-09 23:52:23,238 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 1000.00. Posição aberta: False.
+2025-07-09 23:52:23,254 - DEBUG - SMAs calculadas: Rápida=65015.9995, Lenta=65025.4650
+2025-07-09 23:52:23,254 - DEBUG - RSI: 68.57
+2025-07-09 23:52:23,254 - DEBUG - MACD: 1458.1799, Signal: 861.0395
+2025-07-09 23:52:23,254 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 1000.00. Posição aberta: False.
+2025-07-09 23:52:23,254 - DEBUG - SMAs calculadas: Rápida=65279.9280, Lenta=65054.8640
+2025-07-09 23:52:23,254 - DEBUG - RSI: 69.61
+2025-07-09 23:52:23,254 - DEBUG - MACD: 1519.2028, Signal: 992.6722
+2025-07-09 23:52:23,254 - INFO - [Backtest] Simulando COMPRA de BTCUSDT em 69290.5700 USDT. Qtd: 0.0014
+2025-07-09 23:52:23,254 - INFO - [Backtest - Sinal de Compra] Cruzamento altista SMA COM FILTROS para BTCUSDT. Comprando.
+2025-07-09 23:52:23,254 - INFO - [Backtest] COMPRA EXECUTADA: 0.0014 BTCUSDT @ 69290.5700. Capital restante: 900.00
+2025-07-09 23:52:23,271 - DEBUG - SMAs calculadas: Rápida=65547.0520, Lenta=65047.0974
+2025-07-09 23:52:23,271 - DEBUG - RSI: 66.18
+2025-07-09 23:52:23,271 - DEBUG - MACD: 1487.2465, Signal: 1091.5870
+2025-07-09 23:52:23,271 - DEBUG - SMAs calculadas: Rápida=65903.2695, Lenta=65048.6182
+2025-07-09 23:52:23,271 - DEBUG - RSI: 65.33
+2025-07-09 23:52:23,271 - DEBUG - MACD: 1519.3499, Signal: 1177.1396
+2025-07-09 23:52:23,287 - DEBUG - SMAs calculadas: Rápida=66263.5375, Lenta=64984.1860
+2025-07-09 23:52:23,288 - DEBUG - RSI: 66.35
+2025-07-09 23:52:23,288 - DEBUG - MACD: 1444.3809, Signal: 1230.5879
+2025-07-09 23:52:23,292 - DEBUG - SMAs calculadas: Rápida=66492.4580, Lenta=64954.3144
+2025-07-09 23:52:23,292 - DEBUG - RSI: 54.26
+2025-07-09 23:52:23,292 - DEBUG - MACD: 1309.6769, Signal: 1246.4057
+2025-07-09 23:52:23,302 - DEBUG - SMAs calculadas: Rápida=66870.0670, Lenta=64908.7362
+2025-07-09 23:52:23,303 - DEBUG - RSI: 59.33
+2025-07-09 23:52:23,303 - DEBUG - MACD: 1245.0349, Signal: 1246.1315
+2025-07-09 23:52:23,303 - DEBUG - SMAs calculadas: Rápida=67205.7680, Lenta=64859.4118
+2025-07-09 23:52:23,303 - DEBUG - RSI: 51.64
+2025-07-09 23:52:23,303 - DEBUG - MACD: 1115.4134, Signal: 1219.9879
+2025-07-09 23:52:23,316 - DEBUG - SMAs calculadas: Rápida=67519.9110, Lenta=64872.4184
+2025-07-09 23:52:23,317 - DEBUG - RSI: 52.69
+2025-07-09 23:52:23,317 - DEBUG - MACD: 1019.2422, Signal: 1179.8388
+2025-07-09 23:52:23,319 - DEBUG - SMAs calculadas: Rápida=67761.1885, Lenta=64949.2408
+2025-07-09 23:52:23,319 - DEBUG - RSI: 54.90
+2025-07-09 23:52:23,319 - DEBUG - MACD: 932.1819, Signal: 1130.3074
+2025-07-09 23:52:23,331 - DEBUG - SMAs calculadas: Rápida=68122.8090, Lenta=65012.2020
+2025-07-09 23:52:23,332 - DEBUG - RSI: 38.10
+2025-07-09 23:52:23,332 - DEBUG - MACD: 936.6527, Signal: 1091.5764
+2025-07-09 23:52:23,338 - DEBUG - SMAs calculadas: Rápida=68339.3760, Lenta=65154.5590
+2025-07-09 23:52:23,338 - DEBUG - RSI: 51.69
+2025-07-09 23:52:23,338 - DEBUG - MACD: 1067.3227, Signal: 1086.7257
+2025-07-09 23:52:23,347 - DEBUG - SMAs calculadas: Rápida=68633.0155, Lenta=65300.8512
+2025-07-09 23:52:23,347 - DEBUG - RSI: 58.75
+2025-07-09 23:52:23,347 - DEBUG - MACD: 1203.0191, Signal: 1109.9844
+2025-07-09 23:52:23,356 - DEBUG - SMAs calculadas: Rápida=68821.7685, Lenta=65491.2850
+2025-07-09 23:52:23,356 - DEBUG - RSI: 63.86
+2025-07-09 23:52:23,356 - DEBUG - MACD: 1270.9795, Signal: 1142.1834
+2025-07-09 23:52:23,365 - DEBUG - SMAs calculadas: Rápida=68943.7885, Lenta=65608.9954
+2025-07-09 23:52:23,365 - DEBUG - RSI: 53.64
+2025-07-09 23:52:23,367 - DEBUG - MACD: 1194.5930, Signal: 1152.6653
+2025-07-09 23:52:23,373 - DEBUG - SMAs calculadas: Rápida=69095.6110, Lenta=65718.8444
+2025-07-09 23:52:23,373 - DEBUG - RSI: 50.10
+2025-07-09 23:52:23,373 - DEBUG - MACD: 1117.5314, Signal: 1145.6385
+2025-07-09 23:52:23,376 - DEBUG - SMAs calculadas: Rápida=69005.6870, Lenta=65812.9954
+2025-07-09 23:52:23,376 - DEBUG - RSI: 55.74
+2025-07-09 23:52:23,376 - DEBUG - MACD: 1071.3576, Signal: 1130.7824
+2025-07-09 23:52:23,389 - DEBUG - SMAs calculadas: Rápida=68975.2700, Lenta=65904.9724
+2025-07-09 23:52:23,390 - DEBUG - RSI: 50.57
+2025-07-09 23:52:23,390 - DEBUG - MACD: 1014.3458, Signal: 1107.4950
+2025-07-09 23:52:23,390 - DEBUG - SMAs calculadas: Rápida=68882.6510, Lenta=65914.8708
+2025-07-09 23:52:23,390 - DEBUG - RSI: 44.74
+2025-07-09 23:52:23,390 - DEBUG - MACD: 780.5655, Signal: 1042.1091
+2025-07-09 23:52:23,390 - INFO - [Backtest - Sinal de Venda] Trailing Stop para BTCUSDT. Preço: 67314.2400, Stop: 67552.6000
+2025-07-09 23:52:23,390 - INFO - [Backtest] VENDA EXECUTADA: 0.0014 BTCUSDT @ 67314.2400. PnL: -2.85 (-2.85%). Razão: TRAILING_STOP. Capital atual: 997.15
+2025-07-09 23:52:23,406 - DEBUG - SMAs calculadas: Rápida=68897.3680, Lenta=65951.8706
+2025-07-09 23:52:23,406 - DEBUG - RSI: 52.91
+2025-07-09 23:52:23,407 - DEBUG - MACD: 664.2724, Signal: 966.5418
+2025-07-09 23:52:23,407 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:23,416 - DEBUG - SMAs calculadas: Rápida=68808.5190, Lenta=66001.5390
+2025-07-09 23:52:23,416 - DEBUG - RSI: 43.01
+2025-07-09 23:52:23,416 - DEBUG - MACD: 446.6510, Signal: 862.5636
+2025-07-09 23:52:23,416 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:23,423 - DEBUG - SMAs calculadas: Rápida=68646.1900, Lenta=66032.4520
+2025-07-09 23:52:23,424 - DEBUG - RSI: 43.33
+2025-07-09 23:52:23,424 - DEBUG - MACD: 212.9044, Signal: 732.6318
+2025-07-09 23:52:23,425 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:23,431 - DEBUG - SMAs calculadas: Rápida=68532.2190, Lenta=66081.6168
+2025-07-09 23:52:23,431 - DEBUG - RSI: 43.11
+2025-07-09 23:52:23,432 - DEBUG - MACD: 42.0421, Signal: 594.5138
+2025-07-09 23:52:23,432 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:23,441 - DEBUG - SMAs calculadas: Rápida=68394.2410, Lenta=66145.9146
+2025-07-09 23:52:23,442 - DEBUG - RSI: 45.31
+2025-07-09 23:52:23,442 - DEBUG - MACD: -56.5161, Signal: 464.3079
+2025-07-09 23:52:23,442 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:23,448 - DEBUG - SMAs calculadas: Rápida=68299.5380, Lenta=66213.6288
+2025-07-09 23:52:23,449 - DEBUG - RSI: 39.27
+2025-07-09 23:52:23,449 - DEBUG - MACD: -146.8539, Signal: 342.0755
+2025-07-09 23:52:23,449 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:23,456 - DEBUG - SMAs calculadas: Rápida=68175.6830, Lenta=66239.8152
+2025-07-09 23:52:23,457 - DEBUG - RSI: 24.08
+2025-07-09 23:52:23,457 - DEBUG - MACD: -321.9757, Signal: 209.2653
+2025-07-09 23:52:23,458 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:23,458 - DEBUG - SMAs calculadas: Rápida=68006.7930, Lenta=66325.8626
+2025-07-09 23:52:23,458 - DEBUG - RSI: 19.25
+2025-07-09 23:52:23,458 - DEBUG - MACD: -471.5403, Signal: 73.1042
+2025-07-09 23:52:23,458 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:23,472 - DEBUG - SMAs calculadas: Rápida=67873.2920, Lenta=66455.9630
+2025-07-09 23:52:23,472 - DEBUG - RSI: 19.66
+2025-07-09 23:52:23,472 - DEBUG - MACD: -591.6735, Signal: -59.8514
+2025-07-09 23:52:23,472 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:23,472 - DEBUG - SMAs calculadas: Rápida=67692.1275, Lenta=66557.6220
+2025-07-09 23:52:23,472 - DEBUG - RSI: 21.21
+2025-07-09 23:52:23,472 - DEBUG - MACD: -737.0011, Signal: -195.2813
+2025-07-09 23:52:23,472 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:23,488 - DEBUG - SMAs calculadas: Rápida=67516.9465, Lenta=66585.2220
+2025-07-09 23:52:23,488 - DEBUG - RSI: 22.34
+2025-07-09 23:52:23,488 - DEBUG - MACD: -833.0139, Signal: -322.8278
+2025-07-09 23:52:23,488 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:23,488 - DEBUG - SMAs calculadas: Rápida=67236.9520, Lenta=66571.5814
+2025-07-09 23:52:23,488 - DEBUG - RSI: 17.29
+2025-07-09 23:52:23,488 - DEBUG - MACD: -982.6648, Signal: -454.7952
+2025-07-09 23:52:23,488 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:23,505 - DEBUG - SMAs calculadas: Rápida=66724.7250, Lenta=66497.2074
+2025-07-09 23:52:23,505 - DEBUG - RSI: 13.45
+2025-07-09 23:52:23,505 - DEBUG - MACD: -1321.3861, Signal: -628.1134
+2025-07-09 23:52:23,505 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:23,505 - DEBUG - SMAs calculadas: Rápida=66259.6255, Lenta=66470.0238
+2025-07-09 23:52:23,505 - DEBUG - RSI: 26.93
+2025-07-09 23:52:23,505 - DEBUG - MACD: -1451.0356, Signal: -792.6978
+2025-07-09 23:52:23,505 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:23,520 - DEBUG - SMAs calculadas: Rápida=65762.9220, Lenta=66441.0820
+2025-07-09 23:52:23,520 - DEBUG - RSI: 18.98
+2025-07-09 23:52:23,520 - DEBUG - MACD: -1611.1439, Signal: -956.3871
+2025-07-09 23:52:23,520 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:23,520 - DEBUG - SMAs calculadas: Rápida=65380.4655, Lenta=66451.3508
+2025-07-09 23:52:23,520 - DEBUG - RSI: 27.54
+2025-07-09 23:52:23,520 - DEBUG - MACD: -1651.0977, Signal: -1095.3292
+2025-07-09 23:52:23,520 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:23,536 - DEBUG - SMAs calculadas: Rápida=64936.3345, Lenta=66398.4274
+2025-07-09 23:52:23,536 - DEBUG - RSI: 26.26
+2025-07-09 23:52:23,536 - DEBUG - MACD: -1765.5835, Signal: -1229.3801
+2025-07-09 23:52:23,536 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:23,536 - DEBUG - SMAs calculadas: Rápida=64503.2615, Lenta=66402.1612
+2025-07-09 23:52:23,536 - DEBUG - RSI: 28.52
+2025-07-09 23:52:23,536 - DEBUG - MACD: -1790.5800, Signal: -1341.6200
+2025-07-09 23:52:23,536 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:23,552 - DEBUG - SMAs calculadas: Rápida=64164.8620, Lenta=66441.0816
+2025-07-09 23:52:23,552 - DEBUG - RSI: 35.58
+2025-07-09 23:52:23,552 - DEBUG - MACD: -1647.3391, Signal: -1402.7639
+2025-07-09 23:52:23,552 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:23,552 - DEBUG - SMAs calculadas: Rápida=63944.1495, Lenta=66469.4016
+2025-07-09 23:52:23,560 - DEBUG - RSI: 36.64
+2025-07-09 23:52:23,560 - DEBUG - MACD: -1506.1311, Signal: -1423.4373
+2025-07-09 23:52:23,560 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:23,568 - DEBUG - SMAs calculadas: Rápida=63637.7235, Lenta=66453.3094
+2025-07-09 23:52:23,568 - DEBUG - RSI: 38.24
+2025-07-09 23:52:23,568 - DEBUG - MACD: -1439.3215, Signal: -1426.6141
+2025-07-09 23:52:23,569 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:23,569 - DEBUG - SMAs calculadas: Rápida=63309.5020, Lenta=66425.9312
+2025-07-09 23:52:23,569 - DEBUG - RSI: 33.74
+2025-07-09 23:52:23,569 - DEBUG - MACD: -1524.2872, Signal: -1446.1488
+2025-07-09 23:52:23,569 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:23,583 - DEBUG - SMAs calculadas: Rápida=62859.8030, Lenta=66242.8014
+2025-07-09 23:52:23,583 - DEBUG - RSI: 27.92
+2025-07-09 23:52:23,584 - DEBUG - MACD: -1825.4508, Signal: -1522.0092
+2025-07-09 23:52:23,584 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:23,586 - DEBUG - SMAs calculadas: Rápida=62379.8300, Lenta=66070.6730
+2025-07-09 23:52:23,586 - DEBUG - RSI: 28.41
+2025-07-09 23:52:23,586 - DEBUG - MACD: -2074.2038, Signal: -1632.4481
+2025-07-09 23:52:23,586 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:23,598 - DEBUG - SMAs calculadas: Rápida=61957.4930, Lenta=65894.7956
+2025-07-09 23:52:23,598 - DEBUG - RSI: 34.03
+2025-07-09 23:52:23,599 - DEBUG - MACD: -2117.7160, Signal: -1729.5017
+2025-07-09 23:52:23,600 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:23,606 - DEBUG - SMAs calculadas: Rápida=61425.1670, Lenta=65673.6478
+2025-07-09 23:52:23,606 - DEBUG - RSI: 31.81
+2025-07-09 23:52:23,606 - DEBUG - MACD: -2316.9180, Signal: -1846.9849
+2025-07-09 23:52:23,606 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:23,614 - DEBUG - SMAs calculadas: Rápida=61002.1320, Lenta=65482.4600
+2025-07-09 23:52:23,615 - DEBUG - RSI: 40.14
+2025-07-09 23:52:23,615 - DEBUG - MACD: -2378.2349, Signal: -1953.2349
+2025-07-09 23:52:23,616 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:23,623 - DEBUG - SMAs calculadas: Rápida=60655.9135, Lenta=65214.5276
+2025-07-09 23:52:23,623 - DEBUG - RSI: 39.55
+2025-07-09 23:52:23,623 - DEBUG - MACD: -2292.6468, Signal: -2021.1173
+2025-07-09 23:52:23,623 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:23,632 - DEBUG - SMAs calculadas: Rápida=60298.7065, Lenta=64966.0778
+2025-07-09 23:52:23,632 - DEBUG - RSI: 40.96
+2025-07-09 23:52:23,633 - DEBUG - MACD: -2225.3216, Signal: -2061.9582
+2025-07-09 23:52:23,633 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:23,641 - DEBUG - SMAs calculadas: Rápida=59958.5230, Lenta=64729.5432
+2025-07-09 23:52:23,641 - DEBUG - RSI: 37.08
+2025-07-09 23:52:23,641 - DEBUG - MACD: -2178.0030, Signal: -2085.1671
+2025-07-09 23:52:23,642 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:23,642 - DEBUG - SMAs calculadas: Rápida=59639.8775, Lenta=64527.9322
+2025-07-09 23:52:23,642 - DEBUG - RSI: 42.15
+2025-07-09 23:52:23,642 - DEBUG - MACD: -2072.2979, Signal: -2082.5933
+2025-07-09 23:52:23,642 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:23,656 - DEBUG - SMAs calculadas: Rápida=59439.5780, Lenta=64341.0128
+2025-07-09 23:52:23,656 - DEBUG - RSI: 44.73
+2025-07-09 23:52:23,656 - DEBUG - MACD: -1860.9707, Signal: -2038.2688
+2025-07-09 23:52:23,656 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:23,669 - DEBUG - SMAs calculadas: Rápida=59464.8085, Lenta=64171.1596
+2025-07-09 23:52:23,669 - DEBUG - RSI: 44.10
+2025-07-09 23:52:23,669 - DEBUG - MACD: -1547.0453, Signal: -1940.0241
+2025-07-09 23:52:23,669 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:23,677 - DEBUG - SMAs calculadas: Rápida=59610.7150, Lenta=64095.4890
+2025-07-09 23:52:23,678 - DEBUG - RSI: 54.44
+2025-07-09 23:52:23,678 - DEBUG - MACD: -970.2587, Signal: -1746.0710
+2025-07-09 23:52:23,679 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:23,686 - DEBUG - SMAs calculadas: Rápida=59819.6650, Lenta=64007.6402
+2025-07-09 23:52:23,687 - DEBUG - RSI: 57.24
+2025-07-09 23:52:23,687 - DEBUG - MACD: -481.7882, Signal: -1493.2144
+2025-07-09 23:52:23,687 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:23,694 - DEBUG - SMAs calculadas: Rápida=59938.7410, Lenta=63921.4322
+2025-07-09 23:52:23,695 - DEBUG - RSI: 60.15
+2025-07-09 23:52:23,695 - DEBUG - MACD: -169.8551, Signal: -1228.5426
+2025-07-09 23:52:23,695 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:23,702 - DEBUG - SMAs calculadas: Rápida=60116.7450, Lenta=63848.1422
+2025-07-09 23:52:23,702 - DEBUG - RSI: 71.60
+2025-07-09 23:52:23,703 - DEBUG - MACD: 68.4899, Signal: -969.1361
+2025-07-09 23:52:23,704 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:23,711 - DEBUG - SMAs calculadas: Rápida=60400.4110, Lenta=63814.2988
+2025-07-09 23:52:23,711 - DEBUG - RSI: 77.40
+2025-07-09 23:52:23,711 - DEBUG - MACD: 467.6043, Signal: -681.7880
+2025-07-09 23:52:23,712 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:23,720 - DEBUG - SMAs calculadas: Rápida=60618.8085, Lenta=63806.2978
+2025-07-09 23:52:23,721 - DEBUG - RSI: 75.92
+2025-07-09 23:52:23,721 - DEBUG - MACD: 813.2593, Signal: -382.7785
+2025-07-09 23:52:23,722 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:23,728 - DEBUG - SMAs calculadas: Rápida=60882.0760, Lenta=63814.2676
+2025-07-09 23:52:23,729 - DEBUG - RSI: 88.85
+2025-07-09 23:52:23,729 - DEBUG - MACD: 1156.6004, Signal: -74.9028
+2025-07-09 23:52:23,729 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:23,737 - DEBUG - SMAs calculadas: Rápida=61151.9030, Lenta=63809.5952
+2025-07-09 23:52:23,737 - DEBUG - RSI: 84.63
+2025-07-09 23:52:23,738 - DEBUG - MACD: 1361.8972, Signal: 212.4572
+2025-07-09 23:52:23,738 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:23,745 - DEBUG - SMAs calculadas: Rápida=61438.2745, Lenta=63752.1174
+2025-07-09 23:52:23,745 - DEBUG - RSI: 74.83
+2025-07-09 23:52:23,745 - DEBUG - MACD: 1379.9058, Signal: 445.9470
+2025-07-09 23:52:23,746 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:23,752 - DEBUG - SMAs calculadas: Rápida=61854.5740, Lenta=63648.8806
+2025-07-09 23:52:23,752 - DEBUG - RSI: 73.74
+2025-07-09 23:52:23,752 - DEBUG - MACD: 1333.6165, Signal: 623.4809
+2025-07-09 23:52:23,752 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:23,761 - DEBUG - SMAs calculadas: Rápida=62313.1320, Lenta=63542.7196
+2025-07-09 23:52:23,762 - DEBUG - RSI: 76.19
+2025-07-09 23:52:23,762 - DEBUG - MACD: 1315.9715, Signal: 761.9790
+2025-07-09 23:52:23,763 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:23,770 - DEBUG - SMAs calculadas: Rápida=62797.0250, Lenta=63484.8982
+2025-07-09 23:52:23,771 - DEBUG - RSI: 78.29
+2025-07-09 23:52:23,771 - DEBUG - MACD: 1455.3129, Signal: 900.6458
+2025-07-09 23:52:23,771 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:23,778 - DEBUG - SMAs calculadas: Rápida=63398.9595, Lenta=63455.7162
+2025-07-09 23:52:23,779 - DEBUG - RSI: 76.49
+2025-07-09 23:52:23,779 - DEBUG - MACD: 1546.9822, Signal: 1029.9131
+2025-07-09 23:52:23,779 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:23,786 - DEBUG - SMAs calculadas: Rápida=63975.7225, Lenta=63434.5046
+2025-07-09 23:52:23,786 - DEBUG - RSI: 74.57
+2025-07-09 23:52:23,786 - DEBUG - MACD: 1629.3633, Signal: 1149.8031
+2025-07-09 23:52:23,787 - DEBUG - Filtro RSI: Sobrecomprado (74.57). Não comprar.
+2025-07-09 23:52:23,787 - INFO - [Backtest - Sinal de Compra] Cruzamento altista SMA para BTCUSDT, mas filtros não passaram.
+2025-07-09 23:52:23,795 - DEBUG - SMAs calculadas: Rápida=64412.4570, Lenta=63377.2356
+2025-07-09 23:52:23,795 - DEBUG - RSI: 58.11
+2025-07-09 23:52:23,795 - DEBUG - MACD: 1558.4574, Signal: 1231.5340
+2025-07-09 23:52:23,797 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:23,803 - DEBUG - SMAs calculadas: Rápida=64835.5645, Lenta=63310.1956
+2025-07-09 23:52:23,804 - DEBUG - RSI: 54.41
+2025-07-09 23:52:23,805 - DEBUG - MACD: 1437.5450, Signal: 1272.7362
+2025-07-09 23:52:23,805 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:23,812 - DEBUG - SMAs calculadas: Rápida=65199.9700, Lenta=63256.4708
+2025-07-09 23:52:23,812 - DEBUG - RSI: 51.99
+2025-07-09 23:52:23,813 - DEBUG - MACD: 1201.9863, Signal: 1258.5862
+2025-07-09 23:52:23,813 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:23,821 - DEBUG - SMAs calculadas: Rápida=65573.2160, Lenta=63198.2714
+2025-07-09 23:52:23,821 - DEBUG - RSI: 54.81
+2025-07-09 23:52:23,821 - DEBUG - MACD: 1061.6500, Signal: 1219.1990
+2025-07-09 23:52:23,821 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:23,828 - DEBUG - SMAs calculadas: Rápida=65687.9315, Lenta=63092.7778
+2025-07-09 23:52:23,829 - DEBUG - RSI: 33.24
+2025-07-09 23:52:23,829 - DEBUG - MACD: 632.0249, Signal: 1101.7642
+2025-07-09 23:52:23,830 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:23,837 - DEBUG - SMAs calculadas: Rápida=65682.9355, Lenta=62985.8578
+2025-07-09 23:52:23,837 - DEBUG - RSI: 29.50
+2025-07-09 23:52:23,837 - DEBUG - MACD: 224.3768, Signal: 926.2867
+2025-07-09 23:52:23,837 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:23,845 - DEBUG - SMAs calculadas: Rápida=65354.7785, Lenta=62824.5128
+2025-07-09 23:52:23,845 - DEBUG - RSI: 20.96
+2025-07-09 23:52:23,846 - DEBUG - MACD: -299.9437, Signal: 681.0406
+2025-07-09 23:52:23,846 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:23,853 - DEBUG - SMAs calculadas: Rápida=64803.5195, Lenta=62571.3516
+2025-07-09 23:52:23,853 - DEBUG - RSI: 17.42
+2025-07-09 23:52:23,853 - DEBUG - MACD: -1037.7490, Signal: 337.2827
+2025-07-09 23:52:23,853 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:23,863 - DEBUG - SMAs calculadas: Rápida=64400.2205, Lenta=62361.7052
+2025-07-09 23:52:23,864 - DEBUG - RSI: 26.56
+2025-07-09 23:52:23,864 - DEBUG - MACD: -1444.1760, Signal: -19.0090
+2025-07-09 23:52:23,865 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:23,872 - DEBUG - SMAs calculadas: Rápida=63957.5325, Lenta=62160.8820
+2025-07-09 23:52:23,872 - DEBUG - RSI: 26.15
+2025-07-09 23:52:23,872 - DEBUG - MACD: -1816.9694, Signal: -378.6011
+2025-07-09 23:52:23,872 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:23,872 - DEBUG - SMAs calculadas: Rápida=63708.8320, Lenta=62095.1144
+2025-07-09 23:52:23,872 - DEBUG - RSI: 42.55
+2025-07-09 23:52:23,872 - DEBUG - MACD: -1565.6848, Signal: -616.0179
+2025-07-09 23:52:23,872 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:23,888 - DEBUG - SMAs calculadas: Rápida=63393.7335, Lenta=62014.4744
+2025-07-09 23:52:23,888 - DEBUG - RSI: 36.58
+2025-07-09 23:52:23,888 - DEBUG - MACD: -1418.6135, Signal: -776.5370
+2025-07-09 23:52:23,888 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:23,888 - DEBUG - SMAs calculadas: Rápida=63031.6420, Lenta=61950.0734
+2025-07-09 23:52:23,888 - DEBUG - RSI: 36.80
+2025-07-09 23:52:23,888 - DEBUG - MACD: -1280.3981, Signal: -877.3092
+2025-07-09 23:52:23,888 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:23,903 - DEBUG - SMAs calculadas: Rápida=62590.6710, Lenta=61839.0850
+2025-07-09 23:52:23,903 - DEBUG - RSI: 33.13
+2025-07-09 23:52:23,904 - DEBUG - MACD: -1333.8879, Signal: -968.6249
+2025-07-09 23:52:23,904 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:23,905 - DEBUG - SMAs calculadas: Rápida=62261.2025, Lenta=61761.8176
+2025-07-09 23:52:23,905 - DEBUG - RSI: 36.45
+2025-07-09 23:52:23,905 - DEBUG - MACD: -1310.0154, Signal: -1036.9030
+2025-07-09 23:52:23,905 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:23,920 - DEBUG - SMAs calculadas: Rápida=62021.7600, Lenta=61767.6946
+2025-07-09 23:52:23,920 - DEBUG - RSI: 40.03
+2025-07-09 23:52:23,921 - DEBUG - MACD: -1177.4249, Signal: -1065.0074
+2025-07-09 23:52:23,921 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:23,929 - DEBUG - SMAs calculadas: Rápida=61665.9320, Lenta=61705.2422
+2025-07-09 23:52:23,929 - DEBUG - RSI: 39.54
+2025-07-09 23:52:23,929 - DEBUG - MACD: -1211.9923, Signal: -1094.4044
+2025-07-09 23:52:23,930 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:23,937 - DEBUG - SMAs calculadas: Rápida=61147.5855, Lenta=61638.7636
+2025-07-09 23:52:23,937 - DEBUG - RSI: 36.46
+2025-07-09 23:52:23,938 - DEBUG - MACD: -1316.3893, Signal: -1138.8014
+2025-07-09 23:52:23,938 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:23,944 - DEBUG - SMAs calculadas: Rápida=60696.4905, Lenta=61582.1262
+2025-07-09 23:52:23,945 - DEBUG - RSI: 45.02
+2025-07-09 23:52:23,945 - DEBUG - MACD: -1276.8009, Signal: -1166.4013
+2025-07-09 23:52:23,945 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:23,954 - DEBUG - SMAs calculadas: Rápida=60258.5960, Lenta=61563.4092
+2025-07-09 23:52:23,955 - DEBUG - RSI: 47.69
+2025-07-09 23:52:23,955 - DEBUG - MACD: -1181.9834, Signal: -1169.5177
+2025-07-09 23:52:23,956 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:23,961 - DEBUG - SMAs calculadas: Rápida=59840.7290, Lenta=61512.2226
+2025-07-09 23:52:23,962 - DEBUG - RSI: 50.54
+2025-07-09 23:52:23,962 - DEBUG - MACD: -1179.1549, Signal: -1171.4451
+2025-07-09 23:52:23,962 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:23,969 - DEBUG - SMAs calculadas: Rápida=59503.2540, Lenta=61445.5524
+2025-07-09 23:52:23,969 - DEBUG - RSI: 62.58
+2025-07-09 23:52:23,969 - DEBUG - MACD: -1082.8396, Signal: -1153.7240
+2025-07-09 23:52:23,969 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:23,977 - DEBUG - SMAs calculadas: Rápida=59222.5440, Lenta=61367.8286
+2025-07-09 23:52:23,977 - DEBUG - RSI: 57.50
+2025-07-09 23:52:23,977 - DEBUG - MACD: -1028.9181, Signal: -1128.7628
+2025-07-09 23:52:23,977 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:23,985 - DEBUG - SMAs calculadas: Rápida=59012.6445, Lenta=61348.2398
+2025-07-09 23:52:23,985 - DEBUG - RSI: 64.20
+2025-07-09 23:52:23,985 - DEBUG - MACD: -804.0561, Signal: -1063.8215
+2025-07-09 23:52:23,985 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:23,993 - DEBUG - SMAs calculadas: Rápida=58956.5200, Lenta=61351.5850
+2025-07-09 23:52:23,993 - DEBUG - RSI: 45.76
+2025-07-09 23:52:23,993 - DEBUG - MACD: -680.9566, Signal: -987.2485
+2025-07-09 23:52:23,993 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:24,001 - DEBUG - SMAs calculadas: Rápida=59123.4825, Lenta=61491.3296
+2025-07-09 23:52:24,001 - DEBUG - RSI: 58.76
+2025-07-09 23:52:24,002 - DEBUG - MACD: -284.6734, Signal: -846.7335
+2025-07-09 23:52:24,002 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:24,008 - DEBUG - SMAs calculadas: Rápida=59423.2830, Lenta=61641.8940
+2025-07-09 23:52:24,009 - DEBUG - RSI: 58.84
+2025-07-09 23:52:24,009 - DEBUG - MACD: 38.6033, Signal: -669.6661
+2025-07-09 23:52:24,010 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:24,010 - DEBUG - SMAs calculadas: Rápida=59933.3425, Lenta=61761.6914
+2025-07-09 23:52:24,017 - DEBUG - RSI: 67.06
+2025-07-09 23:52:24,017 - DEBUG - MACD: 296.4677, Signal: -476.4394
+2025-07-09 23:52:24,018 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:24,025 - DEBUG - SMAs calculadas: Rápida=60273.9420, Lenta=61901.2152
+2025-07-09 23:52:24,025 - DEBUG - RSI: 60.32
+2025-07-09 23:52:24,025 - DEBUG - MACD: 384.5556, Signal: -304.2404
+2025-07-09 23:52:24,026 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:24,026 - DEBUG - SMAs calculadas: Rápida=60487.9840, Lenta=61955.2228
+2025-07-09 23:52:24,026 - DEBUG - RSI: 46.93
+2025-07-09 23:52:24,026 - DEBUG - MACD: 176.4471, Signal: -208.1029
+2025-07-09 23:52:24,033 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:24,037 - DEBUG - SMAs calculadas: Rápida=60355.4295, Lenta=61974.9208
+2025-07-09 23:52:24,053 - DEBUG - RSI: 51.00
+2025-07-09 23:52:24,053 - DEBUG - MACD: -18.9329, Signal: -170.2689
+2025-07-09 23:52:24,053 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:24,068 - DEBUG - SMAs calculadas: Rápida=60281.4805, Lenta=62007.5840
+2025-07-09 23:52:24,068 - DEBUG - RSI: 55.43
+2025-07-09 23:52:24,068 - DEBUG - MACD: -145.9378, Signal: -165.4027
+2025-07-09 23:52:24,068 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:24,087 - DEBUG - SMAs calculadas: Rápida=60191.5045, Lenta=62043.2660
+2025-07-09 23:52:24,088 - DEBUG - RSI: 50.80
+2025-07-09 23:52:24,088 - DEBUG - MACD: -262.5280, Signal: -184.8277
+2025-07-09 23:52:24,091 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:24,102 - DEBUG - SMAs calculadas: Rápida=60204.5745, Lenta=62064.9638
+2025-07-09 23:52:24,103 - DEBUG - RSI: 48.29
+2025-07-09 23:52:24,103 - DEBUG - MACD: -362.8476, Signal: -220.4317
+2025-07-09 23:52:24,103 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:24,109 - DEBUG - SMAs calculadas: Rápida=60102.3355, Lenta=62026.9206
+2025-07-09 23:52:24,110 - DEBUG - RSI: 46.43
+2025-07-09 23:52:24,110 - DEBUG - MACD: -570.6999, Signal: -290.4853
+2025-07-09 23:52:24,110 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:24,117 - DEBUG - SMAs calculadas: Rápida=60029.5845, Lenta=61993.6050
+2025-07-09 23:52:24,118 - DEBUG - RSI: 49.08
+2025-07-09 23:52:24,118 - DEBUG - MACD: -581.0389, Signal: -348.5961
+2025-07-09 23:52:24,119 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:24,125 - DEBUG - SMAs calculadas: Rápida=59969.8015, Lenta=61848.8768
+2025-07-09 23:52:24,125 - DEBUG - RSI: 45.72
+2025-07-09 23:52:24,125 - DEBUG - MACD: -713.6950, Signal: -421.6158
+2025-07-09 23:52:24,126 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:24,132 - DEBUG - SMAs calculadas: Rápida=59991.2935, Lenta=61707.4150
+2025-07-09 23:52:24,132 - DEBUG - RSI: 40.14
+2025-07-09 23:52:24,133 - DEBUG - MACD: -770.9511, Signal: -491.4829
+2025-07-09 23:52:24,133 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:24,141 - DEBUG - SMAs calculadas: Rápida=59856.5635, Lenta=61549.2552
+2025-07-09 23:52:24,141 - DEBUG - RSI: 37.77
+2025-07-09 23:52:24,142 - DEBUG - MACD: -949.8879, Signal: -583.1639
+2025-07-09 23:52:24,142 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:24,142 - DEBUG - SMAs calculadas: Rápida=59580.1125, Lenta=61348.7562
+2025-07-09 23:52:24,142 - DEBUG - RSI: 17.95
+2025-07-09 23:52:24,142 - DEBUG - MACD: -1256.1127, Signal: -717.7537
+2025-07-09 23:52:24,142 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:24,156 - DEBUG - SMAs calculadas: Rápida=59366.7880, Lenta=61098.7734
+2025-07-09 23:52:24,157 - DEBUG - RSI: 18.35
+2025-07-09 23:52:24,157 - DEBUG - MACD: -1465.9317, Signal: -867.3893
+2025-07-09 23:52:24,158 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:24,164 - DEBUG - SMAs calculadas: Rápida=59138.3605, Lenta=60853.3732
+2025-07-09 23:52:24,164 - DEBUG - RSI: 21.56
+2025-07-09 23:52:24,164 - DEBUG - MACD: -1557.0484, Signal: -1005.3211
+2025-07-09 23:52:24,165 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:24,173 - DEBUG - SMAs calculadas: Rápida=59039.7705, Lenta=60630.9064
+2025-07-09 23:52:24,173 - DEBUG - RSI: 33.19
+2025-07-09 23:52:24,173 - DEBUG - MACD: -1437.4230, Signal: -1091.7415
+2025-07-09 23:52:24,173 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:24,179 - DEBUG - SMAs calculadas: Rápida=58863.7685, Lenta=60432.9860
+2025-07-09 23:52:24,179 - DEBUG - RSI: 43.82
+2025-07-09 23:52:24,180 - DEBUG - MACD: -1279.9347, Signal: -1129.3801
+2025-07-09 23:52:24,180 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:24,186 - DEBUG - SMAs calculadas: Rápida=58711.8765, Lenta=60261.0258
+2025-07-09 23:52:24,186 - DEBUG - RSI: 44.07
+2025-07-09 23:52:24,186 - DEBUG - MACD: -1165.7316, Signal: -1136.6504
+2025-07-09 23:52:24,186 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:24,186 - DEBUG - SMAs calculadas: Rápida=58416.6305, Lenta=60116.1522
+2025-07-09 23:52:24,186 - DEBUG - RSI: 45.85
+2025-07-09 23:52:24,186 - DEBUG - MACD: -999.6070, Signal: -1109.2417
+2025-07-09 23:52:24,186 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:24,204 - DEBUG - SMAs calculadas: Rápida=58233.6800, Lenta=60010.1132
+2025-07-09 23:52:24,204 - DEBUG - RSI: 54.06
+2025-07-09 23:52:24,204 - DEBUG - MACD: -669.3456, Signal: -1021.2625
+2025-07-09 23:52:24,204 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:24,209 - DEBUG - SMAs calculadas: Rápida=58022.3315, Lenta=59851.8140
+2025-07-09 23:52:24,209 - DEBUG - RSI: 52.95
+2025-07-09 23:52:24,209 - DEBUG - MACD: -443.2485, Signal: -905.6597
+2025-07-09 23:52:24,209 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:24,217 - DEBUG - SMAs calculadas: Rápida=57837.2315, Lenta=59676.5240
+2025-07-09 23:52:24,218 - DEBUG - RSI: 55.56
+2025-07-09 23:52:24,218 - DEBUG - MACD: -329.7417, Signal: -790.4761
+2025-07-09 23:52:24,218 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:24,227 - DEBUG - SMAs calculadas: Rápida=57777.1810, Lenta=59475.8062
+2025-07-09 23:52:24,227 - DEBUG - RSI: 47.05
+2025-07-09 23:52:24,228 - DEBUG - MACD: -310.2858, Signal: -694.4381
+2025-07-09 23:52:24,228 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:24,236 - DEBUG - SMAs calculadas: Rápida=57841.1355, Lenta=59346.3922
+2025-07-09 23:52:24,236 - DEBUG - RSI: 58.83
+2025-07-09 23:52:24,237 - DEBUG - MACD: -123.9851, Signal: -580.3475
+2025-07-09 23:52:24,237 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:24,241 - DEBUG - SMAs calculadas: Rápida=57961.1845, Lenta=59257.8320
+2025-07-09 23:52:24,241 - DEBUG - RSI: 61.16
+2025-07-09 23:52:24,241 - DEBUG - MACD: 138.7403, Signal: -436.5299
+2025-07-09 23:52:24,241 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:24,250 - DEBUG - SMAs calculadas: Rápida=58152.3845, Lenta=59224.2318
+2025-07-09 23:52:24,250 - DEBUG - RSI: 70.68
+2025-07-09 23:52:24,251 - DEBUG - MACD: 437.7675, Signal: -261.6704
+2025-07-09 23:52:24,251 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:24,258 - DEBUG - SMAs calculadas: Rápida=58363.7375, Lenta=59181.1724
+2025-07-09 23:52:24,258 - DEBUG - RSI: 82.07
+2025-07-09 23:52:24,259 - DEBUG - MACD: 687.2463, Signal: -71.8871
+2025-07-09 23:52:24,259 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:24,265 - DEBUG - SMAs calculadas: Rápida=58666.0925, Lenta=59218.1850
+2025-07-09 23:52:24,265 - DEBUG - RSI: 82.01
+2025-07-09 23:52:24,265 - DEBUG - MACD: 886.6742, Signal: 119.8252
+2025-07-09 23:52:24,266 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:24,275 - DEBUG - SMAs calculadas: Rápida=58888.4240, Lenta=59275.8004
+2025-07-09 23:52:24,275 - DEBUG - RSI: 81.39
+2025-07-09 23:52:24,275 - DEBUG - MACD: 1051.1481, Signal: 306.0898
+2025-07-09 23:52:24,275 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:24,277 - DEBUG - SMAs calculadas: Rápida=59181.0370, Lenta=59379.3802
+2025-07-09 23:52:24,277 - DEBUG - RSI: 76.37
+2025-07-09 23:52:24,277 - DEBUG - MACD: 1148.9834, Signal: 474.6685
+2025-07-09 23:52:24,277 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:24,289 - DEBUG - SMAs calculadas: Rápida=59495.6270, Lenta=59584.2580
+2025-07-09 23:52:24,289 - DEBUG - RSI: 77.01
+2025-07-09 23:52:24,289 - DEBUG - MACD: 1286.1477, Signal: 636.9643
+2025-07-09 23:52:24,289 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:24,289 - DEBUG - SMAs calculadas: Rápida=59844.2275, Lenta=59726.8580
+2025-07-09 23:52:24,289 - DEBUG - RSI: 72.22
+2025-07-09 23:52:24,289 - DEBUG - MACD: 1290.3536, Signal: 767.6422
+2025-07-09 23:52:24,289 - DEBUG - Filtro RSI: Sobrecomprado (72.22). Não comprar.
+2025-07-09 23:52:24,299 - INFO - [Backtest - Sinal de Compra] Cruzamento altista SMA para BTCUSDT, mas filtros não passaram.
+2025-07-09 23:52:24,305 - DEBUG - SMAs calculadas: Rápida=60404.7785, Lenta=59927.6546
+2025-07-09 23:52:24,305 - DEBUG - RSI: 74.61
+2025-07-09 23:52:24,305 - DEBUG - MACD: 1440.2414, Signal: 902.1620
+2025-07-09 23:52:24,305 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:24,314 - DEBUG - SMAs calculadas: Rápida=60985.2330, Lenta=60009.3338
+2025-07-09 23:52:24,314 - DEBUG - RSI: 71.02
+2025-07-09 23:52:24,315 - DEBUG - MACD: 1588.8029, Signal: 1039.4902
+2025-07-09 23:52:24,315 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:24,321 - DEBUG - SMAs calculadas: Rápida=61534.6355, Lenta=60109.7340
+2025-07-09 23:52:24,321 - DEBUG - RSI: 74.19
+2025-07-09 23:52:24,321 - DEBUG - MACD: 1694.1151, Signal: 1170.4152
+2025-07-09 23:52:24,321 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:24,329 - DEBUG - SMAs calculadas: Rápida=61962.6360, Lenta=60203.3040
+2025-07-09 23:52:24,329 - DEBUG - RSI: 78.09
+2025-07-09 23:52:24,329 - DEBUG - MACD: 1736.8977, Signal: 1283.7117
+2025-07-09 23:52:24,329 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:24,336 - DEBUG - SMAs calculadas: Rápida=62247.2160, Lenta=60295.6040
+2025-07-09 23:52:24,336 - DEBUG - RSI: 69.86
+2025-07-09 23:52:24,336 - DEBUG - MACD: 1569.1879, Signal: 1340.8069
+2025-07-09 23:52:24,336 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:24,336 - DEBUG - SMAs calculadas: Rápida=62420.6050, Lenta=60324.7868
+2025-07-09 23:52:24,336 - DEBUG - RSI: 51.85
+2025-07-09 23:52:24,336 - DEBUG - MACD: 1218.7388, Signal: 1316.3933
+2025-07-09 23:52:24,336 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:24,353 - DEBUG - SMAs calculadas: Rápida=62546.4530, Lenta=60326.0294
+2025-07-09 23:52:24,354 - DEBUG - RSI: 45.37
+2025-07-09 23:52:24,354 - DEBUG - MACD: 917.7973, Signal: 1236.6741
+2025-07-09 23:52:24,355 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:24,358 - DEBUG - SMAs calculadas: Rápida=62559.1885, Lenta=60367.4158
+2025-07-09 23:52:24,358 - DEBUG - RSI: 39.95
+2025-07-09 23:52:24,358 - DEBUG - MACD: 679.8086, Signal: 1125.3010
+2025-07-09 23:52:24,358 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:24,368 - DEBUG - SMAs calculadas: Rápida=62663.8370, Lenta=60458.3146
+2025-07-09 23:52:24,369 - DEBUG - RSI: 45.35
+2025-07-09 23:52:24,369 - DEBUG - MACD: 591.9624, Signal: 1018.6333
+2025-07-09 23:52:24,370 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:24,375 - DEBUG - SMAs calculadas: Rápida=62810.1370, Lenta=60521.9826
+2025-07-09 23:52:24,375 - DEBUG - RSI: 44.57
+2025-07-09 23:52:24,375 - DEBUG - MACD: 514.1574, Signal: 917.7381
+2025-07-09 23:52:24,375 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:24,382 - DEBUG - SMAs calculadas: Rápida=63040.4330, Lenta=60588.5410
+2025-07-09 23:52:24,382 - DEBUG - RSI: 46.94
+2025-07-09 23:52:24,383 - DEBUG - MACD: 508.1188, Signal: 835.8142
+2025-07-09 23:52:24,383 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:24,390 - DEBUG - SMAs calculadas: Rápida=63135.9335, Lenta=60664.4740
+2025-07-09 23:52:24,390 - DEBUG - RSI: 45.63
+2025-07-09 23:52:24,390 - DEBUG - MACD: 450.0603, Signal: 758.6634
+2025-07-09 23:52:24,390 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:24,397 - DEBUG - SMAs calculadas: Rápida=63155.9585, Lenta=60718.9138
+2025-07-09 23:52:24,397 - DEBUG - RSI: 41.18
+2025-07-09 23:52:24,397 - DEBUG - MACD: 394.3776, Signal: 685.8063
+2025-07-09 23:52:24,397 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:24,404 - DEBUG - SMAs calculadas: Rápida=63040.3600, Lenta=60751.3582
+2025-07-09 23:52:24,404 - DEBUG - RSI: 39.79
+2025-07-09 23:52:24,404 - DEBUG - MACD: 224.6471, Signal: 593.5744
+2025-07-09 23:52:24,404 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:24,412 - DEBUG - SMAs calculadas: Rápida=62896.6270, Lenta=60734.7654
+2025-07-09 23:52:24,412 - DEBUG - RSI: 27.16
+2025-07-09 23:52:24,413 - DEBUG - MACD: 64.4074, Signal: 487.7410
+2025-07-09 23:52:24,413 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:24,422 - DEBUG - SMAs calculadas: Rápida=62856.1790, Lenta=60778.0486
+2025-07-09 23:52:24,422 - DEBUG - RSI: 36.80
+2025-07-09 23:52:24,422 - DEBUG - MACD: 114.7138, Signal: 413.1356
+2025-07-09 23:52:24,423 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:24,425 - DEBUG - SMAs calculadas: Rápida=62837.5520, Lenta=60761.4282
+2025-07-09 23:52:24,425 - DEBUG - RSI: 39.65
+2025-07-09 23:52:24,425 - DEBUG - MACD: 205.9661, Signal: 371.7017
+2025-07-09 23:52:24,425 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:24,435 - DEBUG - SMAs calculadas: Rápida=62814.0535, Lenta=60735.6884
+2025-07-09 23:52:24,435 - DEBUG - RSI: 39.40
+2025-07-09 23:52:24,435 - DEBUG - MACD: 248.2935, Signal: 347.0201
+2025-07-09 23:52:24,435 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:24,435 - DEBUG - SMAs calculadas: Rápida=62905.1180, Lenta=60772.9682
+2025-07-09 23:52:24,435 - DEBUG - RSI: 59.97
+2025-07-09 23:52:24,435 - DEBUG - MACD: 535.0116, Signal: 384.6184
+2025-07-09 23:52:24,435 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:24,452 - DEBUG - SMAs calculadas: Rápida=63101.2245, Lenta=60857.7710
+2025-07-09 23:52:24,452 - DEBUG - RSI: 75.49
+2025-07-09 23:52:24,453 - DEBUG - MACD: 832.5375, Signal: 474.2022
+2025-07-09 23:52:24,453 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:24,458 - DEBUG - SMAs calculadas: Rápida=63223.5255, Lenta=61021.8712
+2025-07-09 23:52:24,458 - DEBUG - RSI: 77.47
+2025-07-09 23:52:24,458 - DEBUG - MACD: 1099.6995, Signal: 599.3016
+2025-07-09 23:52:24,458 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:24,465 - DEBUG - SMAs calculadas: Rápida=63306.1170, Lenta=61189.6088
+2025-07-09 23:52:24,465 - DEBUG - RSI: 76.09
+2025-07-09 23:52:24,467 - DEBUG - MACD: 1280.6690, Signal: 735.5751
+2025-07-09 23:52:24,467 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:24,472 - DEBUG - SMAs calculadas: Rápida=63434.6170, Lenta=61370.9886
+2025-07-09 23:52:24,472 - DEBUG - RSI: 75.46
+2025-07-09 23:52:24,472 - DEBUG - MACD: 1488.1280, Signal: 886.0857
+2025-07-09 23:52:24,472 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:24,481 - DEBUG - SMAs calculadas: Rápida=63573.4165, Lenta=61556.0688
+2025-07-09 23:52:24,481 - DEBUG - RSI: 75.33
+2025-07-09 23:52:24,481 - DEBUG - MACD: 1629.7197, Signal: 1034.8125
+2025-07-09 23:52:24,481 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:24,488 - DEBUG - SMAs calculadas: Rápida=63858.6365, Lenta=61757.2288
+2025-07-09 23:52:24,488 - DEBUG - RSI: 75.11
+2025-07-09 23:52:24,488 - DEBUG - MACD: 1774.2513, Signal: 1182.7002
+2025-07-09 23:52:24,488 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:24,498 - DEBUG - SMAs calculadas: Rápida=64187.2225, Lenta=61958.7416
+2025-07-09 23:52:24,498 - DEBUG - RSI: 69.19
+2025-07-09 23:52:24,498 - DEBUG - MACD: 1735.2867, Signal: 1293.2175
+2025-07-09 23:52:24,500 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:24,508 - DEBUG - SMAs calculadas: Rápida=64526.0585, Lenta=62124.6190
+2025-07-09 23:52:24,508 - DEBUG - RSI: 69.63
+2025-07-09 23:52:24,509 - DEBUG - MACD: 1688.8526, Signal: 1372.3446
+2025-07-09 23:52:24,509 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:24,514 - DEBUG - SMAs calculadas: Rápida=64821.8555, Lenta=62308.2374
+2025-07-09 23:52:24,514 - DEBUG - RSI: 73.85
+2025-07-09 23:52:24,514 - DEBUG - MACD: 1572.8110, Signal: 1412.4378
+2025-07-09 23:52:24,514 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:24,522 - DEBUG - SMAs calculadas: Rápida=65127.4695, Lenta=62512.7850
+2025-07-09 23:52:24,522 - DEBUG - RSI: 78.39
+2025-07-09 23:52:24,522 - DEBUG - MACD: 1585.9932, Signal: 1447.1489
+2025-07-09 23:52:24,522 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:24,530 - DEBUG - SMAs calculadas: Rápida=65359.4860, Lenta=62723.1516
+2025-07-09 23:52:24,530 - DEBUG - RSI: 65.81
+2025-07-09 23:52:24,531 - DEBUG - MACD: 1458.5930, Signal: 1449.4377
+2025-07-09 23:52:24,531 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:24,537 - DEBUG - SMAs calculadas: Rápida=65573.1285, Lenta=62985.7474
+2025-07-09 23:52:24,537 - DEBUG - RSI: 65.09
+2025-07-09 23:52:24,537 - DEBUG - MACD: 1373.6204, Signal: 1434.2743
+2025-07-09 23:52:24,539 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:24,545 - DEBUG - SMAs calculadas: Rápida=65863.0135, Lenta=63262.9642
+2025-07-09 23:52:24,545 - DEBUG - RSI: 69.12
+2025-07-09 23:52:24,545 - DEBUG - MACD: 1365.4961, Signal: 1420.5186
+2025-07-09 23:52:24,547 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:24,551 - DEBUG - SMAs calculadas: Rápida=66253.0995, Lenta=63564.8094
+2025-07-09 23:52:24,551 - DEBUG - RSI: 65.90
+2025-07-09 23:52:24,551 - DEBUG - MACD: 1498.3682, Signal: 1436.0885
+2025-07-09 23:52:24,551 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:24,551 - DEBUG - SMAs calculadas: Rápida=66858.1195, Lenta=63878.6978
+2025-07-09 23:52:24,551 - DEBUG - RSI: 70.25
+2025-07-09 23:52:24,551 - DEBUG - MACD: 1806.6994, Signal: 1510.2107
+2025-07-09 23:52:24,551 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:24,568 - DEBUG - SMAs calculadas: Rápida=67459.0370, Lenta=64172.8728
+2025-07-09 23:52:24,568 - DEBUG - RSI: 67.08
+2025-07-09 23:52:24,568 - DEBUG - MACD: 1996.4351, Signal: 1607.4556
+2025-07-09 23:52:24,568 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:24,573 - DEBUG - SMAs calculadas: Rápida=67846.6375, Lenta=64431.9530
+2025-07-09 23:52:24,573 - DEBUG - RSI: 59.15
+2025-07-09 23:52:24,573 - DEBUG - MACD: 1958.5865, Signal: 1677.6818
+2025-07-09 23:52:24,573 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:24,585 - DEBUG - SMAs calculadas: Rápida=68161.1270, Lenta=64659.2268
+2025-07-09 23:52:24,586 - DEBUG - RSI: 53.45
+2025-07-09 23:52:24,586 - DEBUG - MACD: 1843.1144, Signal: 1710.7683
+2025-07-09 23:52:24,587 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:24,591 - DEBUG - SMAs calculadas: Rápida=68486.3630, Lenta=64836.7616
+2025-07-09 23:52:24,591 - DEBUG - RSI: 53.21
+2025-07-09 23:52:24,591 - DEBUG - MACD: 1721.9666, Signal: 1713.0080
+2025-07-09 23:52:24,591 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:24,600 - DEBUG - SMAs calculadas: Rápida=68620.9630, Lenta=65012.4208
+2025-07-09 23:52:24,601 - DEBUG - RSI: 49.17
+2025-07-09 23:52:24,602 - DEBUG - MACD: 1559.6633, Signal: 1682.3390
+2025-07-09 23:52:24,602 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:24,608 - DEBUG - SMAs calculadas: Rápida=68659.7565, Lenta=65186.7810
+2025-07-09 23:52:24,608 - DEBUG - RSI: 51.60
+2025-07-09 23:52:24,608 - DEBUG - MACD: 1340.8612, Signal: 1614.0434
+2025-07-09 23:52:24,608 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:24,615 - DEBUG - SMAs calculadas: Rápida=68747.3565, Lenta=65409.9414
+2025-07-09 23:52:24,615 - DEBUG - RSI: 55.99
+2025-07-09 23:52:24,616 - DEBUG - MACD: 1275.5677, Signal: 1546.3483
+2025-07-09 23:52:24,616 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:24,624 - DEBUG - SMAs calculadas: Rápida=69154.8670, Lenta=65715.1014
+2025-07-09 23:52:24,624 - DEBUG - RSI: 70.54
+2025-07-09 23:52:24,624 - DEBUG - MACD: 1704.4608, Signal: 1577.9708
+2025-07-09 23:52:24,625 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:24,630 - DEBUG - SMAs calculadas: Rápida=69526.3615, Lenta=65997.0594
+2025-07-09 23:52:24,630 - DEBUG - RSI: 68.74
+2025-07-09 23:52:24,630 - DEBUG - MACD: 2043.8709, Signal: 1671.1508
+2025-07-09 23:52:24,632 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:24,637 - DEBUG - SMAs calculadas: Rápida=69932.9505, Lenta=66268.2952
+2025-07-09 23:52:24,637 - DEBUG - RSI: 75.05
+2025-07-09 23:52:24,637 - DEBUG - MACD: 2338.5011, Signal: 1804.6209
+2025-07-09 23:52:24,637 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:24,647 - DEBUG - SMAs calculadas: Rápida=70315.2240, Lenta=66537.8234
+2025-07-09 23:52:24,647 - DEBUG - RSI: 74.76
+2025-07-09 23:52:24,647 - DEBUG - MACD: 2556.0634, Signal: 1954.9094
+2025-07-09 23:52:24,647 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:24,654 - DEBUG - SMAs calculadas: Rápida=70964.8495, Lenta=66878.2444
+2025-07-09 23:52:24,654 - DEBUG - RSI: 77.91
+2025-07-09 23:52:24,654 - DEBUG - MACD: 2991.9516, Signal: 2162.3178
+2025-07-09 23:52:24,654 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:24,662 - DEBUG - SMAs calculadas: Rápida=72025.9490, Lenta=67379.6290
+2025-07-09 23:52:24,662 - DEBUG - RSI: 82.83
+2025-07-09 23:52:24,662 - DEBUG - MACD: 3959.7148, Signal: 2521.7972
+2025-07-09 23:52:24,662 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:24,669 - DEBUG - SMAs calculadas: Rápida=73090.1170, Lenta=67871.8694
+2025-07-09 23:52:24,669 - DEBUG - RSI: 78.84
+2025-07-09 23:52:24,669 - DEBUG - MACD: 4617.2892, Signal: 2940.8956
+2025-07-09 23:52:24,669 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:24,669 - DEBUG - SMAs calculadas: Rápida=74198.9630, Lenta=68394.1194
+2025-07-09 23:52:24,669 - DEBUG - RSI: 81.73
+2025-07-09 23:52:24,669 - DEBUG - MACD: 5273.1669, Signal: 3407.3499
+2025-07-09 23:52:24,669 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:24,687 - DEBUG - SMAs calculadas: Rápida=75230.3260, Lenta=68877.5910
+2025-07-09 23:52:24,687 - DEBUG - RSI: 78.96
+2025-07-09 23:52:24,687 - DEBUG - MACD: 5483.6645, Signal: 3822.6128
+2025-07-09 23:52:24,688 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:24,690 - DEBUG - SMAs calculadas: Rápida=76427.2915, Lenta=69394.7526
+2025-07-09 23:52:24,690 - DEBUG - RSI: 83.32
+2025-07-09 23:52:24,690 - DEBUG - MACD: 5881.7660, Signal: 4234.4434
+2025-07-09 23:52:24,690 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:24,702 - DEBUG - SMAs calculadas: Rápida=77555.5525, Lenta=69891.0920
+2025-07-09 23:52:24,702 - DEBUG - RSI: 82.49
+2025-07-09 23:52:24,703 - DEBUG - MACD: 6091.1296, Signal: 4605.7807
+2025-07-09 23:52:24,703 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:24,707 - DEBUG - SMAs calculadas: Rápida=78550.2415, Lenta=70371.0518
+2025-07-09 23:52:24,707 - DEBUG - RSI: 82.16
+2025-07-09 23:52:24,707 - DEBUG - MACD: 6127.4386, Signal: 4910.1122
+2025-07-09 23:52:24,707 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:24,717 - DEBUG - SMAs calculadas: Rápida=79436.6245, Lenta=70868.2932
+2025-07-09 23:52:24,717 - DEBUG - RSI: 84.84
+2025-07-09 23:52:24,718 - DEBUG - MACD: 6134.5660, Signal: 5155.0030
+2025-07-09 23:52:24,719 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:24,724 - DEBUG - SMAs calculadas: Rápida=80434.9270, Lenta=71447.9572
+2025-07-09 23:52:24,724 - DEBUG - RSI: 84.99
+2025-07-09 23:52:24,724 - DEBUG - MACD: 6217.5565, Signal: 5367.5137
+2025-07-09 23:52:24,724 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:24,732 - DEBUG - SMAs calculadas: Rápida=81634.6545, Lenta=72117.5728
+2025-07-09 23:52:24,732 - DEBUG - RSI: 82.77
+2025-07-09 23:52:24,733 - DEBUG - MACD: 6369.3334, Signal: 5567.8776
+2025-07-09 23:52:24,733 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:24,738 - DEBUG - SMAs calculadas: Rápida=83075.7100, Lenta=72870.9296
+2025-07-09 23:52:24,738 - DEBUG - RSI: 84.76
+2025-07-09 23:52:24,738 - DEBUG - MACD: 6737.1882, Signal: 5801.7397
+2025-07-09 23:52:24,738 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:24,747 - DEBUG - SMAs calculadas: Rápida=84551.5730, Lenta=73633.7154
+2025-07-09 23:52:24,747 - DEBUG - RSI: 84.73
+2025-07-09 23:52:24,747 - DEBUG - MACD: 6994.4758, Signal: 6040.2870
+2025-07-09 23:52:24,747 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:24,754 - DEBUG - SMAs calculadas: Rápida=85996.3935, Lenta=74345.4434
+2025-07-09 23:52:24,754 - DEBUG - RSI: 81.55
+2025-07-09 23:52:24,754 - DEBUG - MACD: 7019.0552, Signal: 6236.0406
+2025-07-09 23:52:24,754 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:24,763 - DEBUG - SMAs calculadas: Rápida=87498.8950, Lenta=75062.2842
+2025-07-09 23:52:24,763 - DEBUG - RSI: 79.40
+2025-07-09 23:52:24,763 - DEBUG - MACD: 6976.4827, Signal: 6384.1290
+2025-07-09 23:52:24,764 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:24,769 - DEBUG - SMAs calculadas: Rápida=88680.7950, Lenta=75666.0862
+2025-07-09 23:52:24,769 - DEBUG - RSI: 58.25
+2025-07-09 23:52:24,769 - DEBUG - MACD: 6473.5362, Signal: 6402.0104
+2025-07-09 23:52:24,769 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:24,779 - DEBUG - SMAs calculadas: Rápida=89500.4535, Lenta=76260.9094
+2025-07-09 23:52:24,779 - DEBUG - RSI: 57.49
+2025-07-09 23:52:24,779 - DEBUG - MACD: 5922.3674, Signal: 6306.0818
+2025-07-09 23:52:24,779 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:24,785 - DEBUG - SMAs calculadas: Rápida=90500.7145, Lenta=76934.9618
+2025-07-09 23:52:24,785 - DEBUG - RSI: 59.71
+2025-07-09 23:52:24,785 - DEBUG - MACD: 5733.9963, Signal: 6191.6647
+2025-07-09 23:52:24,785 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:24,785 - DEBUG - SMAs calculadas: Rápida=91457.4245, Lenta=77635.1210
+2025-07-09 23:52:24,785 - DEBUG - RSI: 66.36
+2025-07-09 23:52:24,785 - DEBUG - MACD: 5503.5869, Signal: 6054.0492
+2025-07-09 23:52:24,785 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:24,800 - DEBUG - SMAs calculadas: Rápida=92496.5515, Lenta=78377.7932
+2025-07-09 23:52:24,800 - DEBUG - RSI: 63.66
+2025-07-09 23:52:24,801 - DEBUG - MACD: 5405.2155, Signal: 5924.2824
+2025-07-09 23:52:24,801 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:24,808 - DEBUG - SMAs calculadas: Rápida=93298.4505, Lenta=79055.1530
+2025-07-09 23:52:24,808 - DEBUG - RSI: 62.06
+2025-07-09 23:52:24,808 - DEBUG - MACD: 5182.6250, Signal: 5775.9509
+2025-07-09 23:52:24,808 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:24,814 - DEBUG - SMAs calculadas: Rápida=93725.3100, Lenta=79734.7322
+2025-07-09 23:52:24,814 - DEBUG - RSI: 65.16
+2025-07-09 23:52:24,814 - DEBUG - MACD: 5011.1675, Signal: 5622.9943
+2025-07-09 23:52:24,816 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:24,821 - DEBUG - SMAs calculadas: Rápida=94119.7405, Lenta=80394.1442
+2025-07-09 23:52:24,821 - DEBUG - RSI: 60.79
+2025-07-09 23:52:24,821 - DEBUG - MACD: 4712.4690, Signal: 5440.8892
+2025-07-09 23:52:24,821 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:24,829 - DEBUG - SMAs calculadas: Rápida=94393.4650, Lenta=80989.4582
+2025-07-09 23:52:24,829 - DEBUG - RSI: 57.67
+2025-07-09 23:52:24,829 - DEBUG - MACD: 4425.4662, Signal: 5237.8046
+2025-07-09 23:52:24,831 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:24,837 - DEBUG - SMAs calculadas: Rápida=94956.5515, Lenta=81619.7218
+2025-07-09 23:52:24,837 - DEBUG - RSI: 59.02
+2025-07-09 23:52:24,837 - DEBUG - MACD: 4368.5602, Signal: 5063.9557
+2025-07-09 23:52:24,837 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:24,844 - DEBUG - SMAs calculadas: Rápida=95252.2295, Lenta=82206.2342
+2025-07-09 23:52:24,844 - DEBUG - RSI: 46.80
+2025-07-09 23:52:24,844 - DEBUG - MACD: 4143.2305, Signal: 4879.8107
+2025-07-09 23:52:24,846 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:24,853 - DEBUG - SMAs calculadas: Rápida=95709.9255, Lenta=82852.6154
+2025-07-09 23:52:24,854 - DEBUG - RSI: 51.79
+2025-07-09 23:52:24,854 - DEBUG - MACD: 4142.4536, Signal: 4732.3393
+2025-07-09 23:52:24,854 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:24,857 - DEBUG - SMAs calculadas: Rápida=96208.7255, Lenta=83480.6952
+2025-07-09 23:52:24,857 - DEBUG - RSI: 54.79
+2025-07-09 23:52:24,857 - DEBUG - MACD: 4101.9087, Signal: 4606.2532
+2025-07-09 23:52:24,857 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:24,868 - DEBUG - SMAs calculadas: Rápida=96741.0010, Lenta=84135.3270
+2025-07-09 23:52:24,869 - DEBUG - RSI: 56.80
+2025-07-09 23:52:24,869 - DEBUG - MACD: 4125.3142, Signal: 4510.0654
+2025-07-09 23:52:24,869 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:24,874 - DEBUG - SMAs calculadas: Rápida=96989.2850, Lenta=84700.2166
+2025-07-09 23:52:24,874 - DEBUG - RSI: 59.47
+2025-07-09 23:52:24,874 - DEBUG - MACD: 3790.8637, Signal: 4366.2250
+2025-07-09 23:52:24,874 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:24,883 - DEBUG - SMAs calculadas: Rápida=97104.6070, Lenta=85284.5266
+2025-07-09 23:52:24,883 - DEBUG - RSI: 60.43
+2025-07-09 23:52:24,884 - DEBUG - MACD: 3431.1073, Signal: 4179.2015
+2025-07-09 23:52:24,884 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:24,891 - DEBUG - SMAs calculadas: Rápida=97245.0010, Lenta=85958.5066
+2025-07-09 23:52:24,891 - DEBUG - RSI: 61.53
+2025-07-09 23:52:24,891 - DEBUG - MACD: 3471.6730, Signal: 4037.6958
+2025-07-09 23:52:24,891 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:24,898 - DEBUG - SMAs calculadas: Rápida=97300.6155, Lenta=86625.2194
+2025-07-09 23:52:24,898 - DEBUG - RSI: 59.19
+2025-07-09 23:52:24,898 - DEBUG - MACD: 3374.4906, Signal: 3905.0548
+2025-07-09 23:52:24,899 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:24,905 - DEBUG - SMAs calculadas: Rápida=97488.2080, Lenta=87289.7388
+2025-07-09 23:52:24,905 - DEBUG - RSI: 58.50
+2025-07-09 23:52:24,905 - DEBUG - MACD: 3373.1680, Signal: 3798.6774
+2025-07-09 23:52:24,905 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:24,912 - DEBUG - SMAs calculadas: Rápida=97664.2060, Lenta=87984.1722
+2025-07-09 23:52:24,912 - DEBUG - RSI: 61.25
+2025-07-09 23:52:24,912 - DEBUG - MACD: 3333.3521, Signal: 3705.6124
+2025-07-09 23:52:24,912 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:24,922 - DEBUG - SMAs calculadas: Rápida=98236.9050, Lenta=88731.5968
+2025-07-09 23:52:24,922 - DEBUG - RSI: 64.83
+2025-07-09 23:52:24,922 - DEBUG - MACD: 3506.9958, Signal: 3665.8891
+2025-07-09 23:52:24,922 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:24,925 - DEBUG - SMAs calculadas: Rápida=98941.5800, Lenta=89492.3360
+2025-07-09 23:52:24,925 - DEBUG - RSI: 70.61
+2025-07-09 23:52:24,925 - DEBUG - MACD: 3730.2858, Signal: 3678.7684
+2025-07-09 23:52:24,925 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:24,938 - DEBUG - SMAs calculadas: Rápida=99455.1115, Lenta=90215.7666
+2025-07-09 23:52:24,938 - DEBUG - RSI: 70.69
+2025-07-09 23:52:24,938 - DEBUG - MACD: 3868.7071, Signal: 3716.7561
+2025-07-09 23:52:24,939 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:24,942 - DEBUG - SMAs calculadas: Rápida=99683.1130, Lenta=90765.1184
+2025-07-09 23:52:24,942 - DEBUG - RSI: 52.88
+2025-07-09 23:52:24,942 - DEBUG - MACD: 3460.0420, Signal: 3665.4133
+2025-07-09 23:52:24,942 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:24,952 - DEBUG - SMAs calculadas: Rápida=99683.2060, Lenta=91267.4608
+2025-07-09 23:52:24,953 - DEBUG - RSI: 50.89
+2025-07-09 23:52:24,953 - DEBUG - MACD: 2881.6852, Signal: 3508.6677
+2025-07-09 23:52:24,953 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:24,957 - DEBUG - SMAs calculadas: Rápida=99753.0785, Lenta=91817.7294
+2025-07-09 23:52:24,957 - DEBUG - RSI: 46.37
+2025-07-09 23:52:24,957 - DEBUG - MACD: 2423.1249, Signal: 3291.5591
+2025-07-09 23:52:24,957 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:24,966 - DEBUG - SMAs calculadas: Rápida=99758.4190, Lenta=92373.6490
+2025-07-09 23:52:24,966 - DEBUG - RSI: 45.32
+2025-07-09 23:52:24,967 - DEBUG - MACD: 1995.2812, Signal: 3032.3035
+2025-07-09 23:52:24,967 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:24,975 - DEBUG - SMAs calculadas: Rápida=99725.7015, Lenta=92889.8796
+2025-07-09 23:52:24,975 - DEBUG - RSI: 39.40
+2025-07-09 23:52:24,975 - DEBUG - MACD: 1469.3600, Signal: 2719.7148
+2025-07-09 23:52:24,975 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:24,981 - DEBUG - SMAs calculadas: Rápida=99677.2905, Lenta=93411.9892
+2025-07-09 23:52:24,981 - DEBUG - RSI: 45.09
+2025-07-09 23:52:24,981 - DEBUG - MACD: 1016.2542, Signal: 2379.0227
+2025-07-09 23:52:24,982 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:24,989 - DEBUG - SMAs calculadas: Rápida=99681.1035, Lenta=94028.2606
+2025-07-09 23:52:24,989 - DEBUG - RSI: 53.76
+2025-07-09 23:52:24,989 - DEBUG - MACD: 951.3823, Signal: 2093.4946
+2025-07-09 23:52:24,989 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:24,997 - DEBUG - SMAs calculadas: Rápida=99805.3020, Lenta=94629.4124
+2025-07-09 23:52:24,997 - DEBUG - RSI: 46.43
+2025-07-09 23:52:24,997 - DEBUG - MACD: 950.8217, Signal: 1864.9600
+2025-07-09 23:52:24,997 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:25,005 - DEBUG - SMAs calculadas: Rápida=99607.8400, Lenta=95033.8046
+2025-07-09 23:52:25,005 - DEBUG - RSI: 41.98
+2025-07-09 23:52:25,005 - DEBUG - MACD: 649.3362, Signal: 1621.8353
+2025-07-09 23:52:25,005 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:25,012 - DEBUG - SMAs calculadas: Rápida=99331.1920, Lenta=95402.6274
+2025-07-09 23:52:25,012 - DEBUG - RSI: 36.47
+2025-07-09 23:52:25,012 - DEBUG - MACD: 286.6643, Signal: 1354.8011
+2025-07-09 23:52:25,012 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:25,022 - DEBUG - SMAs calculadas: Rápida=99040.7125, Lenta=95778.4318
+2025-07-09 23:52:25,022 - DEBUG - RSI: 38.80
+2025-07-09 23:52:25,022 - DEBUG - MACD: 79.1023, Signal: 1099.6613
+2025-07-09 23:52:25,023 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:25,025 - DEBUG - SMAs calculadas: Rápida=98863.7990, Lenta=96119.6466
+2025-07-09 23:52:25,025 - DEBUG - RSI: 29.25
+2025-07-09 23:52:25,025 - DEBUG - MACD: -209.0070, Signal: 837.9276
+2025-07-09 23:52:25,025 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:25,035 - DEBUG - SMAs calculadas: Rápida=98673.7515, Lenta=96368.0874
+2025-07-09 23:52:25,035 - DEBUG - RSI: 23.68
+2025-07-09 23:52:25,035 - DEBUG - MACD: -507.8282, Signal: 568.7765
+2025-07-09 23:52:25,035 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:25,035 - DEBUG - SMAs calculadas: Rápida=98296.3015, Lenta=96466.6476
+2025-07-09 23:52:25,035 - DEBUG - RSI: 25.77
+2025-07-09 23:52:25,035 - DEBUG - MACD: -673.6228, Signal: 320.2966
+2025-07-09 23:52:25,035 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:25,052 - DEBUG - SMAs calculadas: Rápida=98025.6765, Lenta=96599.4432
+2025-07-09 23:52:25,052 - DEBUG - RSI: 36.64
+2025-07-09 23:52:25,052 - DEBUG - MACD: -714.8106, Signal: 113.2752
+2025-07-09 23:52:25,053 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:25,057 - DEBUG - SMAs calculadas: Rápida=97803.7035, Lenta=96731.6350
+2025-07-09 23:52:25,057 - DEBUG - RSI: 48.84
+2025-07-09 23:52:25,057 - DEBUG - MACD: -548.0396, Signal: -18.9878
+2025-07-09 23:52:25,057 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:25,065 - DEBUG - SMAs calculadas: Rápida=97641.4125, Lenta=96948.6068
+2025-07-09 23:52:25,066 - DEBUG - RSI: 50.86
+2025-07-09 23:52:25,066 - DEBUG - MACD: -316.2530, Signal: -78.4408
+2025-07-09 23:52:25,067 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:25,071 - DEBUG - SMAs calculadas: Rápida=97329.2380, Lenta=97092.3754
+2025-07-09 23:52:25,071 - DEBUG - RSI: 52.21
+2025-07-09 23:52:25,071 - DEBUG - MACD: -127.3548, Signal: -88.2236
+2025-07-09 23:52:25,071 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:25,080 - DEBUG - SMAs calculadas: Rápida=96944.4855, Lenta=97247.9092
+2025-07-09 23:52:25,080 - DEBUG - RSI: 58.33
+2025-07-09 23:52:25,080 - DEBUG - MACD: 33.5099, Signal: -63.8769
+2025-07-09 23:52:25,082 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:25,088 - DEBUG - SMAs calculadas: Rápida=96749.5785, Lenta=97495.5014
+2025-07-09 23:52:25,088 - DEBUG - RSI: 66.25
+2025-07-09 23:52:25,088 - DEBUG - MACD: 468.0384, Signal: 42.5061
+2025-07-09 23:52:25,091 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:25,096 - DEBUG - SMAs calculadas: Rápida=96587.1085, Lenta=97625.3120
+2025-07-09 23:52:25,096 - DEBUG - RSI: 46.46
+2025-07-09 23:52:25,096 - DEBUG - MACD: 381.8715, Signal: 110.3792
+2025-07-09 23:52:25,097 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:25,102 - DEBUG - SMAs calculadas: Rápida=96467.0460, Lenta=97680.3084
+2025-07-09 23:52:25,102 - DEBUG - RSI: 41.35
+2025-07-09 23:52:25,102 - DEBUG - MACD: 158.9218, Signal: 120.0877
+2025-07-09 23:52:25,102 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:25,102 - DEBUG - SMAs calculadas: Rápida=96204.3985, Lenta=97645.6270
+2025-07-09 23:52:25,102 - DEBUG - RSI: 43.29
+2025-07-09 23:52:25,102 - DEBUG - MACD: -217.6430, Signal: 52.5416
+2025-07-09 23:52:25,102 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:25,118 - DEBUG - SMAs calculadas: Rápida=96076.1045, Lenta=97573.8068
+2025-07-09 23:52:25,118 - DEBUG - RSI: 50.86
+2025-07-09 23:52:25,118 - DEBUG - MACD: -336.7979, Signal: -25.3263
+2025-07-09 23:52:25,118 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:25,118 - DEBUG - SMAs calculadas: Rápida=96046.7905, Lenta=97487.9666
+2025-07-09 23:52:25,118 - DEBUG - RSI: 48.54
+2025-07-09 23:52:25,118 - DEBUG - MACD: -436.3756, Signal: -107.5362
+2025-07-09 23:52:25,118 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:25,133 - DEBUG - SMAs calculadas: Rápida=96029.9700, Lenta=97425.4198
+2025-07-09 23:52:25,134 - DEBUG - RSI: 51.80
+2025-07-09 23:52:25,135 - DEBUG - MACD: -513.8012, Signal: -188.7892
+2025-07-09 23:52:25,135 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:25,140 - DEBUG - SMAs calculadas: Rápida=95823.5960, Lenta=97358.1410
+2025-07-09 23:52:25,140 - DEBUG - RSI: 54.06
+2025-07-09 23:52:25,140 - DEBUG - MACD: -569.3218, Signal: -264.8957
+2025-07-09 23:52:25,140 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:25,148 - DEBUG - SMAs calculadas: Rápida=95680.1590, Lenta=97429.1580
+2025-07-09 23:52:25,148 - DEBUG - RSI: 56.57
+2025-07-09 23:52:25,148 - DEBUG - MACD: -444.8136, Signal: -300.8793
+2025-07-09 23:52:25,148 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:25,155 - DEBUG - SMAs calculadas: Rápida=95915.4465, Lenta=97599.8018
+2025-07-09 23:52:25,155 - DEBUG - RSI: 61.51
+2025-07-09 23:52:25,155 - DEBUG - MACD: -28.1733, Signal: -246.3381
+2025-07-09 23:52:25,155 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:25,163 - DEBUG - SMAs calculadas: Rápida=96199.8600, Lenta=97682.2856
+2025-07-09 23:52:25,163 - DEBUG - RSI: 56.32
+2025-07-09 23:52:25,163 - DEBUG - MACD: 257.8877, Signal: -145.4929
+2025-07-09 23:52:25,163 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:25,172 - DEBUG - SMAs calculadas: Rápida=96638.7340, Lenta=97850.9556
+2025-07-09 23:52:25,172 - DEBUG - RSI: 61.07
+2025-07-09 23:52:25,172 - DEBUG - MACD: 805.3527, Signal: 44.6762
+2025-07-09 23:52:25,173 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:25,175 - DEBUG - SMAs calculadas: Rápida=97179.6355, Lenta=97992.8802
+2025-07-09 23:52:25,175 - DEBUG - RSI: 61.69
+2025-07-09 23:52:25,175 - DEBUG - MACD: 1263.2914, Signal: 288.3992
+2025-07-09 23:52:25,175 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:25,185 - DEBUG - SMAs calculadas: Rápida=97606.6115, Lenta=98091.3518
+2025-07-09 23:52:25,185 - DEBUG - RSI: 54.92
+2025-07-09 23:52:25,185 - DEBUG - MACD: 1350.4410, Signal: 500.8076
+2025-07-09 23:52:25,185 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:25,185 - DEBUG - SMAs calculadas: Rápida=98040.8120, Lenta=98192.8484
+2025-07-09 23:52:25,185 - DEBUG - RSI: 50.04
+2025-07-09 23:52:25,185 - DEBUG - MACD: 1477.3945, Signal: 696.1250
+2025-07-09 23:52:25,195 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 997.15. Posição aberta: False.
+2025-07-09 23:52:25,202 - DEBUG - SMAs calculadas: Rápida=98618.4135, Lenta=98398.9124
+2025-07-09 23:52:25,202 - DEBUG - RSI: 67.78
+2025-07-09 23:52:25,203 - DEBUG - MACD: 1869.8427, Signal: 930.8685
+2025-07-09 23:52:25,203 - INFO - [Backtest] Simulando COMPRA de BTCUSDT em 106143.8200 USDT. Qtd: 0.0009
+2025-07-09 23:52:25,203 - INFO - [Backtest - Sinal de Compra] Cruzamento altista SMA COM FILTROS para BTCUSDT. Comprando.
+2025-07-09 23:52:25,204 - INFO - [Backtest] COMPRA EXECUTADA: 0.0009 BTCUSDT @ 106143.8200. Capital restante: 897.15
+2025-07-09 23:52:25,207 - DEBUG - SMAs calculadas: Rápida=98954.5070, Lenta=98556.0518
+2025-07-09 23:52:25,207 - DEBUG - RSI: 66.38
+2025-07-09 23:52:25,207 - DEBUG - MACD: 1961.5903, Signal: 1137.0129
+2025-07-09 23:52:25,216 - DEBUG - SMAs calculadas: Rápida=99241.3150, Lenta=98662.5122
+2025-07-09 23:52:25,217 - DEBUG - RSI: 73.58
+2025-07-09 23:52:25,217 - DEBUG - MACD: 2027.3660, Signal: 1315.0835
+2025-07-09 23:52:25,225 - DEBUG - SMAs calculadas: Rápida=99573.8150, Lenta=98821.0096
+2025-07-09 23:52:25,226 - DEBUG - RSI: 72.18
+2025-07-09 23:52:25,226 - DEBUG - MACD: 2132.3897, Signal: 1478.5447
+2025-07-09 23:52:25,232 - DEBUG - SMAs calculadas: Rápida=99892.9770, Lenta=98921.1298
+2025-07-09 23:52:25,232 - DEBUG - RSI: 72.19
+2025-07-09 23:52:25,232 - DEBUG - MACD: 2180.5087, Signal: 1618.9375
+2025-07-09 23:52:25,240 - DEBUG - SMAs calculadas: Rápida=99912.1970, Lenta=98976.8900
+2025-07-09 23:52:25,240 - DEBUG - RSI: 66.19
+2025-07-09 23:52:25,240 - DEBUG - MACD: 2023.6964, Signal: 1699.8893
+2025-07-09 23:52:25,247 - DEBUG - SMAs calculadas: Rápida=100168.6080, Lenta=98996.3548
+2025-07-09 23:52:25,247 - DEBUG - RSI: 64.82
+2025-07-09 23:52:25,247 - DEBUG - MACD: 1834.9246, Signal: 1726.8964
+2025-07-09 23:52:25,255 - DEBUG - SMAs calculadas: Rápida=100482.3535, Lenta=99077.5358
+2025-07-09 23:52:25,255 - DEBUG - RSI: 59.87
+2025-07-09 23:52:25,255 - DEBUG - MACD: 1606.5011, Signal: 1702.8173
+2025-07-09 23:52:25,262 - DEBUG - SMAs calculadas: Rápida=101041.3910, Lenta=99220.3406
+2025-07-09 23:52:25,262 - DEBUG - RSI: 57.14
+2025-07-09 23:52:25,262 - DEBUG - MACD: 1600.5002, Signal: 1682.3539
+2025-07-09 23:52:25,269 - DEBUG - SMAs calculadas: Rápida=101541.2325, Lenta=99292.2994
+2025-07-09 23:52:25,269 - DEBUG - RSI: 60.24
+2025-07-09 23:52:25,269 - DEBUG - MACD: 1656.5098, Signal: 1677.1851
+2025-07-09 23:52:25,278 - DEBUG - SMAs calculadas: Rápida=101932.7110, Lenta=99340.8048
+2025-07-09 23:52:25,278 - DEBUG - RSI: 46.14
+2025-07-09 23:52:25,278 - DEBUG - MACD: 1498.5667, Signal: 1641.4614
+2025-07-09 23:52:25,286 - DEBUG - SMAs calculadas: Rápida=102237.2405, Lenta=99325.0328
+2025-07-09 23:52:25,287 - DEBUG - RSI: 41.34
+2025-07-09 23:52:25,287 - DEBUG - MACD: 1214.6404, Signal: 1556.0972
+2025-07-09 23:52:25,287 - INFO - [Backtest - Sinal de Venda] Trailing Stop para BTCUSDT. Preço: 100635.6500, Stop: 100836.6290
+2025-07-09 23:52:25,288 - INFO - [Backtest] VENDA EXECUTADA: 0.0009 BTCUSDT @ 100635.6500. PnL: -5.19 (-5.19%). Razão: TRAILING_STOP. Capital atual: 991.96
+2025-07-09 23:52:25,291 - DEBUG - SMAs calculadas: Rápida=102395.4650, Lenta=99250.6446
+2025-07-09 23:52:25,291 - DEBUG - RSI: 41.88
+2025-07-09 23:52:25,291 - DEBUG - MACD: 744.2132, Signal: 1393.7204
+2025-07-09 23:52:25,291 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 991.96. Posição aberta: False.
+2025-07-09 23:52:25,301 - DEBUG - SMAs calculadas: Rápida=102633.8480, Lenta=99187.9352
+2025-07-09 23:52:25,302 - DEBUG - RSI: 48.14
+2025-07-09 23:52:25,302 - DEBUG - MACD: 656.5713, Signal: 1246.2906
+2025-07-09 23:52:25,303 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 991.96. Posição aberta: False.
+2025-07-09 23:52:25,307 - DEBUG - SMAs calculadas: Rápida=102497.1370, Lenta=99022.0246
+2025-07-09 23:52:25,307 - DEBUG - RSI: 33.06
+2025-07-09 23:52:25,307 - DEBUG - MACD: 296.0052, Signal: 1056.2335
+2025-07-09 23:52:25,307 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 991.96. Posição aberta: False.
+2025-07-09 23:52:25,316 - DEBUG - SMAs calculadas: Rápida=102328.3935, Lenta=98831.5984
+2025-07-09 23:52:25,316 - DEBUG - RSI: 34.88
+2025-07-09 23:52:25,316 - DEBUG - MACD: -81.6567, Signal: 828.6555
+2025-07-09 23:52:25,316 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 991.96. Posição aberta: False.
+2025-07-09 23:52:25,324 - DEBUG - SMAs calculadas: Rápida=101952.2370, Lenta=98758.6052
+2025-07-09 23:52:25,324 - DEBUG - RSI: 34.22
+2025-07-09 23:52:25,324 - DEBUG - MACD: -381.2482, Signal: 586.6747
+2025-07-09 23:52:25,324 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 991.96. Posição aberta: False.
+2025-07-09 23:52:25,331 - DEBUG - SMAs calculadas: Rápida=101549.7655, Lenta=98739.5040
+2025-07-09 23:52:25,331 - DEBUG - RSI: 31.33
+2025-07-09 23:52:25,331 - DEBUG - MACD: -615.4194, Signal: 346.2559
+2025-07-09 23:52:25,331 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 991.96. Posição aberta: False.
+2025-07-09 23:52:25,339 - DEBUG - SMAs calculadas: Rápida=101305.4240, Lenta=98712.2900
+2025-07-09 23:52:25,339 - DEBUG - RSI: 31.41
+2025-07-09 23:52:25,339 - DEBUG - MACD: -796.8242, Signal: 117.6399
+2025-07-09 23:52:25,339 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 991.96. Posição aberta: False.
+2025-07-09 23:52:25,347 - DEBUG - SMAs calculadas: Rápida=101015.5610, Lenta=98695.7052
+2025-07-09 23:52:25,347 - DEBUG - RSI: 34.78
+2025-07-09 23:52:25,347 - DEBUG - MACD: -928.4331, Signal: -91.5747
+2025-07-09 23:52:25,348 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 991.96. Posição aberta: False.
+2025-07-09 23:52:25,354 - DEBUG - SMAs calculadas: Rápida=100579.9110, Lenta=98740.5962
+2025-07-09 23:52:25,354 - DEBUG - RSI: 38.74
+2025-07-09 23:52:25,354 - DEBUG - MACD: -943.7401, Signal: -262.0078
+2025-07-09 23:52:25,354 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 991.96. Posição aberta: False.
+2025-07-09 23:52:25,362 - DEBUG - SMAs calculadas: Rápida=100183.4880, Lenta=98758.5308
+2025-07-09 23:52:25,363 - DEBUG - RSI: 37.11
+2025-07-09 23:52:25,363 - DEBUG - MACD: -1076.8108, Signal: -424.9684
+2025-07-09 23:52:25,363 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 991.96. Posição aberta: False.
+2025-07-09 23:52:25,371 - DEBUG - SMAs calculadas: Rápida=99881.4705, Lenta=98742.6590
+2025-07-09 23:52:25,371 - DEBUG - RSI: 36.21
+2025-07-09 23:52:25,372 - DEBUG - MACD: -1001.9308, Signal: -540.3609
+2025-07-09 23:52:25,372 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 991.96. Posição aberta: False.
+2025-07-09 23:52:25,375 - DEBUG - SMAs calculadas: Rápida=99468.3525, Lenta=98686.2298
+2025-07-09 23:52:25,375 - DEBUG - RSI: 31.15
+2025-07-09 23:52:25,375 - DEBUG - MACD: -1032.5064, Signal: -638.7900
+2025-07-09 23:52:25,375 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 991.96. Posição aberta: False.
+2025-07-09 23:52:25,386 - DEBUG - SMAs calculadas: Rápida=99106.0340, Lenta=98720.4074
+2025-07-09 23:52:25,386 - DEBUG - RSI: 37.75
+2025-07-09 23:52:25,386 - DEBUG - MACD: -973.5114, Signal: -705.7343
+2025-07-09 23:52:25,387 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 991.96. Posição aberta: False.
+2025-07-09 23:52:25,390 - DEBUG - SMAs calculadas: Rápida=98853.5170, Lenta=98785.8200
+2025-07-09 23:52:25,390 - DEBUG - RSI: 41.67
+2025-07-09 23:52:25,390 - DEBUG - MACD: -910.6775, Signal: -746.7229
+2025-07-09 23:52:25,390 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 991.96. Posição aberta: False.
+2025-07-09 23:52:25,399 - DEBUG - SMAs calculadas: Rápida=98555.2815, Lenta=98802.1824
+2025-07-09 23:52:25,399 - DEBUG - RSI: 45.32
+2025-07-09 23:52:25,400 - DEBUG - MACD: -966.8629, Signal: -790.7509
+2025-07-09 23:52:25,400 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 991.96. Posição aberta: False.
+2025-07-09 23:52:25,407 - DEBUG - SMAs calculadas: Rápida=98277.5055, Lenta=98843.0184
+2025-07-09 23:52:25,407 - DEBUG - RSI: 29.64
+2025-07-09 23:52:25,407 - DEBUG - MACD: -1026.8370, Signal: -837.9681
+2025-07-09 23:52:25,409 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 991.96. Posição aberta: False.
+2025-07-09 23:52:25,414 - DEBUG - SMAs calculadas: Rápida=97874.4305, Lenta=98900.6122
+2025-07-09 23:52:25,414 - DEBUG - RSI: 39.72
+2025-07-09 23:52:25,414 - DEBUG - MACD: -1070.7595, Signal: -884.5264
+2025-07-09 23:52:25,414 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 991.96. Posição aberta: False.
+2025-07-09 23:52:25,421 - DEBUG - SMAs calculadas: Rápida=97470.5020, Lenta=98961.9796
+2025-07-09 23:52:25,421 - DEBUG - RSI: 50.16
+2025-07-09 23:52:25,421 - DEBUG - MACD: -1015.3806, Signal: -910.6972
+2025-07-09 23:52:25,421 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 991.96. Posição aberta: False.
+2025-07-09 23:52:25,429 - DEBUG - SMAs calculadas: Rápida=97264.2740, Lenta=99036.2438
+2025-07-09 23:52:25,429 - DEBUG - RSI: 57.55
+2025-07-09 23:52:25,429 - DEBUG - MACD: -827.9494, Signal: -894.1477
+2025-07-09 23:52:25,429 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 991.96. Posição aberta: False.
+2025-07-09 23:52:25,435 - DEBUG - SMAs calculadas: Rápida=97041.5905, Lenta=99020.1876
+2025-07-09 23:52:25,435 - DEBUG - RSI: 48.81
+2025-07-09 23:52:25,435 - DEBUG - MACD: -841.0240, Signal: -883.5229
+2025-07-09 23:52:25,435 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 991.96. Posição aberta: False.
+2025-07-09 23:52:25,435 - DEBUG - SMAs calculadas: Rápida=96984.1115, Lenta=98987.7242
+2025-07-09 23:52:25,435 - DEBUG - RSI: 50.38
+2025-07-09 23:52:25,435 - DEBUG - MACD: -812.2450, Signal: -869.2673
+2025-07-09 23:52:25,435 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 991.96. Posição aberta: False.
+2025-07-09 23:52:25,452 - DEBUG - SMAs calculadas: Rápida=96730.5855, Lenta=98948.4742
+2025-07-09 23:52:25,452 - DEBUG - RSI: 49.28
+2025-07-09 23:52:25,453 - DEBUG - MACD: -803.8150, Signal: -856.1769
+2025-07-09 23:52:25,453 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 991.96. Posição aberta: False.
+2025-07-09 23:52:25,458 - DEBUG - SMAs calculadas: Rápida=96420.0730, Lenta=98812.2596
+2025-07-09 23:52:25,458 - DEBUG - RSI: 33.66
+2025-07-09 23:52:25,458 - DEBUG - MACD: -1163.3872, Signal: -917.6189
+2025-07-09 23:52:25,458 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 991.96. Posição aberta: False.
+2025-07-09 23:52:25,484 - DEBUG - SMAs calculadas: Rápida=96023.4715, Lenta=98541.1556
+2025-07-09 23:52:25,504 - DEBUG - RSI: 31.52
+2025-07-09 23:52:25,504 - DEBUG - MACD: -1660.9891, Signal: -1066.2930
+2025-07-09 23:52:25,504 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 991.96. Posição aberta: False.
+2025-07-09 23:52:25,517 - DEBUG - SMAs calculadas: Rápida=95408.2585, Lenta=98287.0652
+2025-07-09 23:52:25,517 - DEBUG - RSI: 18.40
+2025-07-09 23:52:25,517 - DEBUG - MACD: -2385.3345, Signal: -1330.1013
+2025-07-09 23:52:25,517 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 991.96. Posição aberta: False.
+2025-07-09 23:52:25,529 - DEBUG - SMAs calculadas: Rápida=94818.3475, Lenta=98080.0246
+2025-07-09 23:52:25,529 - DEBUG - RSI: 21.32
+2025-07-09 23:52:25,529 - DEBUG - MACD: -2889.0836, Signal: -1641.8977
+2025-07-09 23:52:25,533 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 991.96. Posição aberta: False.
+2025-07-09 23:52:25,539 - DEBUG - SMAs calculadas: Rápida=94213.6075, Lenta=97915.9736
+2025-07-09 23:52:25,539 - DEBUG - RSI: 17.47
+2025-07-09 23:52:25,539 - DEBUG - MACD: -3279.4442, Signal: -1969.4070
+2025-07-09 23:52:25,539 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 991.96. Posição aberta: False.
+2025-07-09 23:52:25,547 - DEBUG - SMAs calculadas: Rápida=93693.6965, Lenta=97742.7420
+2025-07-09 23:52:25,547 - DEBUG - RSI: 23.68
+2025-07-09 23:52:25,547 - DEBUG - MACD: -3411.1334, Signal: -2257.7523
+2025-07-09 23:52:25,547 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 991.96. Posição aberta: False.
+2025-07-09 23:52:25,554 - DEBUG - SMAs calculadas: Rápida=93535.6555, Lenta=97736.1422
+2025-07-09 23:52:25,554 - DEBUG - RSI: 46.77
+2025-07-09 23:52:25,554 - DEBUG - MACD: -2820.8679, Signal: -2370.3754
+2025-07-09 23:52:25,554 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 991.96. Posição aberta: False.
+2025-07-09 23:52:25,563 - DEBUG - SMAs calculadas: Rápida=93057.7760, Lenta=97569.6532
+2025-07-09 23:52:25,563 - DEBUG - RSI: 36.84
+2025-07-09 23:52:25,563 - DEBUG - MACD: -2968.3791, Signal: -2489.9762
+2025-07-09 23:52:25,563 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 991.96. Posição aberta: False.
+2025-07-09 23:52:25,570 - DEBUG - SMAs calculadas: Rápida=92528.3755, Lenta=97424.5708
+2025-07-09 23:52:25,570 - DEBUG - RSI: 38.75
+2025-07-09 23:52:25,570 - DEBUG - MACD: -2965.4552, Signal: -2585.0720
+2025-07-09 23:52:25,570 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 991.96. Posição aberta: False.
+2025-07-09 23:52:25,578 - DEBUG - SMAs calculadas: Rápida=92228.2690, Lenta=97305.4738
+2025-07-09 23:52:25,578 - DEBUG - RSI: 42.38
+2025-07-09 23:52:25,578 - DEBUG - MACD: -2664.2052, Signal: -2600.8986
+2025-07-09 23:52:25,578 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 991.96. Posição aberta: False.
+2025-07-09 23:52:25,586 - DEBUG - SMAs calculadas: Rápida=91849.8395, Lenta=97094.1646
+2025-07-09 23:52:25,586 - DEBUG - RSI: 39.16
+2025-07-09 23:52:25,586 - DEBUG - MACD: -2451.5978, Signal: -2571.0385
+2025-07-09 23:52:25,586 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 991.96. Posição aberta: False.
+2025-07-09 23:52:25,593 - DEBUG - SMAs calculadas: Rápida=91311.4440, Lenta=96830.4536
+2025-07-09 23:52:25,593 - DEBUG - RSI: 38.17
+2025-07-09 23:52:25,593 - DEBUG - MACD: -2506.7844, Signal: -2558.1876
+2025-07-09 23:52:25,593 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 991.96. Posição aberta: False.
+2025-07-09 23:52:25,600 - DEBUG - SMAs calculadas: Rápida=90816.6605, Lenta=96473.3530
+2025-07-09 23:52:25,600 - DEBUG - RSI: 37.04
+2025-07-09 23:52:25,600 - DEBUG - MACD: -2567.6664, Signal: -2560.0834
+2025-07-09 23:52:25,600 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 991.96. Posição aberta: False.
+2025-07-09 23:52:25,610 - DEBUG - SMAs calculadas: Rápida=90064.3790, Lenta=95996.9158
+2025-07-09 23:52:25,610 - DEBUG - RSI: 32.77
+2025-07-09 23:52:25,610 - DEBUG - MACD: -3023.9003, Signal: -2652.8468
+2025-07-09 23:52:25,610 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 991.96. Posição aberta: False.
+2025-07-09 23:52:25,619 - DEBUG - SMAs calculadas: Rápida=89210.5850, Lenta=95542.2016
+2025-07-09 23:52:25,619 - DEBUG - RSI: 34.75
+2025-07-09 23:52:25,620 - DEBUG - MACD: -3517.4816, Signal: -2825.7737
+2025-07-09 23:52:25,620 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 991.96. Posição aberta: False.
+2025-07-09 23:52:25,625 - DEBUG - SMAs calculadas: Rápida=88525.0160, Lenta=95155.6612
+2025-07-09 23:52:25,625 - DEBUG - RSI: 43.46
+2025-07-09 23:52:25,625 - DEBUG - MACD: -3518.1234, Signal: -2964.2437
+2025-07-09 23:52:25,625 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 991.96. Posição aberta: False.
+2025-07-09 23:52:25,632 - DEBUG - SMAs calculadas: Rápida=87793.7720, Lenta=94706.3872
+2025-07-09 23:52:25,632 - DEBUG - RSI: 49.29
+2025-07-09 23:52:25,634 - DEBUG - MACD: -3418.9336, Signal: -3055.1817
+2025-07-09 23:52:25,634 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 991.96. Posição aberta: False.
+2025-07-09 23:52:25,639 - DEBUG - SMAs calculadas: Rápida=87040.4620, Lenta=94254.5696
+2025-07-09 23:52:25,639 - DEBUG - RSI: 45.76
+2025-07-09 23:52:25,639 - DEBUG - MACD: -3506.8212, Signal: -3145.5096
+2025-07-09 23:52:25,639 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 991.96. Posição aberta: False.
+2025-07-09 23:52:25,647 - DEBUG - SMAs calculadas: Rápida=86412.0715, Lenta=93856.0268
+2025-07-09 23:52:25,648 - DEBUG - RSI: 49.59
+2025-07-09 23:52:25,648 - DEBUG - MACD: -3306.9753, Signal: -3177.8027
+2025-07-09 23:52:25,648 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 991.96. Posição aberta: False.
+2025-07-09 23:52:25,655 - DEBUG - SMAs calculadas: Rápida=85816.0935, Lenta=93445.3856
+2025-07-09 23:52:25,655 - DEBUG - RSI: 48.02
+2025-07-09 23:52:25,655 - DEBUG - MACD: -3084.3763, Signal: -3159.1174
+2025-07-09 23:52:25,655 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 991.96. Posição aberta: False.
+2025-07-09 23:52:25,662 - DEBUG - SMAs calculadas: Rápida=85367.1760, Lenta=93001.9392
+2025-07-09 23:52:25,662 - DEBUG - RSI: 34.23
+2025-07-09 23:52:25,662 - DEBUG - MACD: -3015.5365, Signal: -3130.4012
+2025-07-09 23:52:25,663 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 991.96. Posição aberta: False.
+2025-07-09 23:52:25,669 - DEBUG - SMAs calculadas: Rápida=85133.6575, Lenta=92629.7398
+2025-07-09 23:52:25,669 - DEBUG - RSI: 46.37
+2025-07-09 23:52:25,669 - DEBUG - MACD: -2812.7243, Signal: -3066.8658
+2025-07-09 23:52:25,669 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 991.96. Posição aberta: False.
+2025-07-09 23:52:25,678 - DEBUG - SMAs calculadas: Rápida=85056.9045, Lenta=92242.3838
+2025-07-09 23:52:25,678 - DEBUG - RSI: 42.56
+2025-07-09 23:52:25,678 - DEBUG - MACD: -2725.0768, Signal: -2998.5080
+2025-07-09 23:52:25,679 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 991.96. Posição aberta: False.
+2025-07-09 23:52:25,686 - DEBUG - SMAs calculadas: Rápida=85163.7725, Lenta=91952.5922
+2025-07-09 23:52:25,686 - DEBUG - RSI: 44.03
+2025-07-09 23:52:25,687 - DEBUG - MACD: -2295.8209, Signal: -2857.9706
+2025-07-09 23:52:25,687 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 991.96. Posição aberta: False.
+2025-07-09 23:52:25,690 - DEBUG - SMAs calculadas: Rápida=85157.4450, Lenta=91562.3952
+2025-07-09 23:52:25,690 - DEBUG - RSI: 41.47
+2025-07-09 23:52:25,690 - DEBUG - MACD: -2142.5523, Signal: -2714.8870
+2025-07-09 23:52:25,690 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 991.96. Posição aberta: False.
+2025-07-09 23:52:25,700 - DEBUG - SMAs calculadas: Rápida=85058.6580, Lenta=91149.7122
+2025-07-09 23:52:25,703 - DEBUG - RSI: 45.55
+2025-07-09 23:52:25,703 - DEBUG - MACD: -2008.7909, Signal: -2573.6678
+2025-07-09 23:52:25,703 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 991.96. Posição aberta: False.
+2025-07-09 23:52:25,708 - DEBUG - SMAs calculadas: Rápida=84537.1875, Lenta=90777.9328
+2025-07-09 23:52:25,708 - DEBUG - RSI: 46.05
+2025-07-09 23:52:25,708 - DEBUG - MACD: -1900.8993, Signal: -2439.1141
+2025-07-09 23:52:25,708 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 991.96. Posição aberta: False.
+2025-07-09 23:52:25,719 - DEBUG - SMAs calculadas: Rápida=84530.2820, Lenta=90486.8698
+2025-07-09 23:52:25,719 - DEBUG - RSI: 59.95
+2025-07-09 23:52:25,720 - DEBUG - MACD: -1615.8643, Signal: -2274.4641
+2025-07-09 23:52:25,720 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 991.96. Posição aberta: False.
+2025-07-09 23:52:25,724 - DEBUG - SMAs calculadas: Rápida=84541.0910, Lenta=90282.8212
+2025-07-09 23:52:25,724 - DEBUG - RSI: 67.02
+2025-07-09 23:52:25,724 - DEBUG - MACD: -1261.2018, Signal: -2071.8116
+2025-07-09 23:52:25,724 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 991.96. Posição aberta: False.
+2025-07-09 23:52:25,733 - DEBUG - SMAs calculadas: Rápida=84380.4340, Lenta=90004.1082
+2025-07-09 23:52:25,733 - DEBUG - RSI: 60.17
+2025-07-09 23:52:25,733 - DEBUG - MACD: -977.3588, Signal: -1852.9211
+2025-07-09 23:52:25,733 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 991.96. Posição aberta: False.
+2025-07-09 23:52:25,742 - DEBUG - SMAs calculadas: Rápida=84229.2980, Lenta=89787.0290
+2025-07-09 23:52:25,742 - DEBUG - RSI: 57.45
+2025-07-09 23:52:25,742 - DEBUG - MACD: -782.4225, Signal: -1638.8214
+2025-07-09 23:52:25,744 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 991.96. Posição aberta: False.
+2025-07-09 23:52:25,750 - DEBUG - SMAs calculadas: Rápida=84250.8110, Lenta=89599.4206
+2025-07-09 23:52:25,750 - DEBUG - RSI: 65.75
+2025-07-09 23:52:25,750 - DEBUG - MACD: -595.0244, Signal: -1430.0620
+2025-07-09 23:52:25,750 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 991.96. Posição aberta: False.
+2025-07-09 23:52:25,759 - DEBUG - SMAs calculadas: Rápida=84160.9075, Lenta=89356.8212
+2025-07-09 23:52:25,759 - DEBUG - RSI: 51.14
+2025-07-09 23:52:25,759 - DEBUG - MACD: -665.3922, Signal: -1277.1280
+2025-07-09 23:52:25,759 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 991.96. Posição aberta: False.
+2025-07-09 23:52:25,770 - DEBUG - SMAs calculadas: Rápida=84256.6160, Lenta=89079.6560
+2025-07-09 23:52:25,770 - DEBUG - RSI: 45.93
+2025-07-09 23:52:25,770 - DEBUG - MACD: -854.6033, Signal: -1192.6231
+2025-07-09 23:52:25,770 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 991.96. Posição aberta: False.
+2025-07-09 23:52:25,778 - DEBUG - SMAs calculadas: Rápida=84446.3225, Lenta=88798.5610
+2025-07-09 23:52:25,778 - DEBUG - RSI: 49.52
+2025-07-09 23:52:25,778 - DEBUG - MACD: -1013.7316, Signal: -1156.8448
+2025-07-09 23:52:25,778 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 991.96. Posição aberta: False.
+2025-07-09 23:52:25,788 - DEBUG - SMAs calculadas: Rápida=84427.1735, Lenta=88520.3062
+2025-07-09 23:52:25,788 - DEBUG - RSI: 45.94
+2025-07-09 23:52:25,788 - DEBUG - MACD: -1114.0871, Signal: -1148.2933
+2025-07-09 23:52:25,788 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 991.96. Posição aberta: False.
+2025-07-09 23:52:25,796 - DEBUG - SMAs calculadas: Rápida=84501.0845, Lenta=88274.8566
+2025-07-09 23:52:25,796 - DEBUG - RSI: 56.32
+2025-07-09 23:52:25,796 - DEBUG - MACD: -971.9452, Signal: -1113.0236
+2025-07-09 23:52:25,798 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 991.96. Posição aberta: False.
+2025-07-09 23:52:25,803 - DEBUG - SMAs calculadas: Rápida=84571.1100, Lenta=88009.6184
+2025-07-09 23:52:25,803 - DEBUG - RSI: 37.86
+2025-07-09 23:52:25,803 - DEBUG - MACD: -1060.2660, Signal: -1102.4721
+2025-07-09 23:52:25,803 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 991.96. Posição aberta: False.
+2025-07-09 23:52:25,811 - DEBUG - SMAs calculadas: Rápida=84532.6045, Lenta=87716.4804
+2025-07-09 23:52:25,811 - DEBUG - RSI: 46.82
+2025-07-09 23:52:25,811 - DEBUG - MACD: -1061.7952, Signal: -1094.3367
+2025-07-09 23:52:25,811 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 991.96. Posição aberta: False.
+2025-07-09 23:52:25,819 - DEBUG - SMAs calculadas: Rápida=84510.1760, Lenta=87462.1150
+2025-07-09 23:52:25,819 - DEBUG - RSI: 49.40
+2025-07-09 23:52:25,819 - DEBUG - MACD: -996.9049, Signal: -1074.8504
+2025-07-09 23:52:25,819 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 991.96. Posição aberta: False.
+2025-07-09 23:52:25,827 - DEBUG - SMAs calculadas: Rápida=84558.3490, Lenta=87182.8652
+2025-07-09 23:52:25,827 - DEBUG - RSI: 49.09
+2025-07-09 23:52:25,827 - DEBUG - MACD: -962.7744, Signal: -1052.4352
+2025-07-09 23:52:25,827 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 991.96. Posição aberta: False.
+2025-07-09 23:52:25,835 - DEBUG - SMAs calculadas: Rápida=84279.3475, Lenta=86800.0720
+2025-07-09 23:52:25,835 - DEBUG - RSI: 30.29
+2025-07-09 23:52:25,835 - DEBUG - MACD: -1332.5372, Signal: -1108.4556
+2025-07-09 23:52:25,838 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 991.96. Posição aberta: False.
+2025-07-09 23:52:25,843 - DEBUG - SMAs calculadas: Rápida=84101.7580, Lenta=86460.9744
+2025-07-09 23:52:25,843 - DEBUG - RSI: 27.75
+2025-07-09 23:52:25,843 - DEBUG - MACD: -1548.5596, Signal: -1196.4764
+2025-07-09 23:52:25,844 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 991.96. Posição aberta: False.
+2025-07-09 23:52:25,852 - DEBUG - SMAs calculadas: Rápida=83575.5820, Lenta=86071.8228
+2025-07-09 23:52:25,852 - DEBUG - RSI: 24.21
+2025-07-09 23:52:25,852 - DEBUG - MACD: -1926.7788, Signal: -1342.5369
+2025-07-09 23:52:25,853 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 991.96. Posição aberta: False.
+2025-07-09 23:52:25,857 - DEBUG - SMAs calculadas: Rápida=83495.1735, Lenta=85810.6924
+2025-07-09 23:52:25,857 - DEBUG - RSI: 42.13
+2025-07-09 23:52:25,857 - DEBUG - MACD: -1699.1569, Signal: -1413.8609
+2025-07-09 23:52:25,857 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 991.96. Posição aberta: False.
+2025-07-09 23:52:25,864 - DEBUG - SMAs calculadas: Rápida=83271.0990, Lenta=85469.9510
+2025-07-09 23:52:25,865 - DEBUG - RSI: 37.28
+2025-07-09 23:52:25,866 - DEBUG - MACD: -1741.4052, Signal: -1479.3697
+2025-07-09 23:52:25,866 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 991.96. Posição aberta: False.
+2025-07-09 23:52:25,871 - DEBUG - SMAs calculadas: Rápida=83250.2615, Lenta=85172.3278
+2025-07-09 23:52:25,871 - DEBUG - RSI: 48.38
+2025-07-09 23:52:25,871 - DEBUG - MACD: -1450.2072, Signal: -1473.5372
+2025-07-09 23:52:25,871 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 991.96. Posição aberta: False.
+2025-07-09 23:52:25,879 - DEBUG - SMAs calculadas: Rápida=83209.9815, Lenta=84954.2262
+2025-07-09 23:52:25,879 - DEBUG - RSI: 54.23
+2025-07-09 23:52:25,879 - DEBUG - MACD: -1057.7117, Signal: -1390.3721
+2025-07-09 23:52:25,879 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 991.96. Posição aberta: False.
+2025-07-09 23:52:25,887 - DEBUG - SMAs calculadas: Rápida=83023.0735, Lenta=84698.4060
+2025-07-09 23:52:25,887 - DEBUG - RSI: 52.12
+2025-07-09 23:52:25,887 - DEBUG - MACD: -859.1535, Signal: -1284.1284
+2025-07-09 23:52:25,887 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 991.96. Posição aberta: False.
+2025-07-09 23:52:25,894 - DEBUG - SMAs calculadas: Rápida=82883.0090, Lenta=84465.0776
+2025-07-09 23:52:25,894 - DEBUG - RSI: 53.10
+2025-07-09 23:52:25,894 - DEBUG - MACD: -627.4601, Signal: -1152.7947
+2025-07-09 23:52:25,896 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 991.96. Posição aberta: False.
+2025-07-09 23:52:25,900 - DEBUG - SMAs calculadas: Rápida=82719.7500, Lenta=84306.8998
+2025-07-09 23:52:25,900 - DEBUG - RSI: 47.58
+2025-07-09 23:52:25,900 - DEBUG - MACD: -514.3747, Signal: -1025.1107
+2025-07-09 23:52:25,900 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 991.96. Posição aberta: False.
+2025-07-09 23:52:25,910 - DEBUG - SMAs calculadas: Rápida=82559.6685, Lenta=84213.8994
+2025-07-09 23:52:25,910 - DEBUG - RSI: 52.61
+2025-07-09 23:52:25,910 - DEBUG - MACD: -389.0901, Signal: -897.9066
+2025-07-09 23:52:25,910 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 991.96. Posição aberta: False.
+2025-07-09 23:52:25,916 - DEBUG - SMAs calculadas: Rápida=82585.8450, Lenta=84227.8558
+2025-07-09 23:52:25,916 - DEBUG - RSI: 52.96
+2025-07-09 23:52:25,916 - DEBUG - MACD: -213.3052, Signal: -760.9863
+2025-07-09 23:52:25,916 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 991.96. Posição aberta: False.
+2025-07-09 23:52:25,926 - DEBUG - SMAs calculadas: Rápida=82677.1525, Lenta=84223.1780
+2025-07-09 23:52:25,926 - DEBUG - RSI: 51.01
+2025-07-09 23:52:25,926 - DEBUG - MACD: -110.9010, Signal: -630.9693
+2025-07-09 23:52:25,926 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 991.96. Posição aberta: False.
+2025-07-09 23:52:25,926 - DEBUG - SMAs calculadas: Rápida=82811.5035, Lenta=84237.7194
+2025-07-09 23:52:25,926 - DEBUG - RSI: 52.62
+2025-07-09 23:52:25,926 - DEBUG - MACD: 18.6424, Signal: -501.0469
+2025-07-09 23:52:25,933 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 991.96. Posição aberta: False.
+2025-07-09 23:52:25,939 - DEBUG - SMAs calculadas: Rápida=82942.9650, Lenta=84220.0136
+2025-07-09 23:52:25,939 - DEBUG - RSI: 63.87
+2025-07-09 23:52:25,939 - DEBUG - MACD: 128.0792, Signal: -375.2217
+2025-07-09 23:52:25,939 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 991.96. Posição aberta: False.
+2025-07-09 23:52:25,947 - DEBUG - SMAs calculadas: Rápida=83060.8595, Lenta=84084.9382
+2025-07-09 23:52:25,947 - DEBUG - RSI: 66.11
+2025-07-09 23:52:25,947 - DEBUG - MACD: 398.7872, Signal: -220.4199
+2025-07-09 23:52:25,948 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 991.96. Posição aberta: False.
+2025-07-09 23:52:25,954 - DEBUG - SMAs calculadas: Rápida=83607.1945, Lenta=84229.3858
+2025-07-09 23:52:25,954 - DEBUG - RSI: 79.51
+2025-07-09 23:52:25,954 - DEBUG - MACD: 1079.1258, Signal: 39.4892
+2025-07-09 23:52:25,954 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 991.96. Posição aberta: False.
+2025-07-09 23:52:25,962 - DEBUG - SMAs calculadas: Rápida=84131.0940, Lenta=84357.5678
+2025-07-09 23:52:25,962 - DEBUG - RSI: 74.11
+2025-07-09 23:52:25,962 - DEBUG - MACD: 1619.6475, Signal: 355.5209
+2025-07-09 23:52:25,962 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 991.96. Posição aberta: False.
+2025-07-09 23:52:25,970 - DEBUG - SMAs calculadas: Rápida=84635.6240, Lenta=84425.0570
+2025-07-09 23:52:25,970 - DEBUG - RSI: 85.49
+2025-07-09 23:52:25,970 - DEBUG - MACD: 2047.7609, Signal: 693.9689
+2025-07-09 23:52:25,972 - DEBUG - Filtro RSI: Sobrecomprado (85.49). Não comprar.
+2025-07-09 23:52:25,972 - INFO - [Backtest - Sinal de Compra] Cruzamento altista SMA para BTCUSDT, mas filtros não passaram.
+2025-07-09 23:52:25,977 - DEBUG - SMAs calculadas: Rápida=85190.6585, Lenta=84519.1928
+2025-07-09 23:52:25,977 - DEBUG - RSI: 82.81
+2025-07-09 23:52:25,977 - DEBUG - MACD: 2412.3478, Signal: 1037.6447
+2025-07-09 23:52:25,979 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 991.96. Posição aberta: False.
+2025-07-09 23:52:25,985 - DEBUG - SMAs calculadas: Rápida=86000.5585, Lenta=84675.7178
+2025-07-09 23:52:25,985 - DEBUG - RSI: 80.66
+2025-07-09 23:52:25,985 - DEBUG - MACD: 2669.6498, Signal: 1364.0457
+2025-07-09 23:52:25,985 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 991.96. Posição aberta: False.
+2025-07-09 23:52:25,993 - DEBUG - SMAs calculadas: Rápida=86729.8615, Lenta=84826.2548
+2025-07-09 23:52:25,993 - DEBUG - RSI: 84.19
+2025-07-09 23:52:25,993 - DEBUG - MACD: 2770.7205, Signal: 1645.3807
+2025-07-09 23:52:25,993 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 991.96. Posição aberta: False.
+2025-07-09 23:52:26,003 - DEBUG - SMAs calculadas: Rápida=87664.2995, Lenta=85111.7910
+2025-07-09 23:52:26,003 - DEBUG - RSI: 84.64
+2025-07-09 23:52:26,003 - DEBUG - MACD: 2918.9946, Signal: 1900.1034
+2025-07-09 23:52:26,004 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 991.96. Posição aberta: False.
+2025-07-09 23:52:26,008 - DEBUG - SMAs calculadas: Rápida=88246.3795, Lenta=85425.0102
+2025-07-09 23:52:26,008 - DEBUG - RSI: 85.74
+2025-07-09 23:52:26,008 - DEBUG - MACD: 2941.7221, Signal: 2108.4272
+2025-07-09 23:52:26,008 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 991.96. Posição aberta: False.
+2025-07-09 23:52:26,017 - DEBUG - SMAs calculadas: Rápida=88974.6145, Lenta=85649.7904
+2025-07-09 23:52:26,017 - DEBUG - RSI: 84.86
+2025-07-09 23:52:26,017 - DEBUG - MACD: 2919.2383, Signal: 2270.5894
+2025-07-09 23:52:26,017 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 991.96. Posição aberta: False.
+2025-07-09 23:52:26,024 - DEBUG - SMAs calculadas: Rápida=89627.9180, Lenta=85905.9862
+2025-07-09 23:52:26,024 - DEBUG - RSI: 86.19
+2025-07-09 23:52:26,024 - DEBUG - MACD: 3053.2596, Signal: 2427.1234
+2025-07-09 23:52:26,024 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 991.96. Posição aberta: False.
+2025-07-09 23:52:26,031 - DEBUG - SMAs calculadas: Rápida=90208.4300, Lenta=86221.4134
+2025-07-09 23:52:26,031 - DEBUG - RSI: 89.11
+2025-07-09 23:52:26,031 - DEBUG - MACD: 3155.1549, Signal: 2572.7297
+2025-07-09 23:52:26,031 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 991.96. Posição aberta: False.
+2025-07-09 23:52:26,039 - DEBUG - SMAs calculadas: Rápida=90813.2510, Lenta=86458.8778
+2025-07-09 23:52:26,039 - DEBUG - RSI: 83.07
+2025-07-09 23:52:26,039 - DEBUG - MACD: 3116.8086, Signal: 2681.5455
+2025-07-09 23:52:26,039 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 991.96. Posição aberta: False.
+2025-07-09 23:52:26,047 - DEBUG - SMAs calculadas: Rápida=91297.5530, Lenta=86657.6614
+2025-07-09 23:52:26,047 - DEBUG - RSI: 75.59
+2025-07-09 23:52:26,047 - DEBUG - MACD: 2925.3019, Signal: 2730.2968
+2025-07-09 23:52:26,048 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 991.96. Posição aberta: False.
+2025-07-09 23:52:26,053 - DEBUG - SMAs calculadas: Rápida=91852.0375, Lenta=86900.8444
+2025-07-09 23:52:26,053 - DEBUG - RSI: 72.71
+2025-07-09 23:52:26,053 - DEBUG - MACD: 2778.3050, Signal: 2739.8984
+2025-07-09 23:52:26,053 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 991.96. Posição aberta: False.
+2025-07-09 23:52:26,061 - DEBUG - SMAs calculadas: Rápida=92492.2195, Lenta=87157.3242
+2025-07-09 23:52:26,061 - DEBUG - RSI: 64.05
+2025-07-09 23:52:26,061 - DEBUG - MACD: 2799.0235, Signal: 2751.7234
+2025-07-09 23:52:26,063 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 991.96. Posição aberta: False.
+2025-07-09 23:52:26,069 - DEBUG - SMAs calculadas: Rápida=93096.3490, Lenta=87443.6336
+2025-07-09 23:52:26,069 - DEBUG - RSI: 63.90
+2025-07-09 23:52:26,069 - DEBUG - MACD: 2799.0318, Signal: 2761.1851
+2025-07-09 23:52:26,069 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 991.96. Posição aberta: False.
+2025-07-09 23:52:26,077 - DEBUG - SMAs calculadas: Rápida=94035.6945, Lenta=87771.9468
+2025-07-09 23:52:26,077 - DEBUG - RSI: 75.84
+2025-07-09 23:52:26,077 - DEBUG - MACD: 3264.2083, Signal: 2861.7897
+2025-07-09 23:52:26,077 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 991.96. Posição aberta: False.
+2025-07-09 23:52:26,085 - DEBUG - SMAs calculadas: Rápida=94930.4435, Lenta=88146.9188
+2025-07-09 23:52:26,086 - DEBUG - RSI: 73.69
+2025-07-09 23:52:26,086 - DEBUG - MACD: 3568.3611, Signal: 3003.1040
+2025-07-09 23:52:26,086 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 991.96. Posição aberta: False.
+2025-07-09 23:52:26,090 - DEBUG - SMAs calculadas: Rápida=95911.9580, Lenta=88561.3336
+2025-07-09 23:52:26,090 - DEBUG - RSI: 76.22
+2025-07-09 23:52:26,090 - DEBUG - MACD: 3912.5767, Signal: 3184.9986
+2025-07-09 23:52:26,090 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 991.96. Posição aberta: False.
+2025-07-09 23:52:26,099 - DEBUG - SMAs calculadas: Rápida=96742.0465, Lenta=88966.8818
+2025-07-09 23:52:26,099 - DEBUG - RSI: 76.96
+2025-07-09 23:52:26,100 - DEBUG - MACD: 4082.5088, Signal: 3364.5006
+2025-07-09 23:52:26,100 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 991.96. Posição aberta: False.
+2025-07-09 23:52:26,106 - DEBUG - SMAs calculadas: Rápida=97209.4630, Lenta=89301.0582
+2025-07-09 23:52:26,107 - DEBUG - RSI: 70.16
+2025-07-09 23:52:26,107 - DEBUG - MACD: 4063.2901, Signal: 3504.2585
+2025-07-09 23:52:26,108 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 991.96. Posição aberta: False.
+2025-07-09 23:52:26,114 - DEBUG - SMAs calculadas: Rápida=97730.0950, Lenta=89633.1694
+2025-07-09 23:52:26,114 - DEBUG - RSI: 74.80
+2025-07-09 23:52:26,114 - DEBUG - MACD: 4106.6203, Signal: 3624.7309
+2025-07-09 23:52:26,114 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 991.96. Posição aberta: False.
+2025-07-09 23:52:26,121 - DEBUG - SMAs calculadas: Rápida=98206.4625, Lenta=89955.4684
+2025-07-09 23:52:26,121 - DEBUG - RSI: 72.92
+2025-07-09 23:52:26,121 - DEBUG - MACD: 4046.2332, Signal: 3709.0313
+2025-07-09 23:52:26,121 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 991.96. Posição aberta: False.
+2025-07-09 23:52:26,129 - DEBUG - SMAs calculadas: Rápida=98662.7140, Lenta=90292.5592
+2025-07-09 23:52:26,129 - DEBUG - RSI: 69.87
+2025-07-09 23:52:26,129 - DEBUG - MACD: 3973.2234, Signal: 3761.8697
+2025-07-09 23:52:26,129 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 991.96. Posição aberta: False.
+2025-07-09 23:52:26,137 - DEBUG - SMAs calculadas: Rápida=99104.5090, Lenta=90617.1970
+2025-07-09 23:52:26,137 - DEBUG - RSI: 68.07
+2025-07-09 23:52:26,137 - DEBUG - MACD: 3846.8265, Signal: 3778.8611
+2025-07-09 23:52:26,137 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 991.96. Posição aberta: False.
+2025-07-09 23:52:26,145 - DEBUG - SMAs calculadas: Rápida=99573.3765, Lenta=90991.2424
+2025-07-09 23:52:26,145 - DEBUG - RSI: 70.76
+2025-07-09 23:52:26,145 - DEBUG - MACD: 3677.0560, Signal: 3758.5001
+2025-07-09 23:52:26,145 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 991.96. Posição aberta: False.
+2025-07-09 23:52:26,153 - DEBUG - SMAs calculadas: Rápida=100145.5305, Lenta=91467.3568
+2025-07-09 23:52:26,153 - DEBUG - RSI: 81.61
+2025-07-09 23:52:26,153 - DEBUG - MACD: 3767.5916, Signal: 3760.3184
+2025-07-09 23:52:26,153 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 991.96. Posição aberta: False.
+2025-07-09 23:52:26,160 - DEBUG - SMAs calculadas: Rápida=100711.3765, Lenta=91931.0318
+2025-07-09 23:52:26,160 - DEBUG - RSI: 77.54
+2025-07-09 23:52:26,160 - DEBUG - MACD: 3725.3476, Signal: 3753.3242
+2025-07-09 23:52:26,160 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 991.96. Posição aberta: False.
+2025-07-09 23:52:26,169 - DEBUG - SMAs calculadas: Rápida=101345.2760, Lenta=92417.0314
+2025-07-09 23:52:26,170 - DEBUG - RSI: 76.56
+2025-07-09 23:52:26,170 - DEBUG - MACD: 3751.6054, Signal: 3752.9805
+2025-07-09 23:52:26,170 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 991.96. Posição aberta: False.
+2025-07-09 23:52:26,174 - DEBUG - SMAs calculadas: Rápida=102002.9800, Lenta=92906.7444
+2025-07-09 23:52:26,174 - DEBUG - RSI: 79.39
+2025-07-09 23:52:26,174 - DEBUG - MACD: 3952.3076, Signal: 3792.8459
+2025-07-09 23:52:26,174 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 991.96. Posição aberta: False.
+2025-07-09 23:52:26,183 - DEBUG - SMAs calculadas: Rápida=102743.4335, Lenta=93490.3428
+2025-07-09 23:52:26,183 - DEBUG - RSI: 74.41
+2025-07-09 23:52:26,183 - DEBUG - MACD: 4228.2223, Signal: 3879.9212
+2025-07-09 23:52:26,183 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 991.96. Posição aberta: False.
+2025-07-09 23:52:26,190 - DEBUG - SMAs calculadas: Rápida=103316.5275, Lenta=93972.4470
+2025-07-09 23:52:26,190 - DEBUG - RSI: 60.17
+2025-07-09 23:52:26,190 - DEBUG - MACD: 4046.9749, Signal: 3913.3319
+2025-07-09 23:52:26,190 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 991.96. Posição aberta: False.
+2025-07-09 23:52:26,197 - DEBUG - SMAs calculadas: Rápida=103990.7420, Lenta=94449.8878
+2025-07-09 23:52:26,197 - DEBUG - RSI: 57.39
+2025-07-09 23:52:26,197 - DEBUG - MACD: 3894.2403, Signal: 3909.5136
+2025-07-09 23:52:26,197 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 991.96. Posição aberta: False.
+2025-07-09 23:52:26,205 - DEBUG - SMAs calculadas: Rápida=104704.2675, Lenta=94959.2118
+2025-07-09 23:52:26,205 - DEBUG - RSI: 61.90
+2025-07-09 23:52:26,205 - DEBUG - MACD: 3829.2968, Signal: 3893.4702
+2025-07-09 23:52:26,205 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 991.96. Posição aberta: False.
+2025-07-09 23:52:26,212 - DEBUG - SMAs calculadas: Rápida=105334.3060, Lenta=95579.3076
+2025-07-09 23:52:26,212 - DEBUG - RSI: 66.92
+2025-07-09 23:52:26,212 - DEBUG - MACD: 3769.1264, Signal: 3868.6015
+2025-07-09 23:52:26,212 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 991.96. Posição aberta: False.
+2025-07-09 23:52:26,220 - DEBUG - SMAs calculadas: Rápida=105929.6895, Lenta=96174.8062
+2025-07-09 23:52:26,220 - DEBUG - RSI: 62.85
+2025-07-09 23:52:26,220 - DEBUG - MACD: 3639.4149, Signal: 3822.7642
+2025-07-09 23:52:26,220 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 991.96. Posição aberta: False.
+2025-07-09 23:52:26,228 - DEBUG - SMAs calculadas: Rápida=106155.6985, Lenta=96803.9934
+2025-07-09 23:52:26,229 - DEBUG - RSI: 61.03
+2025-07-09 23:52:26,229 - DEBUG - MACD: 3404.0666, Signal: 3739.0246
+2025-07-09 23:52:26,229 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 991.96. Posição aberta: False.
+2025-07-09 23:52:26,236 - DEBUG - SMAs calculadas: Rápida=106286.5865, Lenta=97263.4840
+2025-07-09 23:52:26,236 - DEBUG - RSI: 54.29
+2025-07-09 23:52:26,236 - DEBUG - MACD: 3006.0213, Signal: 3592.4240
+2025-07-09 23:52:26,236 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 991.96. Posição aberta: False.
+2025-07-09 23:52:26,244 - DEBUG - SMAs calculadas: Rápida=106245.3840, Lenta=97751.0476
+2025-07-09 23:52:26,244 - DEBUG - RSI: 51.15
+2025-07-09 23:52:26,244 - DEBUG - MACD: 2531.9299, Signal: 3380.3252
+2025-07-09 23:52:26,244 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 991.96. Posição aberta: False.
+2025-07-09 23:52:26,252 - DEBUG - SMAs calculadas: Rápida=106269.0780, Lenta=98174.4084
+2025-07-09 23:52:26,253 - DEBUG - RSI: 53.20
+2025-07-09 23:52:26,253 - DEBUG - MACD: 2180.0107, Signal: 3140.2623
+2025-07-09 23:52:26,253 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 991.96. Posição aberta: False.
+2025-07-09 23:52:26,257 - DEBUG - SMAs calculadas: Rápida=106411.6585, Lenta=98581.7290
+2025-07-09 23:52:26,257 - DEBUG - RSI: 48.03
+2025-07-09 23:52:26,257 - DEBUG - MACD: 1963.2915, Signal: 2904.8681
+2025-07-09 23:52:26,257 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 991.96. Posição aberta: False.
+2025-07-09 23:52:26,267 - DEBUG - SMAs calculadas: Rápida=106499.3720, Lenta=99023.6888
+2025-07-09 23:52:26,267 - DEBUG - RSI: 50.71
+2025-07-09 23:52:26,267 - DEBUG - MACD: 1788.2793, Signal: 2681.5503
+2025-07-09 23:52:26,267 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 991.96. Posição aberta: False.
+2025-07-09 23:52:26,275 - DEBUG - SMAs calculadas: Rápida=106592.8255, Lenta=99439.3950
+2025-07-09 23:52:26,275 - DEBUG - RSI: 46.15
+2025-07-09 23:52:26,275 - DEBUG - MACD: 1592.4039, Signal: 2463.7211
+2025-07-09 23:52:26,275 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 991.96. Posição aberta: False.
+2025-07-09 23:52:26,281 - DEBUG - SMAs calculadas: Rápida=106639.4830, Lenta=99860.4524
+2025-07-09 23:52:26,281 - DEBUG - RSI: 35.47
+2025-07-09 23:52:26,281 - DEBUG - MACD: 1366.5458, Signal: 2244.2860
+2025-07-09 23:52:26,281 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 991.96. Posição aberta: False.
+2025-07-09 23:52:26,288 - DEBUG - SMAs calculadas: Rápida=106541.7220, Lenta=100210.0184
+2025-07-09 23:52:26,288 - DEBUG - RSI: 21.96
+2025-07-09 23:52:26,288 - DEBUG - MACD: 919.6906, Signal: 1979.3669
+2025-07-09 23:52:26,288 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 991.96. Posição aberta: False.
+2025-07-09 23:52:26,296 - DEBUG - SMAs calculadas: Rápida=106599.8115, Lenta=100596.8290
+2025-07-09 23:52:26,296 - DEBUG - RSI: 40.86
+2025-07-09 23:52:26,296 - DEBUG - MACD: 780.8567, Signal: 1739.6649
+2025-07-09 23:52:26,296 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 991.96. Posição aberta: False.
+2025-07-09 23:52:26,303 - DEBUG - SMAs calculadas: Rápida=106554.7060, Lenta=101018.3782
+2025-07-09 23:52:26,303 - DEBUG - RSI: 43.65
+2025-07-09 23:52:26,303 - DEBUG - MACD: 763.9939, Signal: 1544.5307
+2025-07-09 23:52:26,303 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 991.96. Posição aberta: False.
+2025-07-09 23:52:26,311 - DEBUG - SMAs calculadas: Rápida=106562.7190, Lenta=101431.5180
+2025-07-09 23:52:26,311 - DEBUG - RSI: 39.99
+2025-07-09 23:52:26,311 - DEBUG - MACD: 756.5824, Signal: 1386.9410
+2025-07-09 23:52:26,311 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 991.96. Posição aberta: False.
+2025-07-09 23:52:26,320 - DEBUG - SMAs calculadas: Rápida=106733.3705, Lenta=101933.1936
+2025-07-09 23:52:26,321 - DEBUG - RSI: 52.03
+2025-07-09 23:52:26,321 - DEBUG - MACD: 1103.4429, Signal: 1330.2414
+2025-07-09 23:52:26,321 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 991.96. Posição aberta: False.
+2025-07-09 23:52:26,324 - DEBUG - SMAs calculadas: Rápida=106764.8905, Lenta=102388.3568
+2025-07-09 23:52:26,324 - DEBUG - RSI: 53.35
+2025-07-09 23:52:26,324 - DEBUG - MACD: 1363.5319, Signal: 1336.8995
+2025-07-09 23:52:26,324 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 991.96. Posição aberta: False.
+2025-07-09 23:52:26,336 - DEBUG - SMAs calculadas: Rápida=106612.3360, Lenta=102692.3994
+2025-07-09 23:52:26,337 - DEBUG - RSI: 52.11
+2025-07-09 23:52:26,337 - DEBUG - MACD: 1421.7963, Signal: 1353.8789
+2025-07-09 23:52:26,337 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 991.96. Posição aberta: False.
+2025-07-09 23:52:26,340 - DEBUG - SMAs calculadas: Rápida=106530.0075, Lenta=102932.0124
+2025-07-09 23:52:26,340 - DEBUG - RSI: 50.19
+2025-07-09 23:52:26,340 - DEBUG - MACD: 1214.0487, Signal: 1325.9128
+2025-07-09 23:52:26,340 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 991.96. Posição aberta: False.
+2025-07-09 23:52:26,353 - DEBUG - SMAs calculadas: Rápida=106445.2415, Lenta=103173.7348
+2025-07-09 23:52:26,353 - DEBUG - RSI: 55.21
+2025-07-09 23:52:26,353 - DEBUG - MACD: 1068.9469, Signal: 1274.5196
+2025-07-09 23:52:26,353 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 991.96. Posição aberta: False.
+2025-07-09 23:52:26,358 - DEBUG - SMAs calculadas: Rápida=106265.7640, Lenta=103389.2540
+2025-07-09 23:52:26,358 - DEBUG - RSI: 52.05
+2025-07-09 23:52:26,358 - DEBUG - MACD: 891.0741, Signal: 1197.8305
+2025-07-09 23:52:26,358 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 991.96. Posição aberta: False.
+2025-07-09 23:52:26,368 - DEBUG - SMAs calculadas: Rápida=106073.7250, Lenta=103608.5742
+2025-07-09 23:52:26,368 - DEBUG - RSI: 49.87
+2025-07-09 23:52:26,368 - DEBUG - MACD: 755.8691, Signal: 1109.4383
+2025-07-09 23:52:26,369 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 991.96. Posição aberta: False.
+2025-07-09 23:52:26,373 - DEBUG - SMAs calculadas: Rápida=105966.5430, Lenta=103869.4788
+2025-07-09 23:52:26,373 - DEBUG - RSI: 52.32
+2025-07-09 23:52:26,373 - DEBUG - MACD: 737.0933, Signal: 1034.9693
+2025-07-09 23:52:26,373 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 991.96. Posição aberta: False.
+2025-07-09 23:52:26,381 - DEBUG - SMAs calculadas: Rápida=105805.0125, Lenta=104060.2786
+2025-07-09 23:52:26,382 - DEBUG - RSI: 48.12
+2025-07-09 23:52:26,382 - DEBUG - MACD: 535.0255, Signal: 934.9805
+2025-07-09 23:52:26,383 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 991.96. Posição aberta: False.
+2025-07-09 23:52:26,387 - DEBUG - SMAs calculadas: Rápida=105769.8640, Lenta=104272.8778
+2025-07-09 23:52:26,387 - DEBUG - RSI: 50.44
+2025-07-09 23:52:26,387 - DEBUG - MACD: 397.3855, Signal: 827.4615
+2025-07-09 23:52:26,387 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 991.96. Posição aberta: False.
+2025-07-09 23:52:26,397 - DEBUG - SMAs calculadas: Rápida=105803.5195, Lenta=104482.6096
+2025-07-09 23:52:26,397 - DEBUG - RSI: 58.47
+2025-07-09 23:52:26,397 - DEBUG - MACD: 266.8160, Signal: 715.3324
+2025-07-09 23:52:26,397 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 991.96. Posição aberta: False.
+2025-07-09 23:52:26,403 - DEBUG - SMAs calculadas: Rápida=105738.8250, Lenta=104618.7712
+2025-07-09 23:52:26,403 - DEBUG - RSI: 47.12
+2025-07-09 23:52:26,403 - DEBUG - MACD: 52.9395, Signal: 582.8538
+2025-07-09 23:52:26,403 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 991.96. Posição aberta: False.
+2025-07-09 23:52:26,411 - DEBUG - SMAs calculadas: Rápida=105562.6790, Lenta=104723.4286
+2025-07-09 23:52:26,411 - DEBUG - RSI: 39.96
+2025-07-09 23:52:26,411 - DEBUG - MACD: -209.2008, Signal: 424.4429
+2025-07-09 23:52:26,411 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 991.96. Posição aberta: False.
+2025-07-09 23:52:26,419 - DEBUG - SMAs calculadas: Rápida=105317.9730, Lenta=104825.5776
+2025-07-09 23:52:26,419 - DEBUG - RSI: 36.80
+2025-07-09 23:52:26,419 - DEBUG - MACD: -504.4250, Signal: 238.6693
+2025-07-09 23:52:26,419 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 991.96. Posição aberta: False.
+2025-07-09 23:52:26,427 - DEBUG - SMAs calculadas: Rápida=105315.8250, Lenta=105046.7038
+2025-07-09 23:52:26,427 - DEBUG - RSI: 36.24
+2025-07-09 23:52:26,427 - DEBUG - MACD: -381.3689, Signal: 114.6617
+2025-07-09 23:52:26,427 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 991.96. Posição aberta: False.
+2025-07-09 23:52:26,436 - DEBUG - SMAs calculadas: Rápida=105385.1320, Lenta=105273.6902
+2025-07-09 23:52:26,437 - DEBUG - RSI: 38.76
+2025-07-09 23:52:26,437 - DEBUG - MACD: -220.8564, Signal: 47.5581
+2025-07-09 23:52:26,438 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 991.96. Posição aberta: False.
+2025-07-09 23:52:26,442 - DEBUG - SMAs calculadas: Rápida=105676.7270, Lenta=105483.8214
+2025-07-09 23:52:26,442 - DEBUG - RSI: 46.43
+2025-07-09 23:52:26,442 - DEBUG - MACD: 7.7380, Signal: 39.5940
+2025-07-09 23:52:26,442 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 991.96. Posição aberta: False.
+2025-07-09 23:52:26,452 - DEBUG - SMAs calculadas: Rápida=105809.6580, Lenta=105682.1526
+2025-07-09 23:52:26,452 - DEBUG - RSI: 54.06
+2025-07-09 23:52:26,452 - DEBUG - MACD: 155.3560, Signal: 62.7464
+2025-07-09 23:52:26,453 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 991.96. Posição aberta: False.
+2025-07-09 23:52:26,457 - DEBUG - SMAs calculadas: Rápida=105884.4300, Lenta=105757.8724
+2025-07-09 23:52:26,457 - DEBUG - RSI: 53.18
+2025-07-09 23:52:26,457 - DEBUG - MACD: 277.2602, Signal: 105.6492
+2025-07-09 23:52:26,457 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 991.96. Posição aberta: False.
+2025-07-09 23:52:26,466 - DEBUG - SMAs calculadas: Rápida=105962.5695, Lenta=105844.3684
+2025-07-09 23:52:26,467 - DEBUG - RSI: 56.27
+2025-07-09 23:52:26,467 - DEBUG - MACD: 389.4887, Signal: 162.4171
+2025-07-09 23:52:26,467 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 991.96. Posição aberta: False.
+2025-07-09 23:52:26,473 - DEBUG - SMAs calculadas: Rápida=105867.2650, Lenta=105915.3164
+2025-07-09 23:52:26,473 - DEBUG - RSI: 58.70
+2025-07-09 23:52:26,473 - DEBUG - MACD: 557.5480, Signal: 241.4433
+2025-07-09 23:52:26,473 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 991.96. Posição aberta: False.
+2025-07-09 23:52:26,480 - DEBUG - SMAs calculadas: Rápida=105710.8705, Lenta=105975.8864
+2025-07-09 23:52:26,480 - DEBUG - RSI: 51.11
+2025-07-09 23:52:26,480 - DEBUG - MACD: 586.3060, Signal: 310.4158
+2025-07-09 23:52:26,482 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 991.96. Posição aberta: False.
+2025-07-09 23:52:26,488 - DEBUG - SMAs calculadas: Rápida=105562.6715, Lenta=106033.6828
+2025-07-09 23:52:26,488 - DEBUG - RSI: 53.74
+2025-07-09 23:52:26,488 - DEBUG - MACD: 485.2609, Signal: 345.3848
+2025-07-09 23:52:26,488 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 991.96. Posição aberta: False.
+2025-07-09 23:52:26,496 - DEBUG - SMAs calculadas: Rápida=105721.5650, Lenta=106128.6004
+2025-07-09 23:52:26,497 - DEBUG - RSI: 61.04
+2025-07-09 23:52:26,497 - DEBUG - MACD: 653.3190, Signal: 406.9717
+2025-07-09 23:52:26,497 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 991.96. Posição aberta: False.
+2025-07-09 23:52:26,504 - DEBUG - SMAs calculadas: Rápida=105897.4745, Lenta=106250.1396
+2025-07-09 23:52:26,504 - DEBUG - RSI: 63.35
+2025-07-09 23:52:26,504 - DEBUG - MACD: 836.1902, Signal: 492.8154
+2025-07-09 23:52:26,504 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 991.96. Posição aberta: False.
+2025-07-09 23:52:26,511 - DEBUG - SMAs calculadas: Rápida=106025.9545, Lenta=106334.5502
+2025-07-09 23:52:26,511 - DEBUG - RSI: 62.53
+2025-07-09 23:52:26,511 - DEBUG - MACD: 842.2576, Signal: 562.7038
+2025-07-09 23:52:26,511 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 991.96. Posição aberta: False.
+2025-07-09 23:52:26,518 - DEBUG - SMAs calculadas: Rápida=106156.1600, Lenta=106429.2346
+2025-07-09 23:52:26,518 - DEBUG - RSI: 67.14
+2025-07-09 23:52:26,518 - DEBUG - MACD: 854.4746, Signal: 621.0580
+2025-07-09 23:52:26,518 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 991.96. Posição aberta: False.
+2025-07-09 23:52:26,527 - DEBUG - SMAs calculadas: Rápida=106276.6255, Lenta=106550.7784
+2025-07-09 23:52:26,527 - DEBUG - RSI: 73.44
+2025-07-09 23:52:26,527 - DEBUG - MACD: 934.5371, Signal: 683.7538
+2025-07-09 23:52:26,529 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 991.96. Posição aberta: False.
+2025-07-09 23:52:26,536 - DEBUG - SMAs calculadas: Rápida=106462.2140, Lenta=106586.9520
+2025-07-09 23:52:26,536 - DEBUG - RSI: 60.35
+2025-07-09 23:52:26,537 - DEBUG - MACD: 911.5566, Signal: 729.3144
+2025-07-09 23:52:26,537 - DEBUG - Nenhum sinal de compra para BTCUSDT no momento. Capital: 991.96. Posição aberta: False.
+2025-07-09 23:52:26,540 - DEBUG - SMAs calculadas: Rápida=106664.0240, Lenta=106653.9368
+2025-07-09 23:52:26,540 - DEBUG - RSI: 60.10
+2025-07-09 23:52:26,540 - DEBUG - MACD: 935.8165, Signal: 770.6148
+2025-07-09 23:52:26,540 - INFO - [Backtest] Simulando COMPRA de BTCUSDT em 108922.9800 USDT. Qtd: 0.0009
+2025-07-09 23:52:26,544 - INFO - [Backtest - Sinal de Compra] Cruzamento altista SMA COM FILTROS para BTCUSDT. Comprando.
+2025-07-09 23:52:26,545 - INFO - [Backtest] COMPRA EXECUTADA: 0.0009 BTCUSDT @ 108922.9800. Capital restante: 891.96
+2025-07-09 23:52:26,552 - DEBUG - SMAs calculadas: Rápida=106992.7940, Lenta=106741.6168
+2025-07-09 23:52:26,552 - DEBUG - RSI: 62.88
+2025-07-09 23:52:26,552 - DEBUG - MACD: 1128.5131, Signal: 842.1945
+2025-07-09 23:52:26,552 - INFO - Backtest concluído. Gerando relatório...
+2025-07-09 23:52:26,553 - INFO - 
+--- Relatório de Backtest ---
+2025-07-09 23:52:26,553 - INFO - Capital Inicial: 1000.00 USDT
+2025-07-09 23:52:26,553 - INFO - Capital Final: 891.96 USDT
+2025-07-09 23:52:26,554 - INFO - Lucro/Prejuízo Total: -8.04 USDT
+2025-07-09 23:52:26,554 - INFO - Número Total de Trades: 2
+2025-07-09 23:52:26,554 - INFO - Trades Vencedores: 0
+2025-07-09 23:52:26,554 - INFO - Trades Perdedores: 2
+2025-07-09 23:52:26,555 - INFO - Win Rate: 0.00%
+2025-07-09 23:52:26,556 - INFO - Loss Rate: 100.00%
+2025-07-09 23:52:26,556 - INFO - Lucro Bruto: 0.00 USDT
+2025-07-09 23:52:26,556 - INFO - Prejuízo Bruto: -8.04 USDT
+2025-07-09 23:52:26,557 - INFO - Lucro Médio por Trade Vencedor: 0.00 USDT
+2025-07-09 23:52:26,557 - INFO - Prejuízo Médio por Trade Perdedor: -4.02 USDT
+2025-07-09 23:52:26,557 - INFO - Profit Factor: 0.00
+2025-07-09 23:52:26,557 - INFO - Risk/Reward Ratio: 0.00
+2025-07-09 23:52:26,557 - INFO - Max Drawdown: 0.00%
+2025-07-09 23:52:26,558 - INFO - Drawdown Duration (Máx): 0.00 dias
