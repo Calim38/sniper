@@ -79,3 +79,19 @@ TypeError: cannot unpack non-iterable NoneType object
 2025-07-14 19:29:11,668 - INFO - Nenhuma modificação nas posições neste ciclo.
 2025-07-14 19:29:11,668 - INFO - --- Ciclo de Verificação Concluído. Aguardando 60 segundos ---
 2025-07-14 19:29:16,043 - INFO - Bot encerrado pelo usuário (Ctrl+C).
+2025-07-15 20:36:59,136 - INFO - Modo de Operação: TESTNET
+2025-07-15 20:36:59,136 - INFO - Base URL: https://api.binance.com/api/v3
+2025-07-15 20:36:59,136 - INFO - --- Bot Iniciado ---
+2025-07-15 20:36:59,136 - INFO - BinanceClient inicializado com base URL: https://testnet.binance.vision
+2025-07-15 20:36:59,136 - INFO - Estratégia de Trading inicializada.
+2025-07-15 20:36:59,136 - INFO - --- Ciclo de Verificação Iniciado ---
+2025-07-15 20:37:00,316 - INFO - Saldo de USDT obtido: 10000.0000
+2025-07-15 20:37:00,317 - INFO - Posições atualmente rastreadas: []
+2025-07-15 20:37:00,317 - INFO - Saldo USDT disponível: 10000.0000
+2025-07-15 20:37:00,318 - INFO - Analisando símbolo: BTCUSDT
+2025-07-15 20:37:01,237 - INFO - Analisando símbolo: ETHUSDT
+2025-07-15 20:37:01,929 - INFO - Analisando símbolo: LTCUSDT
+2025-07-15 20:37:02,591 - INFO - Sinais de compra potenciais encontrados (ordenados por score): []
+2025-07-15 20:37:02,592 - INFO - Nenhuma modificação nas posições neste ciclo.
+2025-07-15 20:37:02,592 - INFO - --- Ciclo de Verificação Concluído. Aguardando 60 segundos ---
+2025-07-15 20:37:05,788 - INFO - Bot encerrado pelo usuário (Ctrl+C).
