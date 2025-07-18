@@ -184,3 +184,24 @@ class BinanceClient:
             return response_data
         logging.error(f"Erro ao cancelar ordem {orderId} para {symbol}: {response_data}")
         return None
+
+    def get_usdt_pairs(self, min_volume_24h=1000000):
+        """Obtém a lista de todos os pares USDT negociáveis na Binance com volume mínimo."""
+        path = "/api/v3/ticker/24hr"
+        url = f"{self.base_url}{path}"
+        try:
+            response = requests.get(url)
+            response.raise_for_status()
+            data = response.json()
+            usdt_pairs = [
+                item['symbol'] for item in data
+                if item['symbol'].endswith('USDT') and float(item['quoteVolume']) >= min_volume_24h
+            ]
+            logging.info(f"Encontrados {len(usdt_pairs)} pares USDT com volume >= {min_volume_24h}.")
+            return usdt_pairs
+        except requests.exceptions.RequestException as e:
+            logging.error(f"Erro ao obter pares USDT da Binance: {e}")
+            return []
+        except Exception as e:
+            logging.error(f"Erro inesperado ao processar pares USDT: {e}")
+            return []

@@ -1,0 +1,192 @@
+[
+    {
+        "symbol": "TRXUSDT",
+        "entry_price": 0.3155,
+        "close_price": 0.3228,
+        "quantity": 316.95721077654514,
+        "entry_time": 1752796800000,
+        "close_time": 1752805907082,
+        "reason": "RSI Sobrecomprado",
+        "profit_loss": 2.313787638668771
+    },
+    {
+        "symbol": "OPUSDT",
+        "entry_price": 0.709,
+        "close_price": 0.748,
+        "quantity": 141.04372355430183,
+        "entry_time": 1752774900000,
+        "close_time": 1752807607600,
+        "reason": "RSI Sobrecomprado",
+        "profit_loss": 5.500705218617776
+    },
+    {
+        "symbol": "PARTIUSDT",
+        "entry_price": 0.1841,
+        "close_price": 0.1904,
+        "quantity": 543.1830526887561,
+        "entry_time": 1752796800000,
+        "close_time": 1752807613942,
+        "reason": "RSI Sobrecomprado",
+        "profit_loss": 3.4220532319391634
+    },
+    {
+        "symbol": "AMPUSDT",
+        "entry_price": 0.004012,
+        "close_price": 0.004135,
+        "quantity": 24925.224327018943,
+        "entry_time": 1752796800000,
+        "close_time": 1752809950473,
+        "reason": "RSI Sobrecomprado",
+        "profit_loss": 3.065802592223326
+    },
+    {
+        "symbol": "SSVUSDT",
+        "entry_price": 10.17,
+        "close_price": 11.19,
+        "quantity": 9.83284169124877,
+        "entry_time": 1752796800000,
+        "close_time": 1752816325879,
+        "reason": "Take-Profit atingido",
+        "profit_loss": 10.029498525073741
+    },
+    {
+        "symbol": "PORTALUSDT",
+        "entry_price": 0.056,
+        "close_price": 0.0609,
+        "quantity": 1785.7142857142858,
+        "entry_time": 1752796800000,
+        "close_time": 1752817058223,
+        "reason": "RSI Sobrecomprado",
+        "profit_loss": 8.750000000000004
+    },
+    {
+        "symbol": "TKOUSDT",
+        "entry_price": 0.1616,
+        "close_price": 0.1695,
+        "quantity": 618.8118811881188,
+        "entry_time": 1752796800000,
+        "close_time": 1752818429154,
+        "reason": "RSI Sobrecomprado",
+        "profit_loss": 4.88861386138615
+    },
+    {
+        "symbol": "LQTYUSDT",
+        "entry_price": 1.342,
+        "close_price": 1.479,
+        "quantity": 74.51564828614009,
+        "entry_time": 1752796800000,
+        "close_time": 1752820752954,
+        "reason": "Take-Profit atingido",
+        "profit_loss": 10.208643815201194
+    },
+    {
+        "symbol": "FDUSDUSDT",
+        "entry_price": 0.9978,
+        "close_price": 0.9973,
+        "quantity": 100.22048506714772,
+        "entry_time": 1752820200000,
+        "close_time": 1752822134153,
+        "reason": "RSI Sobrecomprado",
+        "profit_loss": -0.050110242533579465
+    },
+    {
+        "symbol": "PENGUUSDT",
+        "entry_price": 0.030966,
+        "close_price": 0.029598,
+        "quantity": 3229.3483175095266,
+        "entry_time": 1752814800000,
+        "close_time": 1752827830278,
+        "reason": "Trailing Stop atingido",
+        "profit_loss": -4.417748498353036
+    },
+    {
+        "symbol": "HMSTRUSDT",
+        "entry_price": 0.000899,
+        "close_price": 0.000905,
+        "quantity": 111234.70522803115,
+        "entry_time": 1752796800000,
+        "close_time": 1752828317230,
+        "reason": "Trailing Stop atingido",
+        "profit_loss": 0.667408231368191
+    },
+    {
+        "symbol": "THEUSDT",
+        "entry_price": 0.429,
+        "close_price": 0.4141,
+        "quantity": 233.1002331002331,
+        "entry_time": 1752807600000,
+        "close_time": 1752833117796,
+        "reason": "Trailing Stop atingido",
+        "profit_loss": -3.473193473193466
+    },
+    {
+        "symbol": "EIGENUSDT",
+        "entry_price": 1.518,
+        "close_price": 1.54,
+        "quantity": 65.87615283267458,
+        "entry_time": 1752796800000,
+        "close_time": 1752833838940,
+        "reason": "Trailing Stop atingido",
+        "profit_loss": 1.449275362318842
+    },
+    {
+        "symbol": "NFPUSDT",
+        "entry_price": 0.0806,
+        "close_price": 0.0812,
+        "quantity": 1240.6947890818858,
+        "entry_time": 1752796800000,
+        "close_time": 1752833998400,
+        "reason": "Trailing Stop atingido",
+        "profit_loss": 0.7444168734491183
+    },
+    {
+        "symbol": "TAOUSDT",
+        "entry_price": 419.8,
+        "close_price": 415.1,
+        "quantity": 0.23820867079561694,
+        "entry_time": 1752796800000,
+        "close_time": 1752833999845,
+        "reason": "Trailing Stop atingido",
+        "profit_loss": -1.1195807527393968
+    },
+    {
+        "symbol": "HAEDALUSDT",
+        "entry_price": 0.2109,
+        "close_price": 0.2089,
+        "quantity": 474.15836889521097,
+        "entry_time": 1752809400000,
+        "close_time": 1752834005659,
+        "reason": "Trailing Stop atingido",
+        "profit_loss": -0.9483167377904228
+    },
+    {
+        "symbol": "REZUSDT",
+        "entry_price": 0.01377,
+        "close_price": 0.01389,
+        "quantity": 7262.164124909224,
+        "entry_time": 1752774000000,
+        "close_time": 1752834815326,
+        "reason": "Trailing Stop atingido",
+        "profit_loss": 0.8714596949891091
+    },
+    {
+        "symbol": "ALGOUSDT",
+        "entry_price": 0.3191,
+        "close_price": 0.3028,
+        "quantity": 313.38138514572233,
+        "entry_time": 1752818400000,
+        "close_time": 1752837733497,
+        "reason": "Stop-Loss atingido",
+        "profit_loss": -5.108116577875268
+    },
+    {
+        "symbol": "USUALUSDT",
+        "entry_price": 0.0915,
+        "close_price": 0.0922,
+        "quantity": 1092.896174863388,
+        "entry_time": 1752796800000,
+        "close_time": 1752837907535,
+        "reason": "Trailing Stop atingido",
+        "profit_loss": 0.7650273224043784
+    }
+]

@@ -1,0 +1,182 @@
+{
+    "USDCUSDT": {
+        "symbol": "USDCUSDT",
+        "entry_price": 0.9996,
+        "bought_quantity": 100.04001600640255,
+        "entry_time": 1752773640000,
+        "order_id": "SIMULATED_BUY_1752773640000",
+        "current_high": 0.9996,
+        "last_price_checked": 0.9996
+    },
+    "BMTUSDT": {
+        "symbol": "BMTUSDT",
+        "entry_price": 0.0848,
+        "bought_quantity": 1179.245283018868,
+        "entry_time": 1752796800000,
+        "order_id": "SIMULATED_BUY_1752796800000",
+        "current_high": 0.0866,
+        "last_price_checked": 0.0848
+    },
+    "RESOLVUSDT": {
+        "symbol": "RESOLVUSDT",
+        "entry_price": 0.1511,
+        "bought_quantity": 661.8133686300463,
+        "entry_time": 1752796800000,
+        "order_id": "SIMULATED_BUY_1752796800000",
+        "current_high": 0.1593,
+        "last_price_checked": 0.1511
+    },
+    "COWUSDT": {
+        "symbol": "COWUSDT",
+        "entry_price": 0.4391,
+        "bought_quantity": 227.7385561375541,
+        "entry_time": 1752796800000,
+        "order_id": "SIMULATED_BUY_1752796800000",
+        "current_high": 0.4525,
+        "last_price_checked": 0.4391
+    },
+    "AUCTIONUSDT": {
+        "symbol": "AUCTIONUSDT",
+        "entry_price": 10.85,
+        "bought_quantity": 9.216589861751153,
+        "entry_time": 1752796800000,
+        "order_id": "SIMULATED_BUY_1752796800000",
+        "current_high": 11.29,
+        "last_price_checked": 10.85
+    },
+    "SEIUSDT": {
+        "symbol": "SEIUSDT",
+        "entry_price": 0.3461,
+        "bought_quantity": 288.93383415197917,
+        "entry_time": 1752796800000,
+        "order_id": "SIMULATED_BUY_1752796800000",
+        "current_high": 0.3716,
+        "last_price_checked": 0.3461
+    },
+    "BANANAS31USDT": {
+        "symbol": "BANANAS31USDT",
+        "entry_price": 0.007345,
+        "bought_quantity": 13614.703880190606,
+        "entry_time": 1752805800000,
+        "order_id": "SIMULATED_BUY_1752805800000",
+        "current_high": 0.007447,
+        "last_price_checked": 0.007345
+    },
+    "WUSDT": {
+        "symbol": "WUSDT",
+        "entry_price": 0.0941,
+        "bought_quantity": 1062.6992561105208,
+        "entry_time": 1752807600000,
+        "order_id": "SIMULATED_BUY_1752807600000",
+        "current_high": 0.0961,
+        "last_price_checked": 0.0941
+    },
+    "FXSUSDT": {
+        "symbol": "FXSUSDT",
+        "entry_price": 3.308,
+        "bought_quantity": 30.22974607013301,
+        "entry_time": 1752816600000,
+        "order_id": "SIMULATED_BUY_1752816600000",
+        "current_high": 3.504,
+        "last_price_checked": 3.308
+    },
+    "XLMUSDT": {
+        "symbol": "XLMUSDT",
+        "entry_price": 0.4976,
+        "bought_quantity": 200.96463022508038,
+        "entry_time": 1752822000000,
+        "order_id": "SIMULATED_BUY_1752822000000",
+        "current_high": 0.4976,
+        "last_price_checked": 0.4976
+    },
+    "FARMUSDT": {
+        "symbol": "FARMUSDT",
+        "entry_price": 29.5,
+        "bought_quantity": 3.389830508474576,
+        "entry_time": 1752827400000,
+        "order_id": "SIMULATED_BUY_1752827400000",
+        "current_high": 29.5,
+        "last_price_checked": 29.5
+    },
+    "ARPAUSDT": {
+        "symbol": "ARPAUSDT",
+        "entry_price": 0.02352,
+        "bought_quantity": 4251.700680272109,
+        "entry_time": 1752827400000,
+        "order_id": "SIMULATED_BUY_1752827400000",
+        "current_high": 0.02372,
+        "last_price_checked": 0.02352
+    },
+    "DEXEUSDT": {
+        "symbol": "DEXEUSDT",
+        "entry_price": 8.027,
+        "bought_quantity": 12.457954403886882,
+        "entry_time": 1752832800000,
+        "order_id": "SIMULATED_BUY_1752832800000",
+        "current_high": 8.043,
+        "last_price_checked": 8.027
+    },
+    "EURUSDT": {
+        "symbol": "EURUSDT",
+        "entry_price": 1.1631,
+        "bought_quantity": 85.97713008339781,
+        "entry_time": 1752832800000,
+        "order_id": "SIMULATED_BUY_1752832800000",
+        "current_high": 1.1639,
+        "last_price_checked": 1.1631
+    },
+    "FDUSDUSDT": {
+        "symbol": "FDUSDUSDT",
+        "entry_price": 0.9977,
+        "bought_quantity": 100.23053021950486,
+        "entry_time": 1752832800000,
+        "order_id": "SIMULATED_BUY_1752832800000",
+        "current_high": 0.9977,
+        "last_price_checked": 0.9977
+    },
+    "LISTAUSDT": {
+        "symbol": "LISTAUSDT",
+        "entry_price": 0.2782,
+        "bought_quantity": 359.45363048166786,
+        "entry_time": 1752832800000,
+        "order_id": "SIMULATED_BUY_1752832800000",
+        "current_high": 0.2782,
+        "last_price_checked": 0.2782
+    },
+    "EDUUSDT": {
+        "symbol": "EDUUSDT",
+        "entry_price": 0.1578,
+        "bought_quantity": 633.7135614702155,
+        "entry_time": 1752832800000,
+        "order_id": "SIMULATED_BUY_1752832800000",
+        "current_high": 0.158,
+        "last_price_checked": 0.1578
+    },
+    "JASMYUSDT": {
+        "symbol": "JASMYUSDT",
+        "entry_price": 0.01762,
+        "bought_quantity": 5675.368898978433,
+        "entry_time": 1752834600000,
+        "order_id": "SIMULATED_BUY_1752834600000",
+        "current_high": 0.01762,
+        "last_price_checked": 0.01762
+    },
+    "RPLUSDT": {
+        "symbol": "RPLUSDT",
+        "entry_price": 8.02,
+        "bought_quantity": 12.468827930174564,
+        "entry_time": 1752836400000,
+        "order_id": "SIMULATED_BUY_1752836400000",
+        "current_high": 8.02,
+        "last_price_checked": 8.02
+    },
+    "FUNUSDT": {
+        "symbol": "FUNUSDT",
+        "entry_price": 0.019663,
+        "bought_quantity": 5085.693942938514,
+        "entry_time": 1752836400000,
+        "order_id": "SIMULATED_BUY_1752836400000",
+        "current_high": 0.019663,
+        "last_price_checked": 0.019663
+    }
+}
